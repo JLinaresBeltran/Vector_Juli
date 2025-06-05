@@ -1,6 +1,8 @@
 import os
 import re
+import json
 from typing import List, Dict, Any
+from datetime import datetime
 from dotenv import load_dotenv
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings
@@ -12,75 +14,28 @@ load_dotenv()
 # Configuración de Supabase
 supabase_url = os.environ.get("SUPABASE_URL")
 supabase_key = os.environ.get("SUPABASE_SERVICE_KEY")
+
+if not supabase_url or not supabase_key:
+    raise ValueError("❌ SUPABASE_URL y SUPABASE_SERVICE_KEY deben estar configurados en el archivo .env")
+
 supabase = create_client(supabase_url, supabase_key)
 
 # Configuración de OpenAI para embeddings
 openai_api_key = os.environ.get("OPENAI_API_KEY")
+
+if not openai_api_key:
+    raise ValueError("❌ OPENAI_API_KEY debe estar configurado en el archivo .env")
+
 embeddings = OpenAIEmbeddings(openai_api_key=openai_api_key)
 
 class RAC160Processor:
-    def __init__(self, text: str):
+    def __init__(self, text: str, file_name: str = "rac160.txt", creator: str = "System"):
         self.raw_text = text
         self.processed_chunks = []
+        self.file_name = file_name
+        self.creator = creator
         self.current_section_hierarchy = {}
         
-    def extract_tags_from_section(self, section_text: str, section_title: str) -> List[str]:
-        """Extraer tags relevantes de la sección para búsquedas."""
-        tags = []
-        
-        # Tags basados en el título de la sección
-        if section_title:
-            # Convertir a minúsculas y dividir en palabras
-            title_words = re.findall(r'\b[a-záéíóúñ]+\b', section_title.lower())
-            # Filtrar palabras comunes y muy cortas
-            stopwords = ['para', 'los', 'las', 'del', 'con', 'por', 'que', 'una', 'son', 'será', 'serán', 'sobre', 'desde', 'hasta']
-            tags.extend([word for word in title_words if len(word) > 3 and word not in stopwords])
-        
-        # Tags basados en palabras clave específicas del RAC 160 (seguridad aviación civil)
-        keywords = [
-            'seguridad', 'aviación', 'aeropuerto', 'aeronave', 'pasajero', 'tripulación',
-            'inspección', 'control', 'acceso', 'equipaje', 'carga', 'correo', 'filtros',
-            'interferencia', 'ilícita', 'amenaza', 'riesgo', 'evaluación', 'vulnerabilidad',
-            'AVSEC', 'OACI', 'aerocivil', 'zona', 'restringida', 'área', 'pública',
-            'identificación', 'permiso', 'antecedentes', 'verificación', 'certificación',
-            'contingencia', 'emergencia', 'simulacro', 'protocolo', 'procedimiento',
-            'tecnología', 'equipo', 'detector', 'rayos', 'explosivos', 'armas',
-            'instrucción', 'capacitación', 'personal', 'operador', 'explotador',
-            'internacional', 'nacional', 'transbordo', 'tránsito', 'embarque',
-            'plataforma', 'terminal', 'hangar', 'combustible', 'mantenimiento',
-            'diplomático', 'autoridad', 'policía', 'militar', 'migración', 'aduana'
-        ]
-        
-        text_lower = section_text.lower()
-        for keyword in keywords:
-            if keyword in text_lower:
-                tags.append(keyword)
-        
-        # Remover duplicados y retornar máximo 8 tags
-        unique_tags = list(set(tags))
-        return unique_tags[:8]
-    
-    def create_ubicacion_legible(self, jerarquia: Dict[str, Any]) -> str:
-        """Crear una descripción legible de la ubicación en el RAC."""
-        ubicacion_parts = []
-        
-        if jerarquia.get("capitulo"):
-            ubicacion_parts.append(f"Capítulo {jerarquia['capitulo']}")
-        
-        if jerarquia.get("seccion_principal") and jerarquia["seccion_principal"].get("numero"):
-            sec = f"Sección {jerarquia['seccion_principal']['numero']}"
-            if jerarquia['seccion_principal'].get('titulo'):
-                sec += f" - {jerarquia['seccion_principal']['titulo']}"
-            ubicacion_parts.append(sec)
-        
-        if jerarquia.get("subseccion") and jerarquia["subseccion"].get("numero"):
-            subsec = f"Subsección {jerarquia['subseccion']['numero']}"
-            if jerarquia['subseccion'].get('titulo'):
-                subsec += f" - {jerarquia['subseccion']['titulo']}"
-            ubicacion_parts.append(subsec)
-        
-        return " > ".join(ubicacion_parts)
-    
     def split_into_sections(self) -> List[Dict[str, Any]]:
         """Dividir el documento RAC 160 en secciones basadas en la numeración jerárquica."""
         sections = []
@@ -128,6 +83,9 @@ class RAC160Processor:
             # Contar párrafos
             paragraphs = len(re.findall(r'\n\s*\n', section_text))
             
+            # Extraer elementos estructurales del contenido
+            structural_elements = self.extract_structural_elements(section_text)
+            
             section = {
                 "numero": section_num,
                 "titulo": section_title,
@@ -136,13 +94,86 @@ class RAC160Processor:
                 "jerarquia": jerarquia,
                 "tiene_subsecciones_letras": has_letter_subsections,
                 "numero_parrafos": paragraphs,
+                "structural_elements": structural_elements,
                 "start": section_start,
-                "end": section_end
+                "end": section_end,
+                "start_line": self.get_line_number(section_start),
+                "end_line": self.get_line_number(section_end)
             }
             
             sections.append(section)
         
         return sections
+    
+    def extract_structural_elements(self, text: str) -> Dict[str, Any]:
+        """Extraer elementos estructurales del texto (literales, numerales, parágrafos)."""
+        elements = {
+            "literales": [],
+            "numerales": [],
+            "paragrafos": []
+        }
+        
+        # Extraer literales (a), (b), (c), etc.
+        literal_matches = re.findall(r'\(([a-z])\)', text)
+        elements["literales"] = list(set(literal_matches))
+        
+        # Extraer numerales 1., 2., 3., etc.
+        numeral_matches = re.findall(r'^(\d+)\.\s', text, re.MULTILINE)
+        elements["numerales"] = list(set(numeral_matches))
+        
+        # Extraer parágrafos
+        paragrafo_matches = re.findall(r'PARÁGRAFO\.?\s*(\d*)', text, re.IGNORECASE)
+        elements["paragrafos"] = [p for p in paragrafo_matches if p]
+        
+        return elements
+    
+    def get_line_number(self, char_position: int) -> int:
+        """Calcular el número de línea basado en la posición del carácter."""
+        return self.raw_text[:char_position].count('\n') + 1
+    
+    def determine_subsection_elements(self, section: Dict[str, Any], chunk_content: str) -> Dict[str, Any]:
+        """Determinar qué elementos específicos están en este chunk."""
+        elements = {"literal_letra": None, "numeral_numero": None, "paragrafo_numero": None}
+        
+        # Buscar literal específico en el chunk
+        literal_match = re.search(r'\(([a-z])\)', chunk_content)
+        if literal_match:
+            elements["literal_letra"] = literal_match.group(1)
+        
+        # Buscar numeral específico en el chunk
+        numeral_match = re.search(r'^(\d+)\.\s', chunk_content, re.MULTILINE)
+        if numeral_match:
+            elements["numeral_numero"] = numeral_match.group(1)
+        
+        # Buscar parágrafo específico en el chunk
+        paragrafo_match = re.search(r'PARÁGRAFO\.?\s*(\d*)', chunk_content, re.IGNORECASE)
+        if paragrafo_match and paragrafo_match.group(1):
+            elements["paragrafo_numero"] = paragrafo_match.group(1)
+        elif paragrafo_match:
+            elements["paragrafo_numero"] = "1"  # Parágrafo sin número
+        
+        return elements
+    
+    def clean_metadata_for_json(self, metadata: Dict[str, Any]) -> Dict[str, Any]:
+        """Limpiar metadata para evitar errores de serialización JSON."""
+        def clean_value(value):
+            if value is None:
+                return None
+            if isinstance(value, str):
+                return value.strip() if value.strip() else None
+            if isinstance(value, dict):
+                return {k: clean_value(v) for k, v in value.items()}
+            if isinstance(value, list):
+                return [clean_value(v) for v in value if clean_value(v) is not None]
+            return value
+        
+        cleaned = {}
+        for key, value in metadata.items():
+            cleaned_value = clean_value(value)
+            if cleaned_value is not None:
+                cleaned[key] = cleaned_value
+        
+        return cleaned
     
     def clean_section_title(self, title: str) -> str:
         """Limpiar y acortar títulos de sección que sean muy largos."""
@@ -367,97 +398,41 @@ class RAC160Processor:
         
         return section_titles.get(section_num, "")
     
-    def create_chunks_from_sections(self, sections, chunk_size=1200, chunk_overlap=200):
-        """Crear chunks a partir de las secciones identificadas."""
-        for section in sections:
-            section_text = section["texto"]
-            
-            # Extraer tags para la sección
-            tags = self.extract_tags_from_section(section_text, section["titulo"])
-            
-            # Crear ubicación legible
-            ubicacion_legible = self.create_ubicacion_legible(section["jerarquia"])
-            
-            # Decidir si la sección debe dividirse en chunks más pequeños
-            if len(section_text) > chunk_size * 1.8:
-                text_splitter = RecursiveCharacterTextSplitter(
-                    chunk_size=chunk_size,
-                    chunk_overlap=chunk_overlap,
-                    separators=["\n\n", "\n", ". ", " "],
-                    keep_separator=True
-                )
-                chunks = text_splitter.split_text(section_text)
-                
-                for i, chunk in enumerate(chunks):
-                    # Crear metadata específica para RAC 160
-                    metadata = {
-                        "documento": {
-                            "tipo": "reglamento_aeronautico",
-                            "titulo": "Reglamentos Aeronáuticos de Colombia - RAC 160",
-                            "capitulo": section["jerarquia"]["capitulo"]
-                        },
-                        "jerarquia": section["jerarquia"],
-                        "seccion": {
-                            "numero": section["numero"],
-                            "titulo": section["titulo"],
-                            "nivel": section["nivel"]
-                        },
-                        "chunk": {
-                            "es_seccion_completa": False,
-                            "indice_chunk": i + 1,
-                            "total_chunks": len(chunks),
-                            "tamaño_caracteres": len(chunk),
-                            "contiene_subsecciones_letras": section["tiene_subsecciones_letras"]
-                        },
-                        "tags": tags,
-                        "ubicacion_legible": f"{ubicacion_legible} (Parte {i+1} de {len(chunks)})",
-                        "referencias": {
-                            "secciones_relacionadas": [],
-                            "conceptos_clave": tags[:3]
-                        },
-                        "tipo_contenido": self.classify_content_type(section["numero"], section["titulo"])
-                    }
-                    
-                    self.processed_chunks.append({
-                        "content": chunk,
-                        "metadata": metadata
-                    })
-            else:
-                # Si la sección es pequeña, mantenerla como un solo chunk
-                metadata = {
-                    "documento": {
-                        "tipo": "reglamento_aeronautico",
-                        "titulo": "Reglamentos Aeronáuticos de Colombia - RAC 160",
-                        "capitulo": section["jerarquia"]["capitulo"]
-                    },
-                    "jerarquia": section["jerarquia"],
-                    "seccion": {
-                        "numero": section["numero"],
-                        "titulo": section["titulo"],
-                        "nivel": section["nivel"]
-                    },
-                    "chunk": {
-                        "es_seccion_completa": True,
-                        "indice_chunk": 1,
-                        "total_chunks": 1,
-                        "tamaño_caracteres": len(section_text),
-                        "contiene_subsecciones_letras": section["tiene_subsecciones_letras"]
-                    },
-                    "tags": tags,
-                    "ubicacion_legible": ubicacion_legible,
-                    "referencias": {
-                        "secciones_relacionadas": [],
-                        "conceptos_clave": tags[:3]
-                    },
-                    "tipo_contenido": self.classify_content_type(section["numero"], section["titulo"])
-                }
-                
-                self.processed_chunks.append({
-                    "content": section_text,
-                    "metadata": metadata
-                })
+    def extract_tags_from_section(self, section_text: str, section_title: str) -> List[str]:
+        """Extraer tags relevantes de la sección para búsquedas."""
+        tags = []
         
-        return self.processed_chunks
+        # Tags basados en el título de la sección
+        if section_title:
+            # Convertir a minúsculas y dividir en palabras
+            title_words = re.findall(r'\b[a-záéíóúñ]+\b', section_title.lower())
+            # Filtrar palabras comunes y muy cortas
+            stopwords = ['para', 'los', 'las', 'del', 'con', 'por', 'que', 'una', 'son', 'será', 'serán', 'sobre', 'desde', 'hasta']
+            tags.extend([word for word in title_words if len(word) > 3 and word not in stopwords])
+        
+        # Tags basados en palabras clave específicas del RAC 160 (seguridad aviación civil)
+        keywords = [
+            'seguridad', 'aviación', 'aeropuerto', 'aeronave', 'pasajero', 'tripulación',
+            'inspección', 'control', 'acceso', 'equipaje', 'carga', 'correo', 'filtros',
+            'interferencia', 'ilícita', 'amenaza', 'riesgo', 'evaluación', 'vulnerabilidad',
+            'AVSEC', 'OACI', 'aerocivil', 'zona', 'restringida', 'área', 'pública',
+            'identificación', 'permiso', 'antecedentes', 'verificación', 'certificación',
+            'contingencia', 'emergencia', 'simulacro', 'protocolo', 'procedimiento',
+            'tecnología', 'equipo', 'detector', 'rayos', 'explosivos', 'armas',
+            'instrucción', 'capacitación', 'personal', 'operador', 'explotador',
+            'internacional', 'nacional', 'transbordo', 'tránsito', 'embarque',
+            'plataforma', 'terminal', 'hangar', 'combustible', 'mantenimiento',
+            'diplomático', 'autoridad', 'policía', 'militar', 'migración', 'aduana'
+        ]
+        
+        text_lower = section_text.lower()
+        for keyword in keywords:
+            if keyword in text_lower:
+                tags.append(keyword)
+        
+        # Remover duplicados y retornar máximo 8 tags
+        unique_tags = list(set(tags))
+        return unique_tags[:8]
     
     def classify_content_type(self, section_num: str, section_title: str) -> str:
         """Clasificar el tipo de contenido de la sección."""
@@ -501,67 +476,412 @@ class RAC160Processor:
         else:
             return "normativo_general"
     
-    def process_document(self, chunk_size=1200, chunk_overlap=200):
-        """Procesar el documento completo."""
-        # Dividir en secciones
-        sections = self.split_into_sections()
-        print(f"Secciones identificadas: {len(sections)}")
+    def create_ubicacion_legible(self, jerarquia: Dict[str, Any]) -> str:
+        """Crear una descripción legible de la ubicación en el RAC."""
+        ubicacion_parts = ["RAC 160 - Seguridad de la Aviación Civil"]
         
-        # Imprimir resumen de secciones para verificación
-        print("\nResumen de secciones encontradas:")
-        for s in sections[:15]:  # Mostrar primeras 15 secciones
-            print(f"  {s['numero']}: {s['titulo'][:60]}{'...' if len(s['titulo']) > 60 else ''}")
+        if jerarquia.get("capitulo"):
+            ubicacion_parts.append(jerarquia["capitulo"])
         
-        # Crear chunks
-        self.create_chunks_from_sections(sections, chunk_size, chunk_overlap)
-        print(f"\nChunks generados: {len(self.processed_chunks)}")
+        if jerarquia.get("seccion_principal") and jerarquia["seccion_principal"].get("numero"):
+            sec = f"Sección {jerarquia['seccion_principal']['numero']}"
+            if jerarquia['seccion_principal'].get('titulo'):
+                sec += f" - {jerarquia['seccion_principal']['titulo']}"
+            ubicacion_parts.append(sec)
+        
+        if jerarquia.get("subseccion") and jerarquia["subseccion"].get("numero"):
+            subsec = f"Subsección {jerarquia['subseccion']['numero']}"
+            if jerarquia['subseccion'].get('titulo'):
+                subsec += f" - {jerarquia['subseccion']['titulo']}"
+            ubicacion_parts.append(subsec)
+        
+        return " > ".join(ubicacion_parts)
+    
+    def create_standardized_metadata(self, section: Dict[str, Any], chunk_content: str = None,
+                                   chunk_start_line: int = None, chunk_end_line: int = None) -> Dict[str, Any]:
+        """Crear metadata estandarizada compatible con LangChain."""
+        
+        now = datetime.now().isoformat()
+        
+        # Determinar elementos específicos del chunk si se proporciona
+        specific_elements = {"literal_letra": None, "numeral_numero": None, "paragrafo_numero": None}
+        if chunk_content:
+            specific_elements = self.determine_subsection_elements(section, chunk_content)
+        
+        # Para subsecciones (ej: 160.1045.1), usar como numeral_numero
+        section_parts = section["numero"].split('.')
+        subsection_number = None
+        if len(section_parts) > 2:  # Es una subsección como 160.1045.1
+            subsection_number = '.'.join(section_parts[2:])
+        
+        # Asegurar que file_extension no sea vacío
+        file_ext = os.path.splitext(self.file_name)[1]
+        if not file_ext:
+            file_ext = ".txt"
+        
+        # Construir nombre del capítulo basado en la jerarquía
+        capitulo_nombre = section["jerarquia"].get("capitulo", "SEGURIDAD DE LA AVIACIÓN CIVIL")
+        capitulo_numero = "A"  # Valor por defecto
+        
+        # Intentar extraer número del capítulo desde el nombre
+        if capitulo_nombre:
+            cap_match = re.match(r'^([A-Z]+)\s*-', capitulo_nombre)
+            if cap_match:
+                capitulo_numero = cap_match.group(1)
+        
+        # Crear metadata base estandarizada
+        metadata = {
+            "loc": {
+                "lines": {
+                    "from": chunk_start_line or section["start_line"],
+                    "to": chunk_end_line or section["end_line"]
+                }
+            },
+            "line": chunk_start_line or section["start_line"],
+            "source": "file",
+            "creator": self.creator or "System",
+            "version": "v1",
+            "blobType": "text/plain",
+            "id_legal": "RAC160",
+            "file_name": self.file_name or "rac160.txt",
+            "created_at": now,
+            "last_modified": now,
+            "file_extension": file_ext,
+            "tipo_documento": "Reglamentos Aeronauticos",
+            "articulo_numero": section["numero"],  # ← SECCIÓN del RAC 160 (ej: "160.515", "160.1045")
+            "capitulo_nombre": capitulo_nombre,
+            "capitulo_numero": capitulo_numero
+        }
+        
+        # Agregar campos opcionales solo si tienen valor
+        if specific_elements["literal_letra"]:
+            metadata["literal_letra"] = specific_elements["literal_letra"]
+        
+        if specific_elements["numeral_numero"] or subsection_number:
+            metadata["numeral_numero"] = specific_elements["numeral_numero"] or subsection_number
+        
+        if specific_elements["paragrafo_numero"]:
+            metadata["paragrafo_numero"] = specific_elements["paragrafo_numero"]
+        
+        # Campos específicos del RAC 160 (información adicional)
+        if chunk_content:
+            # Extraer información específica de seguridad de aviación civil
+            tags = self.extract_tags_from_section(chunk_content, section["titulo"])
+            tipo_contenido = self.classify_content_type(section["numero"], section["titulo"])
+            ubicacion_legible = self.create_ubicacion_legible(section["jerarquia"])
+            
+            if tags:
+                metadata["tags_seguridad"] = tags
+            if tipo_contenido:
+                metadata["tipo_contenido"] = tipo_contenido
+            if ubicacion_legible:
+                metadata["ubicacion_legible"] = ubicacion_legible
+            
+            # Información sobre el nivel jerárquico
+            metadata["nivel_jerarquico"] = section["nivel"]
+            
+            # Información sobre elementos estructurales
+            if section["tiene_subsecciones_letras"]:
+                metadata["tiene_subsecciones_letras"] = True
+        
+        # Limpiar metadata antes de retornar
+        return self.clean_metadata_for_json(metadata)
+    
+    def create_chunks_from_sections(self, sections: List[Dict[str, Any]], 
+                                  chunk_size: int = 1200, 
+                                  chunk_overlap: int = 200) -> List[Dict[str, Any]]:
+        """Crear chunks a partir de las secciones identificadas."""
+        
+        for section in sections:
+            section_text = section["texto"]
+            
+            # Decidir si dividir la sección
+            if len(section_text) > chunk_size * 1.8:
+                text_splitter = RecursiveCharacterTextSplitter(
+                    chunk_size=chunk_size,
+                    chunk_overlap=chunk_overlap,
+                    separators=["\n\n", "\n", ". ", " "],
+                    keep_separator=True
+                )
+                chunks = text_splitter.split_text(section_text)
+                
+                for i, chunk in enumerate(chunks):
+                    # Calcular líneas aproximadas para cada chunk
+                    lines_per_chunk = max(1, len(section_text.split('\n')) // len(chunks))
+                    chunk_start_line = section["start_line"] + (i * lines_per_chunk)
+                    chunk_end_line = chunk_start_line + chunk.count('\n') + 1
+                    
+                    metadata = self.create_standardized_metadata(
+                        section, 
+                        chunk_content=chunk,
+                        chunk_start_line=chunk_start_line,
+                        chunk_end_line=chunk_end_line
+                    )
+                    
+                    self.processed_chunks.append({
+                        "content": chunk,
+                        "metadata": metadata
+                    })
+            else:
+                # Sección completa como un solo chunk
+                metadata = self.create_standardized_metadata(section, section_text)
+                
+                self.processed_chunks.append({
+                    "content": section_text,
+                    "metadata": metadata
+                })
         
         return self.processed_chunks
     
-    def vectorize_and_store(self):
-        """Generar embeddings y almacenar en Supabase."""
+    def process_document(self, chunk_size: int = 1200, chunk_overlap: int = 200) -> List[Dict[str, Any]]:
+        """Procesar el documento completo."""
+        # Dividir en secciones
+        sections = self.split_into_sections()
+        print(f"Secciones RAC 160 identificadas: {len(sections)}")
+        
+        # Mostrar muestra de secciones encontradas
+        if sections:
+            print("\nMuestra de secciones encontradas:")
+            for s in sections[:5]:
+                print(f"  {s['numero']}: {s['titulo'][:60]}{'...' if len(s['titulo']) > 60 else ''}")
+        
+        # Crear chunks
+        self.create_chunks_from_sections(sections, chunk_size, chunk_overlap)
+        print(f"Chunks generados: {len(self.processed_chunks)}")
+        
+        return self.processed_chunks
+    
+    def vectorize_and_store(self, table_name: str = "transporte_aereo"):
+        """Generar embeddings y almacenar en Supabase usando estructura compatible con LangChain."""
         total_chunks = len(self.processed_chunks)
         
+        if total_chunks == 0:
+            print("❌ No hay chunks para procesar")
+            return
+        
+        print(f"📊 Iniciando vectorización de {total_chunks} chunks del RAC 160...")
+        
+        # Verificar conexión a Supabase
+        try:
+            test_result = supabase.table(table_name).select("count", count="exact").limit(1).execute()
+            print(f"✅ Conexión a tabla '{table_name}' exitosa")
+        except Exception as e:
+            print(f"❌ Error de conexión a Supabase: {e}")
+            return
+        
+        successful_inserts = 0
+        failed_inserts = 0
+        
         for i, chunk in enumerate(self.processed_chunks, 1):
-            # Generar el embedding
-            embedding_vector = embeddings.embed_query(chunk["content"])
-            
-            # Almacenar en Supabase
             try:
-                result = supabase.table("transporte_aereo").insert({
-                    "content": chunk["content"],
+                # Validar contenido del chunk
+                if not chunk.get("content") or not chunk.get("metadata"):
+                    print(f"⚠️  Chunk {i} inválido: contenido o metadata faltante")
+                    failed_inserts += 1
+                    continue
+                
+                # Generar el embedding
+                try:
+                    embedding_vector = embeddings.embed_query(chunk["content"])
+                except Exception as embed_error:
+                    print(f"❌ Error generando embedding para chunk {i}: {embed_error}")
+                    failed_inserts += 1
+                    continue
+                
+                # Validar embedding
+                if not embedding_vector or len(embedding_vector) == 0:
+                    print(f"⚠️  Embedding vacío para chunk {i}")
+                    failed_inserts += 1
+                    continue
+                
+                # Preparar datos para insertar
+                data = {
+                    "content": str(chunk["content"]),
                     "metadata": chunk["metadata"],
                     "embedding": embedding_vector
-                }).execute()
+                }
                 
-                seccion_num = chunk['metadata']['seccion']['numero']
-                print(f"[{i}/{total_chunks}] Chunk de la sección {seccion_num} almacenado correctamente")
+                # Almacenar en Supabase
+                result = supabase.table(table_name).insert(data).execute()
+                
+                # Verificar que la inserción fue exitosa
+                if result.data:
+                    seccion_num = chunk['metadata'].get('articulo_numero', 'N/A')
+                    successful_inserts += 1
+                    if i % 10 == 0 or i == total_chunks:
+                        print(f"📝 [{i}/{total_chunks}] RAC 160 - Sección {seccion_num} ✅")
+                else:
+                    print(f"⚠️  Chunk {i}: inserción sin datos de retorno")
+                    failed_inserts += 1
+                
             except Exception as e:
-                print(f"Error al almacenar chunk {i}/{total_chunks}: {e}")
-                
-        print(f"Procesamiento completado. {len(self.processed_chunks)} chunks generados y almacenados.")
+                print(f"❌ Error al almacenar chunk {i}/{total_chunks}: {str(e)}")
+                if i <= 3:
+                    print(f"   📋 Metadata del chunk problemático: {chunk.get('metadata', {}).keys()}")
+                    print(f"   📄 Longitud del contenido: {len(chunk.get('content', ''))}")
+                failed_inserts += 1
+                continue
+        
+        # Resumen final
+        print(f"\n🎯 Resumen del procesamiento RAC 160:")
+        print(f"   ✅ Chunks exitosos: {successful_inserts}")
+        print(f"   ❌ Chunks fallidos: {failed_inserts}")
+        print(f"   📊 Total procesados: {total_chunks}")
+        
+        if successful_inserts > 0:
+            print(f"✅ RAC 160 procesado. {successful_inserts} chunks almacenados en '{table_name}'.")
+        else:
+            print(f"❌ No se pudo almacenar ningún chunk. Revisar configuración de Supabase.")
+        
+        return {"successful": successful_inserts, "failed": failed_inserts, "total": total_chunks}
 
-def process_file(file_path):
-    """Procesa un archivo de texto del RAC 160 y lo vectoriza en Supabase."""
-    # Leer el archivo
-    with open(file_path, "r", encoding="utf-8") as f:
-        document_text = f.read()
+def verify_or_create_table(table_name: str = "transporte_aereo"):
+    """Verificar que la tabla existe, si no, mostrar instrucciones para crearla."""
+    try:
+        result = supabase.table(table_name).select("count", count="exact").limit(1).execute()
+        print(f"✅ Tabla '{table_name}' verificada correctamente")
+        return True
+    except Exception as e:
+        print(f"❌ Error accediendo a la tabla '{table_name}': {e}")
+        print(f"\n🔧 Para crear la tabla '{table_name}', ejecuta este SQL en Supabase:")
+        print(f"""
+-- Habilitar la extensión vector
+CREATE EXTENSION IF NOT EXISTS vector;
+
+-- Crear tabla para LangChain
+CREATE TABLE IF NOT EXISTS {table_name} (
+  id bigserial primary key,
+  content text,
+  metadata jsonb,
+  embedding vector(1536)  -- 1536 para OpenAI embeddings
+);
+
+-- Crear función de búsqueda para LangChain
+CREATE OR REPLACE FUNCTION match_documents_{table_name} (
+  query_embedding vector(1536),
+  match_count int DEFAULT NULL,
+  filter jsonb DEFAULT '{{}}'
+) RETURNS TABLE (
+  id bigint,
+  content text,
+  metadata jsonb,
+  similarity float
+)
+LANGUAGE plpgsql
+AS $$
+#variable_conflict use_column
+BEGIN
+  RETURN query
+  SELECT
+    id,
+    content,
+    metadata,
+    1 - ({table_name}.embedding <=> query_embedding) as similarity
+  FROM {table_name}
+  WHERE metadata @> filter
+  ORDER BY {table_name}.embedding <=> query_embedding
+  LIMIT match_count;
+END;
+$$;
+
+-- Crear índice para mejorar performance
+CREATE INDEX IF NOT EXISTS {table_name}_embedding_idx ON {table_name} 
+USING ivfflat (embedding vector_cosine_ops) WITH (lists = 100);
+
+-- Crear índice para metadata
+CREATE INDEX IF NOT EXISTS {table_name}_metadata_idx ON {table_name} USING GIN (metadata);
+        """)
+        return False
+
+def process_file(file_path: str, table_name: str = "transporte_aereo", creator: str = "System"):
+    """Procesar archivo del RAC 160 y vectorizar en Supabase."""
+    print(f"📄 Procesando RAC 160: {file_path}")
+    
+    # Verificar que la tabla existe
+    if not verify_or_create_table(table_name):
+        print("❌ No se puede continuar sin la tabla. Crear la tabla primero.")
+        return
+    
+    # Verificar que el archivo existe
+    if not os.path.exists(file_path):
+        print(f"❌ Archivo no encontrado: {file_path}")
+        return
+    
+    try:
+        # Leer el archivo
+        with open(file_path, "r", encoding="utf-8") as f:
+            document_text = f.read()
+        
+        if not document_text.strip():
+            print(f"❌ Archivo vacío: {file_path}")
+            return
+            
+        print(f"📊 Archivo leído: {len(document_text)} caracteres")
+        
+    except Exception as e:
+        print(f"❌ Error leyendo archivo {file_path}: {e}")
+        return
+    
+    # Obtener nombre del archivo
+    file_name = os.path.basename(file_path)
     
     # Crear el procesador
-    processor = RAC160Processor(document_text)
+    processor = RAC160Processor(document_text, file_name, creator)
     
     # Procesar el documento
-    processor.process_document(chunk_size=1200, chunk_overlap=200)
+    chunks = processor.process_document(chunk_size=1200, chunk_overlap=200)
+    
+    if not chunks:
+        print("❌ No se generaron chunks del documento")
+        return
     
     # Vectorizar y almacenar
-    processor.vectorize_and_store()
+    result = processor.vectorize_and_store(table_name)
+    
+    return result
+
+def test_configuration():
+    """Probar la configuración antes de procesar documentos."""
+    print("🔧 Verificando configuración...")
+    
+    try:
+        # Test OpenAI
+        test_embedding = embeddings.embed_query("test")
+        print(f"✅ OpenAI API: OK (dimensión: {len(test_embedding)})")
+    except Exception as e:
+        print(f"❌ OpenAI API: Error - {e}")
+        return False
+    
+    try:
+        # Test Supabase - intentar conectar
+        result = supabase.auth.get_session()
+        print("✅ Supabase conexión: OK")
+    except Exception as e:
+        print(f"⚠️  Supabase auth test: {e} (normal si usas service key)")
+    
+    return True
 
 if __name__ == "__main__":
     import sys
     
+    # Verificar configuración antes de procesar
+    if not test_configuration():
+        print("❌ Error en la configuración. Verificar variables de entorno.")
+        sys.exit(1)
+    
     if len(sys.argv) > 1:
         file_path = sys.argv[1]
-        process_file(file_path)
+        table_name = sys.argv[2] if len(sys.argv) > 2 else "transporte_aereo"
+        creator = sys.argv[3] if len(sys.argv) > 3 else "System"
+        process_file(file_path, table_name, creator)
     else:
-        # Si no se proporciona un archivo, usar el archivo predeterminado
-        process_file("rac160.txt")
+        print("📋 Uso: python vectorizador_rac160.py <archivo> [tabla] [creator]")
+        print("📋 Ejemplo: python vectorizador_rac160.py rac160.txt transporte_aereo Jhonathan")
+        
+        # Si no se proporciona un archivo, usar el archivo predeterminado si existe
+        default_file = "rac160.txt"
+        if os.path.exists(default_file):
+            print(f"🔄 Usando archivo por defecto: {default_file}")
+            process_file(default_file, "transporte_aereo", "System")
+        else:
+            print(f"❌ Archivo por defecto '{default_file}' no encontrado.")
