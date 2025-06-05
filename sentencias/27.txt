@@ -1,0 +1,122 @@
+ANÁLISIS DE SENTENCIA 4501 DEL 28/04/2022
+Tema Jurídico
+Cuestión jurídica central: Aplicación del derecho de retracto en contratos de transporte aéreo
+durante la emergencia sanitaria por Covid-19 y la validez del reembolso mediante servicios (vouchers)
+en lugar de dinero en efectivo conforme al Decreto Legislativo 482 de 2020.
+Subtemas jurídicos:
+1. Alcance del derecho de retracto en el contrato de transporte aéreo
+2. Formas de reembolso admisibles durante la emergencia sanitaria (efectivo vs. servicios)
+3. Aplicación temporal del Decreto 482 de 2020 como normativa especial
+4. Legitimación en la causa por activa cuando el comprador de tiquetes no es el titular de los mismos
+5. Términos para el cumplimiento de la obligación de reembolso
+Ratio Decidendi
+Durante el período de emergencia sanitaria por Covid-19, las aerolíneas podían realizar reembolsos en
+servicios prestados por la misma compañía (vouchers o equivalentes) en lugar de dinero en efectivo,
+cuando el consumidor ejercía el derecho de retracto, conforme a lo establecido en el artículo 17 del
+Decreto 482 de 2020, como medida excepcional para mitigar los efectos económicos de la pandemia
+en el sector aéreo.
+Sin embargo, aun bajo este régimen excepcional, la aerolínea debía efectuar la entrega de dichos
+vouchers o equivalentes dentro de los términos establecidos en el Estatuto del Consumidor, para no
+incurrir en v
+ulneración de los derechos del consumidor.
+Datos Básicos
+Número de radicado: 21-422534
+Fecha de la sentencia: 28/04/2022
+Autoridad judicial: Superintendencia de Industria y Comercio - Delegatura para Asuntos
+Jurisdiccionales
+Juez: Fredy Alexander Pérez Ramírez
+Partes involucradas:
+Demandante: Andrés Espinosa Pulecio
+Demandado: Aerovías del Continente Americano S.A. Avianca
+Tipo de acción: Acción de Protección al Consumidor
+Hechos Clave
+1. El 26 y 27 de mayo de 2021, el demandante adquirió tiquetes aéreos identificados con los números
+134-2499153283 por valor de $2.553.560 y 134-2499179280 por valor de $2.551.420, para un
+total de $5.104.980.
+2. Los tiquetes adquiridos estaban a nombre de Ana Espinosa y Angela Henao, pero f
+ueron
+comprados por el demandante Andrés Espinosa Pulecio.
+3. El 28 de mayo de 2021, el demandante ejerció el derecho de retracto, dentro del término legal de 5
+días hábiles.
+4. La aerolínea no efectuó el reembolso solicitado por el consumidor.
+5. El 13 de septiembre de 2021, el demandante presentó reclamación directa ante la aerolínea, quien
+guardó silencio.
+6. El demandante interpuso acción de protección al consumidor solicitando la devolución del dinero.
+7. En la contestación, la aerolínea aceptó la procedencia del derecho de retracto y manifestó su
+intención de entregar una tarjeta UATP redimible en servicios de la aerolínea, conforme al Decreto
+482 de 2020.
+Fundamentos Jurídicos
+Artículo 47 de la Ley 1480 de 2011 (Estatuto del Consumidor): Establece el derecho de
+retracto en contratos celebrados mediante métodos no tradicionales o a distancia, y dispone que
+"se deberá reintegrar el dinero que el consumidor hubiese pagado."
+Artículo 17 del Decreto Legislativo 482 de 2020: "En los eventos en que las aerolíneas reciban
+solicitudes de retracto, desistimiento y otras circunstancias relacionadas con la solicitud de
+reembolso, podrán realizar, durante el periodo que dure la emergencia y hasta por un año más,
+reembolsos a los usuarios en servicios prestados por la misma aerolínea."
+Artículo 5 (numeral 3) de la Ley 1480 de 2011: Define al consumidor como "toda persona
+natural o jurídica que, como destinatario final, adquiera, disfrute o utilice un determinado producto,
+cualquiera que sea su naturaleza para la satisfacción de una necesidad propia, privada, familiar o
+doméstica y empresarial cuando no esté ligada intrínsecamente a su actividad económica."
+Artículos 5, 7, 8, 10, 11 y 18 de la Ley 1480 de 2011: Establecen la obligación de garantía de los
+productores y proveedores respecto a la calidad, idoneidad, seguridad y buen estado de los
+productos que comercialicen.
+Artículo 58 (numeral 11) de la Ley 1480 de 2011: Prevé sanciones por incumplimiento de
+órdenes judiciales, incluyendo multas y cierre temporal del establecimiento.
+Consideraciones Principales
+El Despacho reconoció la legitimación por activa del demandante como consumidor, a pesar de
+que los tiquetes estaban a nombre de terceros, considerando que f
+ue él quien realizó la compra
+como destinatario final.
+Se confirmó que el ejercicio del derecho de retracto f
+ue oportuno y
+válido, habiéndose efectuado
+dentro del término de 5 días hábiles establecido por la ley.
+El tribunal consideró que, dada la situación excepcional generada por la pandemia de Covid-19,
+debía aplicarse la normativa especial contenida en el Decreto 482 de 2020, que permitía a las
+aerolíneas realizar reembolsos en servicios (vouchers) en lugar de dinero en efectivo.
+Se evaluó que tanto la adquisición de los tiquetes como el ejercicio del derecho de retracto
+ocurrieron durante la vigencia del Decreto 482 de 2020, por lo que resultaba aplicable este
+régimen excepcional.
+El Despacho encontró que la aerolínea no demostró haber entregado efectivamente las tarjetas
+UATP al consumidor dentro del término legal, v
+ulnerando así los derechos del consumidor.
+El tribunal acogió parcialmente la excepción denominada "AVIANCA se allana a reembolsar el valor
+de los tiquetes aéreos conforme a la norma especial aplicable al caso", en cuanto reconoció la
+validez del reembolso mediante servicios conforme al Decreto 482 de 2020, pero declaró la
+ulneración por no haber efectuado dicho reembolso oportunamente.
+Se rechazó la excepción denominada "Ausencia de daño o perjuicio indemnizable", por cuanto en
+la demanda no se solicitaron perjuicios y la aerolínea no demostró haber cumplido con la entrega
+de las tarjetas UATP dentro del término legal.
+Decisión
+1. Se declaró que Aerovías del Continente Americano S.A. Avianca v
+ulneró los derechos del
+consumidor.
+2. Se ordenó a la aerolínea entregar un Travel Voucher o su equivalente por valor de $5.104.980
+dentro de los 10 días hábiles siguientes a la ejecutoria de la providencia.
+3. Se estableció que dicho voucher debía tener vigencia por el periodo que durara la emergencia
+sanitaria y hasta por un año más.
+4. Se ordenó que el voucher debía ser remitido vía correo electrónico al demandante.
+5. Se ordenó al demandante informar al Despacho sobre el cumplimiento o incumplimiento de la
+orden dentro de los 30 días hábiles siguientes.
+6. Se advirtió que el retraso en el cumplimiento causaría una multa equivalente a una séptima parte
+del salario mínimo legal mensual vigente por cada día de retardo.
+v
+7. Se señaló que el incumplimiento persistente podría resultar en el cierre temporal del
+establecimiento de comercio.
+8. No se condenó en costas.
+Precedente Establecido
+Esta sentencia establece un importante precedente sobre la aplicación del Decreto 482 de 2020 en
+casos de ejercicio del derecho de retracto durante la emergencia sanitaria por Covid-19. Confirma que:
+1. Las aerolíneas podían válidamente, en aplicación de la normativa especial, realizar reembolsos
+mediante servicios prestados por la misma compañía (vouchers o equivalentes) en lugar de dinero
+en efectivo, como medida excepcional para mitigar los efectos económicos de la pandemia en el
+sector aéreo.
+2. Sin embargo, aun bajo este régimen excepcional, subsistía la obligación de efectuar dicho
+reembolso (ya sea en efectivo o mediante servicios según el caso) dentro de los términos legales
+establecidos en el Estatuto del Consumidor.
+3. El incumplimiento de estos términos constituye v
+ulneración de los derechos del consumidor y da
+lugar a la orden judicial de realizar el reembolso en la forma establecida por la normativa aplicable,
+así como a posibles sanciones adicionales.
+4. Se reconoce la legitimación del comprador de tiquetes aéreos como consumidor, aun cuando los
+tiquetes estén a nombre de terceros, siempre que actúe como destinatario final del servicio.

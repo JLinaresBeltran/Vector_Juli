@@ -1,0 +1,142 @@
+Análisis Jurídico - Sentencia 4413 de 2023
+Tema Jurídico
+Aplicación del desistimiento y el derecho de retracto en contratos de transporte aéreo durante la
+emergencia sanitaria por COVID-19, con énfasis en el derecho de elección del consumidor frente a las
+formas de reembolso impuestas unilateralmente por las aerolíneas y agencias de viaje.
+Subtemas Jurídicos
+1. Jerarquía normativa entre los Reglamentos Aeronáuticos de Colombia y el Estatuto del
+Consumidor
+2. Alcance del desistimiento en contratos de transporte aéreo y sus efectos económicos
+3. Impacto de las medidas excepcionales durante la emergencia sanitaria sobre los derechos del
+consumidor
+4. Limitaciones al derecho de las aerolíneas a determinar unilateralmente las formas de reembolso
+5. Protección del derecho de elección del consumidor en situaciones de f
+uerza mayor
+Ratio Decidendi
+El consumidor tiene derecho a recibir el reembolso del dinero pagado por servicios no prestados,
+incluso durante situaciones de emergencia como la pandemia del COVID-19. Si bien el artículo 17 del
+Decreto Legislativo 482 de 2020 establece que "En los eventos en que las aerolíneas reciban
+solicitudes de retracto, desistimiento y otras circunstancias relacionadas con la solicitud de
+reembolso, podrán realizar, durante el periodo que dure la emergencia y hasta por un año más,
+reembolsos a los usuarios en servicios prestados por la misma aerolínea", esta facultad no elimina el
+derecho de elección del consumidor.
+Conforme a lo establecido por la Corte Constitucional en las sentencias C-208 de 2020 y C-402 de
+2020, "el verbo rector 'podrán' incluido en el artículo 04 del decreto legislativo para autorizar
+reembolsos a los consumidores con otros servicios turísticos, garantiza el derecho de elección, que es
+una auténtica prerrogativa de los consumidores." Por tanto, resulta contrario al Estatuto del
+Consumidor que un proveedor asigne unilateralmente al consumidor que el reembolso se realice a
+través de bonos o travel vouchers.
+En consecuencia, prevalece el derecho del consumidor a recibir la devolución del dinero pagado por
+un servicio que no se prestó, independientemente de las medidas excepcionales adoptadas durante el
+estado de emergencia.
+Datos Básicos
+Número de radicado: 21-406868
+Fecha de la sentencia: 17/05/2023
+Autoridad judicial: Superintendencia de Industria y Comercio - Delegatura para Asuntos
+Jurisdiccionales
+Juez: Jenny Carolina Uscátegui Álvarez
+Partes involucradas:
+Demandante: Esteban Celis Muñoz
+Demandada: Despegar Colombia S.A.S.
+Tipo de acción: Acción de Protección al Consumidor
+Hechos Clave
+1. El 21 de febrero de 2020, el demandante adquirió un v
+uelo ida y
+uelta Medellín-Barcelona
+(reserva 555239118600) por valor de $3.072.315 a través del sitio web
+www.despegar.com.co,
+operado por Air Europa.
+2. El 9 de junio de 2020, Air Europa informó una reprogramación mayor en el v
+uelo, dejando los
+boletos "OPEN" para uso f
+uturo.
+3. El 21 de julio de 2020, el demandante solicitó cambio de fechas para viajar del 1 al 26 de junio de
+2021, cambio que f
+ue confirmado sin cobros adicionales.
+4. El 8 de febrero de 2021, Air Europa notificó otra reprogramación, quedando el v
+uelo del 3 al 26 de
+junio de 2021.
+5. El 21 de mayo de 2021, el demandante solicitó apertura de boleto para uso f
+uturo, lo cual f
+ue
+confirmado el 22 de mayo de 2021.
+6. El demandante argumentó que no pudo viajar debido a restricciones por COVID-19, pues no
+estaba vacunado (por no estar habilitadas las vacunas para su edad en Colombia en ese
+momento) y en Europa no le permitían ingresar sin vacunación.
+7. Los días 25 de mayo, 2 de junio y 10 de octubre de 2021, el demandante solicitó modificar fechas
+del v
+uelo, pero no aceptó las alternativas propuestas que implicaban pagos adicionales.
+v
+Fundamentos Jurídicos
+Convenio sobre Aviación Civil Internacional de 7 de diciembre de 1944 (artículos 11 y 12):
+Establece los principios generales de la aplicación de las reglamentaciones aéreas.
+Ley 12 de 1947: Mediante la cual Colombia ratificó el Convenio sobre Aviación Civil Internacional.
+Artículo 1782 del Código de Comercio: Otorga potestad reglamentaria a la Unidad
+Administrativa Especial de Aeronáutica Civil.
+Artículo 3.10.1.8.1 de los Reglamentos Aeronáuticos de Colombia: Regula el derecho de
+desistimiento, estableciendo que "el pasajero podrá desistir del viaje antes de su iniciación, dando
+aviso al transportador o a la agencia de viajes con al menos veinticuatro (24) horas de antelación a
+la realización del v
+uelo."
+Artículo 3.10.1.8.2 de los Reglamentos Aeronáuticos de Colombia: Regula el derecho de
+retracto en los contratos para la prestación del servicio de transporte aéreo.
+Artículo 2, inciso 2, de la Ley 1480 de 2011: Establece la aplicación supletoria del Estatuto del
+Consumidor en sectores con regulación especial.
+Artículo 47 de la Ley 1480 de 2011: Regula el derecho de retracto en la contratación general.
+Artículo 17 del Decreto 482 de 2020: Establece medidas excepcionales durante la emergencia
+sanitaria para reembolsos de tiquetes aéreos.
+Sentencias C-208 de 2020 y C-402 de 2020 de la Corte Constitucional: Interpretación del
+derecho de elección de los consumidores durante la emergencia sanitaria.
+Consideraciones Principales
+1. Jerarquía normativa y aplicación de regulaciones especiales: El tribunal reconoce la
+prevalencia de las normas especiales aeronáuticas (RAC) sobre el Estatuto del Consumidor, pero
+destaca que este último aplica de manera supletoria en lo no regulado específicamente por las
+normas especiales.
+2. Diferencia entre desistimiento y retracto: La sentencia explica las diferencias entre ambas
+figuras jurídicas, destacando que el desistimiento puede realizarse con 24 horas de antelación al
+uelo, mientras que el retracto aplica específicamente para ventas efectuadas a través de
+métodos no tradicionales como internet.
+3. Efectos del Decreto 482 de 2020: El tribunal aclara que este decreto no derogó las
+disposiciones f
+undamentales sobre retracto y desistimiento, sino que implementó medidas
+transitorias durante la emergencia sanitaria, haciendo facultativo para las aerolíneas ofrecer
+reembolsos en servicios.
+4. Derecho de elección del consumidor: La sentencia enfatiza, con f
+undamento en jurisprudencia
+de la Corte Constitucional, que las medidas excepcionales no pueden eliminar el derecho de
+elección del consumidor, aun cuando otorguen facultades a los operadores turísticos para
+determinar la forma del reembolso.
+5. Interpretación pro consumatore: El tribunal aplica el principio de interpretación más favorable al
+consumidor, señalando que es contrario al Estatuto del Consumidor que se asigne unilateralmente
+v
+la forma de reembolso a través de bonos o travel vouchers cuando el servicio no se ha prestado.
+Decisión
+1. DECLARAR que Despegar Colombia S.A.S.
+v
+ulneró los derechos del consumidor.
+2. O
+3. O
+RDENAR a Despegar Colombia S.A.S. reintegrar al demandante la suma de $3.072.315,
+correspondiente a la totalidad pagada por los tiquetes aéreos, dentro de los quince días hábiles
+siguientes a la notificación de la decisión.
+RDENAR al demandante informar al Despacho, en un plazo de 30 días hábiles, si la demandada
+dio cumplimiento a la orden, para efectos de iniciar el trámite incidental de verificación de
+cumplimiento.
+4. Sin condena en costas.
+Precedente Establecido
+Esta sentencia establece un importante precedente respecto al derecho de elección del consumidor
+durante situaciones de emergencia como la pandemia del COVID-19. Clarifica que, si bien las normas
+excepcionales otorgaron facultades especiales a las aerolíneas y agencias de viaje para ofrecer
+alternativas de reembolso en servicios, estas no pueden imponer unilateralmente tales medidas en
+detrimento del derecho f
+undamental de elección del consumidor.
+El fallo ref
+uerza la interpretación pro consumatore del ordenamiento jurídico, estableciendo que,
+incluso en circunstancias excepcionales, prevalece el derecho del consumidor a recibir la devolución
+del dinero cuando el servicio no ha sido prestado, sin que las empresas puedan imponer condiciones
+que limiten este derecho mediante la entrega obligatoria de bonos o vouchers.
+Adicionalmente, la sentencia contribuye a delimitar el alcance de las medidas excepcionales
+adoptadas durante estados de emergencia, aclarando que estas no pueden interpretarse de manera
+que deroguen o modifiquen sustancialmente los derechos f
+undamentales de los consumidores
+reconocidos en el ordenamiento jurídico ordinario.

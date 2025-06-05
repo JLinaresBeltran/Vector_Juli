@@ -1,0 +1,133 @@
+ANÁLISIS J
+U
+(05/04/2022)
+RÍDICO DE SENTENCIA No. 21-124924
+Tema Jurídico
+Responsabilidad solidaria de agencias de viajes (intermediarios) y aerolíneas frente a los consumidores
+en la efectividad de la garantía legal por servicios de transporte aéreo no prestados debido a la
+pandemia por COVID-19.
+Subtemas
+1. Legitimación en la causa por pasiva de las agencias de viajes en su calidad de intermediarios
+2. Prevalencia del Estatuto del Consumidor como norma de orden público frente a disposiciones que
+limiten la responsabilidad de intermediarios
+3. Naturaleza jurídica de la pandemia por COVID-19 como hecho sobreviniente y no como f
+uerza
+mayor o caso fortuito
+4. Alcance de la responsabilidad solidaria en la cadena de comercialización de servicios turísticos
+5. Criterios para ordenar la devolución del dinero en lugar de vouchers cuando la aerolínea se
+encuentra en liquidación judicial
+Ratio Decidendi
+En virtud del artículo 10 de la Ley 1480 de 2011 (Estatuto del Consumidor), todos los actores que
+participan en la cadena de comercialización de un producto o servicio, incluyendo intermediarios como
+agencias de viajes, son solidariamente responsables frente al consumidor por la efectividad de la
+garantía legal. Esta responsabilidad solidaria prevalece sobre disposiciones reglamentarias (como el
+Decreto 2438 de 2010) que pretendan eximir de responsabilidad a las agencias de viajes, pues el
+Estatuto del Consumidor es una norma de orden público cuyos principios no pueden ser desconocidos
+por regulaciones de menor jerarquía.
+Adicionalmente, la pandemia por COVID-19 no configura un caso de f
+uerza mayor que exima de
+responsabilidad a los proveedores, sino un hecho sobreviniente que afecta el cumplimiento de la
+obligación con el consumidor, pero que no elimina la responsabilidad de buscar soluciones efectivas
+para satisfacer sus derechos.
+Datos Básicos
+Número de radicado: 21-124924
+Fecha de la sentencia: 05/04/2022
+Autoridad judicial: Superintendencia de Industria y Comercio, Delegatura para Asuntos
+Jurisdiccionales
+Juez: Jenny Lorena Murillo Lozano
+Partes involucradas:
+Demandantes: John Jairo Mercado Espinosa y Gina Marcela Ayala Ávila
+Demandados: Travelgenio Colombia S.A.S. y ABC Aerolínea S.A. de CV Sucursal Colombia
+(Interjet) -- En liquidación judicial
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El 9 de diciembre de 2019, los demandantes compraron a través de Travelgenio cuatro tiquetes
+aéreos para la ruta Bogotá-Cancún-Bogotá, programados para el 20 y 26 de julio de 2020,
+operados por Interjet, por un valor de $2.468.681.
+2. Debido a la pandemia por COVID-19 y el cierre de aeropuertos, los demandantes no pudieron
+utilizar los servicios adquiridos.
+3. El 30 de junio de 2020, los demandantes contactaron a Travelgenio buscando soluciones ante la
+imposibilidad de viajar.
+4. El 3 de julio de 2020, Travelgenio respondió que la aerolínea ofrecía un cupón (travel voucher) para
+canjearse por una compra f
+utura, válido por un año.
+5. El 3 de diciembre de 2020, los demandantes intentaron comunicarse con Interjet sin obtener
+respuesta, descubriendo que la aerolínea había cancelado operaciones en Colombia.
+6. Los consumidores presentaron acción de protección al no obtener una solución efectiva para la
+devolución del valor pagado.
+7. Travelgenio alegó en su defensa falta de legitimación en la causa por pasiva (por ser solo
+intermediario) y f
+uerza mayor como eximente de responsabilidad por el COVID-19.
+Fundamentos Jurídicos
+Artículos 2 y 4 de la Ley 1480 de 2011: Establecen el ámbito de aplicación del Estatuto del
+Consumidor y su carácter de norma de orden público.
+Artículo 10 de la Ley 1480 de 2011: "Para establecer la responsabilidad por incumplimiento a las
+condiciones de idoneidad y calidad, bastará con demostrar el defecto del producto, sin perjuicio
+de las causales de exoneración de responsabilidad". Establece la responsabilidad solidaria del
+productor y proveedor.
+Artículo 11 numeral 3 de la Ley 1480 de 2011: Establece que ante el incumplimiento en la
+prestación del servicio, se procederá con la devolución del dinero.
+Artículo 16 de la Ley 1480 de 2011: Regula las causales de exoneración de responsabilidad.
+Artículo 58 numeral 9 de la Ley 1480 de 2011: Faculta al juez para resolver las pretensiones de
+forma que considere más justa para las partes (infrapetita).
+Decreto 2438 de 2010, artículo 3: Disposición que pretende eximir de responsabilidad a las
+agencias de viajes por el servicio de transporte aéreo (considerada inaplicable por contrariar el
+Estatuto del Consumidor).
+Decreto Legislativo 482 de 2020: Medidas para el sector aeronáutico durante la pandemia,
+incluyendo la posibilidad de ofrecer travel vouchers en lugar de reembolsos.
+Concepto jurídico Nº 2016161212 de la SIC: Análisis sobre la responsabilidad solidaria de las
+agencias de viajes frente al consumidor.
+Consideraciones Principales
+1. Sobre la relación de consumo y legitimación: Se verifica la existencia de una relación de
+consumo entre los demandantes y ambas empresas demandadas: Travelgenio como proveedor
+del servicio (agencia) e Interjet como operador (aerolínea). La legitimación por pasiva de
+Travelgenio queda establecida al participar directamente en la cadena de comercialización del
+servicio.
+2. Sobre la reclamación directa: Se considera cumplido este requisito con la reclamación que los
+consumidores presentaron a Travelgenio el 30 de junio de 2020, mediante la cual pusieron en
+conocimiento la situación y pidieron una solución.
+3. Sobre la responsabilidad solidaria: La sentencia reitera que conforme al Estatuto del
+Consumidor, la efectividad de la garantía es una responsabilidad solidaria, aplicable a todos los
+actores que participan en la relación de consumo. El concepto jurídico Nº 2016161212 de la SIC
+concluyó que el Decreto 2438 de 2010 (que eximía de responsabilidad a las agencias de viajes) no
+resulta aplicable en las relaciones de consumo, pues contraviene el artículo 10 del Estatuto, que es
+norma de orden público.
+4. Sobre la pandemia como causal de exoneración: Se establece que la pandemia por COVID-19
+no puede ser considerada un caso de f
+uerza mayor que exima de responsabilidad, sino un hecho
+sobreviniente que afecta el cumplimiento de la obligación. Las obligaciones de las demandadas no
+se limitan a la prestación del servicio, sino que incluyen dar respuesta oportuna y buscar
+soluciones efectivas para el consumidor.
+5. Sobre la solución aplicable: Aunque normalmente se aplicarían las medidas del Decreto 482 de
+2020 (travel voucher), dada la situación de liquidación judicial de Interjet y su cese de operaciones
+en Colombia, resultaría inviable la emisión de un cupón, por lo que se ordena la devolución total del
+dinero como medida de protección al consumidor.
+Decisión
+La sentencia declara la v
+ulneración de los derechos del consumidor y ordena a las empresas
+demandadas realizar la devolución total del dinero pagado por los tiquetes aéreos, suma que asciende
+a $2.468.681. Esta decisión se f
+undamenta en:
+1. Las consecuencias procesales por la no contestación de Interjet y la no comparecencia de su
+representante legal a la audiencia
+2. El artículo 11 numeral 3 del Estatuto del Consumidor que establece la devolución del dinero ante
+incumplimiento
+3. El artículo 58 numeral 9 que permite fallar infrapetita
+4. La situación especial de Interjet en liquidación judicial, lo que haría inviable la emisión de un travel
+voucher conforme al Decreto 482 de 2020
+Precedente Establecido
+La sentencia establece un importante precedente respecto a la responsabilidad en la cadena de
+comercialización de servicios turísticos:
+1. El principio de solidaridad en la responsabilidad por la efectividad de la garantía se aplica sin
+excepciones a todos los participantes de la cadena de comercialización, incluyendo a las agencias
+de viajes, sin que puedan ampararse en disposiciones como el Decreto 2438 de 2010 para
+eximirse de responsabilidad.
+2. La pandemia por COVID-19 constituye un hecho sobreviniente que afecta el cumplimiento de
+obligaciones, pero no exime a los prestadores de servicios de su responsabilidad de buscar
+soluciones efectivas para los consumidores. No puede invocarse como f
+uerza mayor para eludir la
+responsabilidad frente al consumidor.
+3. En casos donde la aplicación de las medidas especiales durante la pandemia (como los travel
+vouchers) resulte inviable debido a la situación particular del prestador del servicio (liquidación,
+cese de operaciones), debe prevalecer la protección efectiva de los derechos del consumidor
+mediante la devolución del dinero, ejerciendo la facultad de fallar infrapetita y en justicia.

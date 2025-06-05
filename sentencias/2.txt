@@ -1,0 +1,105 @@
+Análisis Jurídico de Sentencia sobre Derecho de Retracto en
+Compra de Tiquetes Aéreos
+Tema Jurídico
+Tema Central: Procedencia del derecho de retracto en la compra de tiquetes aéreos a través de
+medios electrónicos (página web) cuando el servicio se ejecuta dentro del plazo legal para ejercer
+dicho derecho.
+Subtemas:
+1. Requisitos temporales y objetivos del derecho de retracto en ventas a distancia
+2. Diferencias entre retracto y desistimiento en contratos de transporte aéreo
+3. Limitaciones del derecho de retracto en f
+unción de la fecha de ejecución del servicio
+4. Implicaciones de tarifas promocionales o económicas en el desistimiento de contratos de
+transporte aéreo
+5. Carencia actual de objeto por hecho superado en procesos de protección al consumidor
+Ratio Decidendi
+El derecho de retracto contemplado en el artículo 47 de la Ley 1480 de 2011 no es procedente cuando
+el servicio contratado comienza a ejecutarse dentro de los cinco días hábiles siguientes a la
+celebración del contrato, aun cuando dicho retracto se ejerza dentro del plazo legal. Para que el
+derecho de retracto sea viable, no solo debe ejercerse dentro de los cinco días hábiles siguientes a la
+celebración del contrato, sino que además el servicio no debe comenzar a ejecutarse dentro de ese
+mismo plazo.
+La norma establece claramente que "en todos los contratos para ventas de bienes y prestación de
+servicios mediante sistemas de financiación otorga por el productor o proveedor, ventas (...) a
+distancia que por su naturaleza no deban consumirse o no hayan comenzado a ejecutarse antes de
+cinco días (...) se entenderá pactado el derecho de retracto por parte del consumidor".
+Adicionalmente, el desistimiento contemplado en los Reglamentos Aeronáuticos de Colombia (RAC 3)
+no es procedente cuando se trata de tarifas promocionales o económicas adquiridas por el pasajero,
+como ocurrió en el presente caso.
+Datos Básicos
+Número de radicado/expediente: No especificado explícitamente (se menciona CHILD-522284-
+Sentencia-18461)
+Fecha de la sentencia: No especificada explícitamente
+Autoridad judicial: Superintendencia de Industria y Comercio (se infiere del contexto)
+Nombre del juez/ponente: No especificado
+Partes involucradas: Demandantes (consumidoras, no se especifican nombres) y una compañía
+aérea demandada (no se especifica nombre)
+Tipo de acción: Demanda de protección al consumidor
+Hechos Clave
+1. El viernes 31 de diciembre de 2021, las demandantes adquirieron bajo la reserva número MWRPCP
+dos tiquetes aéreos y servicios adicionales de transporte de equipaje para cubrir la ruta Bogotá-
+Cartagena.
+2. El v
+uelo estaba programado para el 5 de enero de 2022.
+3. El mismo día de la compra (31 de diciembre de 2021), las demandantes ejercieron su derecho de
+retracto y solicitaron el reembolso de los dineros pagados ($678.560).
+4. La tarifa adquirida por las demandantes era de tipo económica/promocional.
+5. La compra se realizó a través de la página web de la aerolínea.
+6. El 22 de febrero de 2022, la aerolínea realizó el reembolso total del valor pagado a título de
+cortesía comercial.
+7. Las demandantes no asistieron al interrogatorio de parte decretado de oficio.
+Fundamentos Jurídicos
+Ley 1480 de 2011, artículo 47: Establece el derecho de retracto, sus condiciones de procedencia
+y plazos para ejercerlo. Específicamente indica que aplica para ventas que "no hayan comenzado
+a ejecutarse antes de cinco días".
+Ley 4 de 1913, artículo 62: Establece que en los plazos de días señalados en las leyes se
+entienden suprimidos los feriados y
+vacantes, a menos que se exprese lo contrario.
+Reglamentos Aeronáuticos de Colombia (RAC 3), numeral 3.10.1.8.1: Regula el desistimiento
+en compra de tiquetes aéreos y establece que no es procedente cuando se trata de tarifas
+promocionales.
+Código de Comercio, artículo 1878: Base normativa para los reglamentos aeronáuticos.
+Código General del Proceso, artículo 105: Regula la confesión ficta o presunta por inasistencia a
+interrogatorio.
+Sentencia Corte Suprema de Justicia, Sala de Casación Civil, radicado 76001-22-03-000-
+2017-00260-01: Define la carencia actual de objeto por hecho superado.
+Consideraciones Principales
+El juzgador analiza dos aspectos f
+undamentales para determinar la procedencia del derecho de
+retracto:
+1. Requisito objetivo (tipología contractual): La compra de tiquetes a través de la página web de la
+aerolínea constituye una venta a distancia, cumpliendo así con uno de los requisitos para la
+procedencia del derecho de retracto.
+2. Requisito temporal y limitación por ejecución del servicio: Aunque las demandantes ejercieron
+el derecho de retracto el mismo día de la compra (dentro del plazo de 5 días hábiles), el v
+uelo
+estaba programado para el 5 de enero de 2022, es decir, al tercer día hábil después de la compra.
+Según el artículo 47 de la Ley 1480 de 2011, el derecho de retracto solo se entiende pactado
+cuando el servicio no comienza a ejecutarse dentro de los 5 días hábiles siguientes a la
+celebración del contrato.
+3. Improcedencia del desistimiento: El juzgador también analiza la figura del desistimiento,
+concluyendo que tampoco era procedente por tratarse de una tarifa económica/promocional,
+conforme a lo establecido en los Reglamentos Aeronáuticos de Colombia.
+4. Hecho superado y carencia actual de objeto: A pesar de la improcedencia tanto del retracto
+como del desistimiento, la aerolínea, por cortesía comercial, realizó el reembolso total del dinero
+pagado por las demandantes. Este hecho genera una carencia actual de objeto por hecho
+superado, pues la pretensión principal de la demanda ya f
+ue satisfecha durante el transcurso del
+proceso.
+Decisión
+1. Negar las pretensiones de la demanda conforme a lo expuesto en la parte motiva.
+2. Ordenar a la secretaría el archivo del expediente.
+3. No hay condena en costas.
+Precedente Establecido
+Esta sentencia establece un importante precedente en materia de derecho de consumo al precisar los
+límites del derecho de retracto en contratos de transporte aéreo adquiridos por medios electrónicos.
+La interpretación del artículo 47 de la Ley 1480 de 2011 clarifica que no basta con ejercer el derecho
+dentro de los 5 días hábiles, sino que además es necesario que el servicio no comience a ejecutarse
+dentro de ese mismo plazo.
+Adicionalmente, ref
+uerza la distinción entre retracto y desistimiento, así como la limitación del
+desistimiento en tarifas promocionales o económicas en el ámbito del transporte aéreo.
+Este precedente tiene implicaciones significativas para los consumidores que adquieren servicios de
+transporte aéreo por medios digitales con fechas de ejecución cercanas a la compra, pues delimita
+claramente las situaciones en las que el derecho de retracto no es procedente, independientemente
+de la rapidez con que se ejerza dicho derecho después de la compra.

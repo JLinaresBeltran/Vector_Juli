@@ -1,0 +1,107 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA
+Tema Jurídico
+Cláusulas abusivas y derecho a la información en contratos de intermediación turística: carga
+probatoria del consumidor
+Subtemas:
+1. Relación de consumo y legitimación en acciones de protección al consumidor
+2. Configuración y análisis de cláusulas abusivas en contratos de adhesión
+3. Alcance del derecho a la información del consumidor
+4. Distribución de la carga probatoria en litigios de consumo
+5. Consecuencias procesales de la no contestación de demanda
+Ratio Decidendi
+Para declarar la existencia de cláusulas abusivas o la v
+ulneración del derecho a la información en una
+relación de consumo, no es su
+ficiente la simple alegación por parte del consumidor, sino que este
+debe demostrar de manera efectiva que la cláusula genera un desequilibrio normativo significativo,
+injustificado e irrazonable, o que la información suministrada f
+ue inadecuada o insu
+ficiente.
+La inactividad probatoria del consumidor, quien tiene la carga de probar sus afirmaciones, impide que
+prosperen sus pretensiones aun cuando la parte demandada no haya contestado la demanda. La
+responsabilidad por incumplimiento a las condiciones de idoneidad y calidad requiere demostrar el
+defecto del producto o servicio, siendo insu
+ficiente la mera enunciación de los hechos.
+Datos Básicos
+Número de radicado: 21-188670
+Fecha de la sentencia: 23/05/2022
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales de la Superintendencia de Industria
+y Comercio
+Juez: Mónica Ivett Rodríguez García
+Demandante: Sandra María Londoño Zuluaga
+Demandado: Imperial Tour S.A.S.
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El 18 de agosto de 2018, la demandante suscribió con Imperial Tour S.A.S. el contrato No. 7956 de
+"Afiliación a la prestación de servicios de intermediación para la negociación y reducción de tarifas
+de servicios turísticos para terceros", pagando $4.500.000.
+2. El objeto del contrato consistía en otorgar al suscriptor una afiliación al programa de fidelización
+vacacional denominado GLOBAL ADVENTU
+RE, donde la empresa oficiaría como intermediaria para
+obtener tarifas preferenciales.
+3. La demandante intentó utilizar los servicios, pero descubrió que los precios ofrecidos a través de
+Imperial Tour eran más altos que los disponibles directamente en el mercado.
+4. La consumidora alegó que en varias ocasiones intentó comunicarse con la empresa para solicitar
+información sin obtener respuesta o recibiendo respuestas evasivas.
+5. La demandante consideró que el contrato contenía una cláusula de responsabilidad abusiva.
+6. El 10 de febrero de 2021, la demandante presentó reclamación directa ante la empresa sin obtener
+respuesta.
+7. La demandada no contestó la demanda en el proceso judicial.
+Fundamentos Jurídicos
+Artículo 42 de la Ley 1480 de 2011: Define las cláusulas abusivas como "aquellas que producen
+un desequilibrio injustificado en perjuicio del consumidor y las que, en las mismas condiciones,
+afectan el tiempo, modo o lugar en que el consumidor puede ejercer sus derechos."
+Sentencia de la Corte Suprema de Justicia del 2 de febrero de 2001: Establece que se
+considera abusiva aquella cláusula que: i) no ha sido negociada de manera individual, ii) violenta la
+buena fe negocial, y iii) genera un desequilibrio relevante en los derechos y obligaciones de las
+partes del contrato.
+Artículo 23 de la Ley 1480 de 2011: Dispone que "Los proveedores y productores deberán
+suministrar a los consumidores información, clara, veraz, su
+ficiente, oportuna, verificable,
+comprensible, precisa e idónea sobre los productos que ofrezcan."
+Artículo 10 de la Ley 1480 de 2011: Indica que "para establecer la responsabilidad por
+incumplimiento a las condiciones de idoneidad y calidad, bastará con demostrar el defecto del
+producto, sin perjuicio de las causales de exoneración de responsabilidad."
+Sentencia de la Corte Suprema de Justicia del 4 de diciembre de 2006: Establece que "Para
+lograr que el juez dirima una controversia de manera favorable a las pretensiones, le corresponde
+al demandante demostrar en forma plena y completa los actos o hechos jurídicos de donde
+procede el derecho o nace la obligación."
+Consideraciones Principales
+1. Sobre la relación de consumo y legitimación: El tribunal reconoció la existencia de la relación de
+consumo basándose en las documentales aportadas y en la no contestación de la demanda por
+parte de la empresa.
+2. Sobre las cláusulas abusivas: El despacho determinó que la cláusula de responsabilidad no era
+abusiva, pues no generaba un desequilibrio normativo significativo, injustificado e irrazonable para
+el consumidor, ya que respondía a la naturaleza del contrato de intermediación suscrito.
+3. Sobre el derecho a la información y garantía: El tribunal consideró que la demandante no aportó
+pruebas su
+ficientes para acreditar la v
+ulneración de sus derechos como consumidora, señalando
+que su colaboración en el ejercicio probatorio resultó precaria.
+4. Sobre la carga de la prueba: Se aplicó el principio según el cual la parte que alega los hechos
+materia de debate debe probarlos. En este caso, la consumidora debía demostrar que el servicio
+no se prestó o que la información suministrada no correspondía con el servicio contratado.
+Decisión
+Se desestimaron todas las pretensiones de la parte demandante, negando:
+1. La declaración de existencia de cláusulas abusivas en el contrato No. 7956.
+2. La declaración de v
+ulneración del derecho a recibir información.
+3. La declaración de incumplimiento del objeto del contrato.
+4. La devolución del dinero pagado por el contrato ($4.900.000) más intereses.
+5. El pago del 40% ($1.960.000) del valor de la cláusula penal pactada.
+6. La condena en costas procesales y agencias en derecho.
+Precedente Establecido
+Esta sentencia establece que en los litigios de protección al consumidor, la inactividad probatoria del
+demandante impide el éxito de sus pretensiones, aun cuando exista una presunción derivada de la no
+contestación de la demanda. Para determinar la existencia de cláusulas abusivas, debe analizarse si
+generan un desequilibrio normativo significativo, considerando la naturaleza del contrato.
+El precedente ref
+uerza el principio de que la carga de la prueba recae sobre quien alega la v
+ulneración
+de sus derechos como consumidor, sin que sea su
+ficiente la mera afirmación de los hechos.
+Asimismo, confirma que la calificación de abusividad de una cláusula debe realizarse considerando el
+contexto del contrato y no de manera aislada, especialmente en contratos de intermediación donde es
+razonable que existan limitaciones a la responsabilidad del intermediario.

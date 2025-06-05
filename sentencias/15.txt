@@ -1,0 +1,120 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA
+Tema Jurídico
+Ejercicio del derecho de retracto en compras de tiquetes aéreos realizadas por medios
+electrónicos durante la emergencia sanitaria por COVID-19
+Subtemas:
+1. Alcance y aplicación del derecho de retracto en ventas a distancia
+2. Interpretación y aplicabilidad del Decreto 482 de 2020 sobre reembolsos en el sector aeronáutico
+3. Responsabilidad solidaria entre aerolíneas y agencias de viajes en ventas a distancia
+4. Carga probatoria respecto a la afectación por la pandemia para limitar reembolsos en dinero
+5. Protección al consumidor en el comercio electrónico
+Ratio Decidendi
+El derecho de retracto establecido en el artículo 47 de la Ley 1480 de 2011 debe ser garantizado en las
+compras de tiquetes aéreos realizadas a través de medios electrónicos, siempre que se ejerza dentro
+del término legal de cinco días hábiles. Si bien el Decreto 482 de 2020 permitía a las aerolíneas
+realizar reembolsos mediante vouchers o servicios durante la emergencia sanitaria por COVID-19, esta
+facultad excepcional sólo es aplicable cuando la aerolínea demuestra que aún está afectada por las
+consecuencias derivadas de la pandemia.
+En ausencia de prueba sobre la persistencia de dichas afectaciones y habiéndose restablecido la
+operación aérea, el consumidor tiene derecho a recibir el reembolso en dinero cuando ejerce el
+derecho de retracto oportunamente, sin que pueda negársele bajo el amparo del mencionado decreto
+de emergencia.
+Datos Básicos
+Número de radicado: 21-187143
+Fecha de la sentencia: 31/05/2022
+Autoridad judicial: Superintendencia de Industria y Comercio, Delegatura para Asuntos
+Jurisdiccionales
+Juez: Fredy Alexander Pérez Ramírez
+Demandante: Yuliana Andrea Gómez Frando
+Demandados: Aerovías de México SA de CV Aeroméxico Sucursal Colombia y Éxito Viajes y
+Turismo S.A.S.
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El 27 de enero de 2021, la demandante adquirió tiquetes aéreos para la ruta Medellín – México –
+Medellín a través del portal web de Éxito Viajes y Turismo S.A.S., pagando la suma de $1.473.157.
+2. Después de realizar el pago, la demandante notó un error en la fecha de regreso (17 de julio en
+lugar del 20 de julio como deseaba).
+3. Al día siguiente, 28 de enero de 2021, la demandante se comunicó con la empresa y ejerció su
+derecho de retracto.
+4. Las empresas demandadas negaron la solicitud, indicando expresamente que "no aplica para la
+ley de retracto" y que aplicarían lo establecido en el Decreto 482 de 2020 sobre reembolsos.
+5. Ante la negativa, la demandante se vio obligada a adquirir otros tiquetes y presentó la demanda.
+6. Las sociedades demandadas contestaron la demanda alegando que estaban facultadas para
+emitir bonos redimibles en servicios en lugar de realizar reembolsos en dinero, conforme al
+Decreto 482 de 2020.
+7. Las demandadas no aportaron pruebas que demostraran que para las fechas de la compra (enero
+2021) o de la sentencia (mayo 2022) aún persistían las afectaciones por la pandemia del COVID-19
+que justificaran la aplicación de las medidas excepcionales.
+Fundamentos Jurídicos
+Artículo 47 de la Ley 1480 de 2011: Establece el derecho de retracto para compras mediante
+sistemas de financiación o ventas a distancia, indicando que el consumidor puede ejercerlo dentro
+de los 5 días hábiles siguientes a la celebración del contrato, con la consecuente resolución del
+contrato y reintegro del dinero pagado.
+Artículo 50 de la Ley 1480 de 2011: Dispone las obligaciones de los proveedores que ofrecen
+productos utilizando medios electrónicos, incluyendo el deber de informar sobre "el derecho de
+retracto que le asiste al consumidor y el procedimiento para ejercerlo".
+Artículo 2.2.2.37.7 del Decreto Único Reglamentario del Sector Comercio, Industria y
+Turismo: Establece la responsabilidad solidaria entre productores y proveedores respecto a la
+posibilidad de presentar reclamaciones y solicitar devoluciones.
+Decreto 482 del 26 de marzo de 2020, Artículo 17: Estableció que "En los eventos en que las
+aerolíneas reciban solicitudes de retracto, desistimiento y otras circunstancias relacionadas con la
+solicitud de reembolso, podrán realizar, durante el periodo que dure la emergencia y hasta por un
+año más, reembolsos a los usuarios en servicios prestados por la misma aerolínea."
+Consideraciones Principales
+1. Sobre la relación de consumo: El tribunal constató la existencia de una relación de consumo
+entre las partes, confirmada por la documental aportada y la aceptación de las demandadas. La
+compra se realizó a través de medios electrónicos, por lo que quedaba amparada por el derecho
+de retracto establecido en el Art. 47 de la Ley 1480 de 2011.
+2. Sobre el ejercicio oportuno del derecho de retracto: Se verificó que la demandante ejerció su
+derecho de retracto el 28 de enero de 2021, un día después de realizar la compra, cumpliendo con
+el plazo legal de 5 días hábiles.
+3. Sobre la aplicación del Decreto 482 de 2020: El tribunal analizó las consideraciones del
+Decreto, señalando que el mismo se expidió para mitigar los efectos económicos de la pandemia
+en las aerolíneas, cuando estas "se han visto obligadas a parquear más del noventa por ciento
+(90%) de su
+flota durante la duración de las medidas y, por ello sus ingresos se han visto
+disminuidos."
+4. Sobre la carga probatoria: El tribunal determinó que las demandadas no demostraron que para
+enero de 2021 (fecha de la compra) o mayo de 2022 (fecha de la sentencia) aún estu
+vieran
+afectadas por las circunstancias derivadas de la pandemia que justificaran la limitación al
+reembolso en dinero. El tribunal señaló: "Puestas de esta manera las cosas, para la fecha de
+celebración del contrato, esto es, 27 enero del año 2021, la operación aeronáutica se encontraba
+restablecida y no hay medios probatorios allegados por las sociedades accionadas que
+demuestren que aún se encuentran afectadas por las circunstancias derivadas por la pandemia del
+COVID 19."
+5. Sobre la v
+demandadas v
+ulneración de derechos del consumidor: El tribunal consideró que la respuesta de las
+ulneraba los derechos de la consumidora al expresar "no aplica para la ley de
+retracto", lo cual contradecía directamente lo dispuesto en el Art. 47 de la Ley 1480 de 2011.
+Decisión
+1. Se declaró que las sociedades demandadas v
+ulneraron los derechos de la consumidora.
+2. Se ordenó a Aerovías de México SA de CV Aeroméxico Sucursal Colombia y a Éxito Viajes y
+Turismo S.A.S. que, dentro de los 10 días hábiles siguientes a la ejecutoria de la providencia,
+reembolsaran a la demandante la suma de $1.473.157 correspondiente al valor de los tiquetes.
+3. Se dispuso que el retraso en el cumplimiento de la orden causaría una multa a favor de la
+Superintendencia de Industria y Comercio equivalente a una séptima parte del salario mínimo legal
+mensual vigente por cada día de retardo.
+4. Se advirtió que en caso de persistir el incumplimiento, se podría decretar el cierre temporal del
+establecimiento de comercio.
+5. Se condenó en costas a las demandadas, fijando como agencias en derecho la suma de $140.000.
+Precedente Establecido
+Esta sentencia establece un precedente importante respecto a la aplicabilidad de las medidas
+excepcionales del Decreto 482 de 2020 en relación con el derecho de retracto en servicios de
+transporte aéreo. El precedente determina que:
+1. La facultad excepcional de realizar reembolsos mediante vouchers o servicios durante la
+emergencia sanitaria no opera de manera automática, sino que las aerolíneas deben demostrar
+que aún persisten las afectaciones derivadas de la pandemia que justifican la restricción al
+reembolso en dinero.
+2. El derecho de retracto en compras realizadas por medios electrónicos o a distancia mantiene su
+vigencia, incluso durante períodos de emergencia, cuando no se demuestra que persisten las
+condiciones excepcionales que justificaron las medidas de flexibilización para las aerolíneas.
+3. La responsabilidad por el cumplimiento del derecho de retracto es solidaria entre la aerolínea y la
+agencia de viajes, en su calidad de productor y proveedor, respectivamente.
+4. Las normas excepcionales que limitan derechos del consumidor deben interpretarse de manera
+restrictiva y su aplicación debe justificarse con pruebas concretas sobre la persistencia de las
+circunstancias que motivaron su expedición.

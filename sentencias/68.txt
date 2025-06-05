@@ -1,0 +1,114 @@
+ANÁLISIS J
+U
+RÍDICO DE LA SENTENCIA 167 DE 2021 - SIC
+Tema Jurídico
+Cuestión central: Alcance de la protección al consumidor en el servicio de transporte aéreo cuando la
+aerolínea impide abordar a un pasajero que ha consumido bebidas alcohólicas, y la carga probatoria en
+procesos de protección al consumidor.
+Subtemas jurídicos:
+1. Deberes del consumidor en el contrato de transporte aéreo
+2. Límites de la obligación de garantía del proveedor de servicios
+3. Carga probatoria en procesos de protección al consumidor
+4. Aplicación de reglamentos aeronáuticos como norma especial
+5. Equilibrio entre seguridad aeronáutica y derechos del consumidor
+Ratio Decidendi
+La ratio decidendi de esta sentencia establece que en los procesos de protección al consumidor,
+corresponde al demandante demostrar la existencia de fallas o defectos en la prestación del servicio
+para que surja la obligación de garantía por parte del proveedor. No basta con la mera alegación del
+incumplimiento; la carga de la prueba recae sobre el consumidor reclamante.
+Cuando el consumidor adopta comportamientos contrarios a sus deberes establecidos en la normativa
+específica (Reglamento Aeronáutico), no puede alegar v
+ulneración de sus derechos si el proveedor
+actúa conforme a dicha normativa para garantizar la seguridad.
+El tribunal señala: "cuando se reclama la v
+ulneración de un derecho, las inconformidades que se
+alegan se deben demostrar, pues la sola manifestación no es su
+ficiente para dar por ciertos los hechos
+[...] no hay pruebas que acrediten el incumplimiento a las condiciones de calidad e idoneidad, en los
+términos descritos en el artículo 10 de la Ley 1480 de 2011" (Hoja 4).
+Fundamentos normativos:
+Artículo 10 de la Ley 1480 de 2011 (Estatuto del Consumidor)
+Artículo 167 del Código General del Proceso (carga de la prueba)
+Artículos 3.10.2.25 y 3.10.2.25.1 del Reglamento Aeronáutico Colombiano (RAC 3)
+Datos Básicos
+Número de expediente: Acción de Protección al Consumidor No. 2020-48066
+Fecha de la sentencia: 18 de enero de 2021
+Autoridad judicial: Superintendencia de Industria y Comercio, Delegatura para Asuntos
+Jurisdiccionales
+Juez/Ponente: Yuly Andrea Mogollón Martínez, Profesional Universitaria adscrita al Grupo de
+Defensa del Consumidor
+Partes involucradas:
+Demandante: Julieth Gómez Clavijo
+Demandado: Aerorepública S.A.
+Tipo de acción: Acción de Protección al Consumidor (proceso verbal sumario de mínima cuantía)
+Hechos Clave
+1. El 13 de octubre de 2019, la demandante adquirió tres tiquetes aéreos de Aerorepública S.A. bajo
+la reserva ASDKR7, por valor de $1.032.255.
+2. Adicionalmente, pagó $65.000 por exceso de equipaje.
+3. Al abordar el avión, un auxiliar de v
+uelo le preguntó si había consumido bebidas alcohólicas, a lo
+que respondió afirmativamente, indicando que había tomado 4 cervezas.
+4. La tripulación le solicitó abandonar el v
+uelo argumentando que su estado podía ocasionar
+problemas de salud debido a la altura del v
+uelo.
+5. Las personas que acompañaban a la demandante también decidieron abandonar el v
+uelo.
+6. El 16 de octubre de 2019, la demandante presentó reclamación directa a la aerolínea.
+7. La aerolínea respondió negativamente a la reclamación.
+Fundamentos Jurídicos
+Normativa aplicada:
+Artículos 5, 7, 8, 10, 11 y 18 de la Ley 1480 de 2011 (Estatuto del Consumidor)
+Artículo 2.2.2.32.6.1 del Decreto Único Reglamentario del Sector Comercio, Industria y Turismo
+Artículos 3.10.2.25 y 3.10.2.25.1 del Reglamento Aeronáutico Colombiano (RAC 3)
+Artículo 167 del Código General del Proceso
+Artículo 390, parágrafo 3
+°
+del Código General del Proceso
+Disposiciones relevantes:
+RAC 3, artículo 3.10.2.25: "Es obligación del pasajero acatar las instrucciones del transportador
+y de sus tripulantes, relativas a la seguridad o al comportamiento durante el v
+uelo, impartidas
+desde las operaciones de embarque, así como durante el carreteo, despegue, v
+uelo, aterrizaje
+y desembarque."
+RAC 3, artículo 3.10.2.25.1, literal ñ: Prohíbe "Embarcar o permanecer a bordo de la aeronave
+en avanzado o evidente estado de intoxicación alcohólica o bajo el efecto de sustancias
+sicoactivas, drogas prohibidas, o ingresar a ella tales drogas."
+Consideraciones Principales
+El tribunal consideró que la parte demandante no aportó pruebas que acreditaran la existencia del
+defecto alegado ni demostró actos que v
+ulneraran sus derechos como consumidora.
+La demandante confesó en su escrito de demanda que había consumido bebidas alcohólicas
+antes de abordar el avión. El tribunal calificó esta declaración como confesión en términos del
+artículo 191 del Código General del Proceso.
+El tribunal destacó que los consumidores no solo tienen derechos sino también deberes
+establecidos tanto en el Estatuto del Consumidor como en la normativa especial (RAC 3).
+Según el análisis del tribunal, la aerolínea actuó conforme a lo establecido en el RAC 3, que prohíbe
+embarcar o permanecer a bordo en estado de intoxicación alcohólica, en protección de "la
+seguridad del v
+uelo y de los demás ocupantes de la nave [...] así como 'el buen orden, la moral o la
+disciplina a bordo'".
+El tribunal aplicó el principio de carga de la prueba (artículo 167 del CGP), señalando que
+correspondía a la demandante demostrar la v
+ulneración de sus derechos, lo cual no ocurrió.
+Decisión
+El tribunal resolvió:
+1. Negar todas las pretensiones incoadas en la demanda.
+2. Archivar las diligencias.
+3. No condenar en costas por no aparecer causadas.
+Precedente Establecido
+En procesos de protección al consumidor en el sector de transporte aéreo, corresponde al pasajero
+demostrar la v
+ulneración de sus derechos, especialmente cuando el proveedor actúa conforme a las
+normas especiales que regulan el sector.
+El hecho de que el pasajero admita haber consumido bebidas alcohólicas antes del v
+uelo, y que la
+aerolínea tome medidas preventivas basadas en sus reglamentos, no constituye un incumplimiento de
+la garantía ni v
+ulnera los derechos del consumidor, sino que representa una decisión legítima basada
+en razones de seguridad amparadas por la normativa aeronáutica.
+Este precedente reafirma la importancia del equilibrio entre los derechos de los consumidores y sus
+deberes conforme a las normas especiales aplicables a cada sector, reconociendo la preeminencia de
+las consideraciones de seguridad en el transporte aéreo sobre el derecho a recibir el servicio cuando
+el pasajero ha incurrido en conductas expresamente prohibidas por el reglamento aeronáutico.

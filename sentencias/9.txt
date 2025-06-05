@@ -1,0 +1,108 @@
+Análisis Jurídico de Sentencia sobre Facultades Decisorias del
+Juez y Derecho a la Información en Contratos Turísticos
+Tema Jurídico
+Tema Central: Alcance de las facultades decisorias del juez en acciones de protección al consumidor
+y el derecho a la información como presupuesto para la restricción del reembolso en contratos de
+servicios turísticos.
+Subtemas:
+1. Facultades para fallar infra, ultra y extra petita en las acciones de protección al consumidor
+2. Requisitos de la información precontractual en servicios turísticos para la validez de cláusulas de
+no reembolso
+3. Aplicación del Reglamento Aeronáutico Colombiano (RAC) en materia de protección al consumidor
+4. Distribución de la carga probatoria respecto al deber de información sobre condiciones de
+reembolso
+5. Efectividad de la garantía en servicios de transporte aéreo y paquetes turísticos
+Ratio Decidendi
+El juez en acciones de protección al consumidor tiene facultades para fallar infra, ultra y extra petita
+conforme al numeral 9 del artículo 58 de la Ley 1480 de 2011, lo que le permite adoptar la decisión
+más justa para las partes según lo probado en el proceso.
+La restricción del reembolso en tiquetes aéreos de tarifa económica, aunque permitida por el
+Reglamento Aeronáutico Colombiano (RAC 3), solo es aplicable cuando el consumidor ha sido
+debidamente informado de esas condiciones antes de adquirir el tiquete. La información debe ser
+oportuna (previa a la adquisición) y
+verificable (debe existir evidencia de que efectivamente se informó
+al consumidor).
+En ausencia de prueba que acredite que al consumidor se le informó oportuna y debidamente sobre la
+imposibilidad de reembolso, prevalece el derecho a la devolución del dinero, aun cuando se trate de
+tarifas que normalmente podrían tener restricciones según la regulación aeronáutica.
+Datos Básicos
+Número de radicado: 22-120858
+Fecha de la sentencia: 5/07/2023
+Autoridad judicial: Superintendencia de Industria y Comercio, Delegatura para Asuntos
+Jurisdiccionales
+Nombre del juez: Edison Camilo Largo Marín
+Partes involucradas:
+Demandantes: Dorany L
+ucia Urrego Giraldo y Gloria Laureana Suarez Giraldo
+Demandado: Viajes y Turismo Playa Blanca S.A.S.
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. Las demandantes pagaron la suma de dos millones quinientos cincuenta mil pesos ($2.550.000)
+por un paquete turístico que incluía una porción terrestre y servicio de transporte aéreo.
+2. La parte demandada aceptó su responsabilidad de devolver el dinero correspondiente a la porción
+terrestre del paquete.
+3. Respecto a la porción aérea, la controversia se centró en si procedía o no la devolución del dinero
+pagado.
+4. No se encontró en el expediente prueba alguna que acreditara que a las demandantes se les
+hubiera informado oportunamente sobre las condiciones de reembolso de los tiquetes.
+5. No se acreditó por parte de la demandada ninguna causal de exoneración de responsabilidad
+conforme al artículo 16 del Estatuto del Consumidor.
+Fundamentos Jurídicos
+Ley 1480 de 2011, artículo 58, numeral 9: Establece que al adoptar la decisión, el juez puede
+resolver de la forma más justa para las partes según lo probado en el proceso, con plenas
+facultades para fallar infra, ultra y extra petita.
+Ley 1480 de 2011, artículo 56: Define los límites de la competencia en acciones de protección al
+consumidor, incluyendo la restricción para el reconocimiento de perjuicios.
+Reglamento Aeronáutico Colombiano (RAC 3): Permite en casos específicos que no haya
+devolución del dinero pagado por el usuario, especialmente en ciertos tiquetes de tarifa
+económica.
+Ley 1480 de 2011, artículo 16: Establece las causales de exoneración de responsabilidad en
+materia de efectividad de la garantía.
+Consideraciones Principales
+1. Excepcionalidad de las acciones de protección al consumidor: El tribunal reconoce que estas
+acciones tienen ciertas particularidades procesales, como la no exigencia del requisito de
+procedibilidad sino la simple presentación de una reclamación previa ante el proveedor.
+2. Facultades ampliadas del juez: Se destaca la facultad especial conferida por el numeral 9 del
+artículo 58 de la Ley 1480 de 2011, que permite al juez fallar infra, ultra y extra petita, es decir,
+conceder menos de lo pedido, más de lo pedido o algo diferente a lo solicitado.
+3. Valoración probatoria sobre la suma pagada: El tribunal encontró probado que las demandantes
+pagaron $2.550.000 por el paquete turístico objeto del litigio.
+4. Allanamiento parcial a la pretensión: Se constata que la parte demandada aceptó su
+responsabilidad de devolver el dinero correspondiente a la porción terrestre del paquete.
+5. Análisis sobre la porción aérea: Aunque el RAC permite en casos excepcionales la no devolución
+del dinero, esta restricción solo es válida cuando el consumidor ha sido debidamente informado. El
+tribunal no encontró prueba de que se hubiera informado a las demandantes sobre las condiciones
+de reembolso.
+6. Ausencia de causales de exoneración: No se acreditó ninguna causal de exoneración de
+responsabilidad según el artículo 16 del Estatuto del Consumidor que justificara la no prestación
+de los servicios.
+Decisión
+El tribunal ordenó la devolución total del dinero pagado por el paquete turístico ($2.550.000),
+incluyendo tanto la porción terrestre (cuya devolución ya había sido aceptada por la demandada)
+como la porción correspondiente al transporte aéreo.
+Se declaró la v
+tiquetes.
+ulneración de los derechos de las consumidoras, específicamente el derecho a la
+información, al no habérseles informado debidamente sobre las condiciones de reembolso de los
+Precedente Establecido
+Esta sentencia establece un importante precedente en materia de protección al consumidor en el
+sector turístico:
+1. Reafirma las amplias facultades decisorias del juez en acciones de protección al consumidor para
+adoptar la solución más justa según lo probado, incluso si ello implica conceder más, menos o algo
+diferente a lo solicitado por las partes.
+2. Establece que las restricciones de reembolso en tiquetes aéreos, aunque estén permitidas por la
+regulación aeronáutica, solo son oponibles al consumidor cuando se ha cumplido previamente con
+el deber de información clara, oportuna y
+verificable.
+3. Asigna la carga probatoria al proveedor del servicio para demostrar que informó adecuadamente al
+consumidor sobre las condiciones restrictivas del contrato, especialmente aquellas relacionadas
+con la imposibilidad de reembolso.
+4. Ref
+uerza la prevalencia del derecho a la información del consumidor sobre las disposiciones
+reglamentarias sectoriales (RAC), estableciendo que en caso de duda o ausencia de prueba sobre
+el cumplimiento del deber de información, debe fallarse a favor del consumidor.
+Este precedente es aplicable a todos los casos donde se discuta la validez de restricciones al
+reembolso en servicios turísticos y de transporte, estableciendo claramente que dichas restricciones
+solo son válidas cuando f
+ueron oportunamente informadas al consumidor antes de la celebración del
+contrato, con independencia de lo que establezcan las regulaciones sectoriales.

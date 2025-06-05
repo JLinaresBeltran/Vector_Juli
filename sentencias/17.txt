@@ -1,0 +1,115 @@
+Análisis Jurídico de Sentencia sobre Garantía al Consumidor
+durante Emergencia Sanitaria COVID-19
+Tema Jurídico
+Tema Central: Alcance y aplicación de la garantía al consumidor en caso de cancelación de v
+durante la emergencia sanitaria por COVID-19, y la validez de la sustitución del reembolso por
+vouchers de viaje según decretos de emergencia.
+uelos
+Subtemas:
+1. Aplicación de decretos de emergencia (557 y 482 de 2020) en la relación de consumo de
+servicios turísticos
+2. Derecho de elección del consumidor entre reembolso y reubicación de servicios durante
+emergencia sanitaria
+3. Límites temporales de la vigencia de los vouchers de viaje como mecanismo de garantía
+4. Autonomía de la voluntad del consumidor frente a las restricciones de la emergencia sanitaria
+5. Modulación constitucional de los decretos de emergencia en materia de protección al consumidor
+Ratio Decidendi
+Durante la emergencia sanitaria por COVID-19, las agencias de viajes y aerolíneas podían ofrecer travel
+vouchers o bonos en lugar del reembolso en dinero cuando se solicitaran desistimientos o retractos,
+conforme a los decretos de emergencia 557 y 482 de 2020. Sin embargo, estos decretos no podían
+conculcar el derecho de elección de los consumidores para optar por la devolución del dinero o la
+reubicación del servicio.
+Cuando los consumidores, en ejercicio de su autonomía, han elegido aceptar vouchers pero deciden
+no utilizarlos dentro del plazo establecido (durante la vigencia de la emergencia sanitaria y hasta un
+año después), el proveedor cumple con su obligación de garantía al haber ofrecido alternativas
+razonables conforme a la normativa excepcional, debiendo finalmente proceder con la devolución del
+dinero.
+Datos Básicos
+Número de radicado: 22-195923
+Fecha de la sentencia: 17/08/2023
+Autoridad judicial: Superintendencia de Industria y Comercio, Delegatura para Asuntos
+Jurisdiccionales
+Nombre del juez: Yuly Andrea Mogollón Martínez
+Partes involucradas:
+Demandantes: Clara Inés Gómez Ósman y Felix Alejandro Del Vallegomez
+Demandado: Éxito Viajes y Turismo S.A.S
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. Los demandantes compraron v
+uelos programados del 25 de abril de 2020 al 9 de mayo de 2020.
+2. Debido a la pandemia de COVID-19, estos v
+uelos no pudieron realizarse en las fechas previstas.
+3. El Gobierno nacional expidió los decretos de emergencia 557 y 482 de 2020, que permitían a las
+aerolíneas y agencias de viajes ofrecer travel vouchers o bonos en lugar de reembolsos en dinero.
+4. Según la declaración del señor Félix, inicialmente su solicitud era el cambio de los v
+uelos, no la
+devolución del dinero.
+5. Los demandantes accedieron a la restricción (aceptando presumiblemente los vouchers), pero
+decidieron no hacer uso de ellos.
+6. En 2022, cuando ya había pasado el tiempo, la empresa informó al señor Félix que los vouchers ya
+no aplicaban, pero aun así ofreció alternativas con la condición de que debían usarse en el mismo
+día.
+7. La emergencia sanitaria terminó en junio de 2022, y la vigencia de los decretos se extendía hasta
+junio de 2023.
+Fundamentos Jurídicos
+Decretos de emergencia 557 y 482 de 2020, artículos 4°
+y 17 respectivamente: Establecen
+que cuando se soliciten desistimientos o retractos, las aerolíneas y agencias pueden proceder con
+travel vouchers o bonos en lugar de la devolución del dinero, durante la emergencia sanitaria y
+hasta un año después.
+Interpretación de la Corte Constitucional sobre el derecho de elección de los consumidores:
+Aunque no se cita específicamente la sentencia, se menciona que la Corte Constitucional ha
+establecido que estos decretos no pueden conculcar el derecho de elección de los consumidores
+para proceder con la devolución del dinero o con la reubicación.
+Artículo 167 del Código General del Proceso: Se cita para indicar que se dio un tiempo prudente
+para hacer las expediciones de los tiquetes, cumpliendo así con la carga probatoria
+correspondiente.
+Consideraciones Principales
+1. Situación excepcional por pandemia: La pandemia por COVID-19 representó una situación sin
+precedentes en más de 100 años, que afectó gravemente el tejido económico, particularmente el
+sector de servicios turísticos.
+2. Equilibrio entre protección económica y derechos del consumidor: Los decretos de
+emergencia buscaban proteger la economía del sector turístico ante la imposibilidad de prestación
+de servicios, permitiendo el uso de travel vouchers o bonos como alternativa al reembolso
+inmediato, debido a una "disonancia a nivel económico que no era culpa de ninguna de las partes".
+3. Límites temporales de las medidas excepcionales: Los decretos tenían vigencia durante la
+emergencia sanitaria (hasta junio de 2022) y un año más (hasta junio de 2023).
+4. Respeto al derecho de elección: A pesar de las medidas excepcionales, se enfatiza que estos
+decretos no podían conculcar el derecho de elección de los consumidores.
+5. Valoración de la conducta de las partes: Se considera relevante que:
+Inicialmente los demandantes solicitaron el cambio, no la devolución del dinero
+Accedieron a recibir los vouchers pero decidieron no utilizarlos
+La empresa les ofreció alternativas incluso cuando ya había pasado el tiempo de vigencia
+6. Aplicación del principio de autonomía de la voluntad: Se establece que la no utilización de los
+vouchers f
+ue por decisión propia de los demandantes, no porque la empresa se los haya negado.
+Decisión
+Aunque no se establece explícitamente en el extracto la decisión final con respecto a las pretensiones,
+la sentencia parece favorecer la posición de la parte demandada (Éxito Viajes y Turismo S.A.S) al
+considerar que actuó conforme a los decretos de emergencia y respetó el derecho de elección de los
+consumidores.
+La sentencia concluye que "debió hacerse la devolución del dinero", lo que sugiere que el tribunal
+ordenó el reembolso como consecuencia natural de que los demandantes no utilizaron los vouchers
+por decisión propia, y no como sanción por incumplimiento de la garantía por parte de la empresa.
+Precedente Establecido
+Esta sentencia establece un importante precedente sobre la aplicación de medidas excepcionales
+durante emergencias sanitarias en el ámbito de la protección al consumidor:
+1. Las medidas excepcionales adoptadas durante la emergencia sanitaria (como los vouchers de
+viaje en lugar de reembolsos inmediatos) son válidas siempre que respeten el derecho de elección
+de los consumidores.
+2. La responsabilidad compartida entre proveedores y consumidores durante circunstancias
+excepcionales como una pandemia global puede modificar temporalmente el alcance tradicional
+de la garantía al consumidor.
+3. El principio de autonomía de la voluntad es f
+undamental para determinar si hubo v
+ulneración de
+derechos del consumidor: si este acepta voluntariamente alternativas ofrecidas por el proveedor
+(como vouchers) pero luego decide no utilizarlas, no puede alegarse incumplimiento de la
+garantía.
+4. Los proveedores de servicios turísticos deben ofrecer alternativas razonables y flexibles durante y
+después de situaciones excepcionales, incluso más allá de los plazos estrictamente establecidos.
+Este precedente tiene aplicabilidad no solo para casos relacionados con la pandemia de COVID-19,
+sino como referente para f
+uturas situaciones excepcionales que puedan afectar al sector de servicios
+turísticos y la aplicación de medidas temporales que modifiquen el régimen ordinario de protección al
+consumidor.

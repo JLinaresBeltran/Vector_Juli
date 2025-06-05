@@ -1,0 +1,94 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA
+Radicado: 20-317980
+Tema Jurídico
+Cuestión central: Derecho al reembolso de tiquetes aéreos cancelados durante la pandemia de
+COVID-19 y
+ulneración del derecho a la información del consumidor.
+Subtemas jurídicos:
+1. Relación de consumo y legitimación en la causa
+2. Derecho del consumidor a recibir información clara, su
+ficiente y oportuna
+3. Garantía en la prestación de servicios de transporte aéreo
+4. Aplicación del Decreto 482 de 2020 en el contexto del COVID-19
+5. Consecuencias procesales por la no contestación de la demanda
+Ratio Decidendi
+Cuando una aerolínea se compromete voluntariamente a realizar la devolución en dinero por tiquetes
+no utilizados debido a cancelaciones derivadas de la pandemia COVID-19, está obligada a cumplir
+dicho compromiso e informar de manera precisa y oportuna los términos de la devolución,
+independientemente de que existiera normativa especial (Decreto 482 de 2020) que le permitiera
+realizar reembolsos mediante servicios alternativos. El incumplimiento de este compromiso y la falta
+de información clara sobre los plazos del reembolso constituyen una v
+ulneración a los derechos del
+consumidor, específicamente el derecho a recibir información y la garantía legal de los servicios
+contratados, conforme al artículo 11 numeral 3 de la Ley 1480 de 2011.
+Datos Básicos
+Número de radicado: 20-317980
+Fecha de la sentencia: 14/09/2021
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales (Superintendencia de Industria y
+Comercio)
+Juez: Orlando Enrique García Artuz
+Partes: Liliana Marcela Taborda (demandante) vs ABC Aerolíneas S.A. de CV Sucursal Colombia
+(demandado)
+Tipo de acción: Acción de protección al consumidor
+v
+Hechos Clave
+1. La demandante adquirió tiquetes aéreos el 17 de enero de 2020 para el itinerario Medellín-
+Cancún-Medellín a ser utilizados el 7 y 12 de junio de 2020, por un valor de $2.480.600.
+2. Los v
+uelos f
+ueron cancelados sin previo aviso, presumiblemente debido a las restricciones por la
+pandemia de COVID-19.
+3. La consumidora solicitó el reembolso del dinero pagado por los tiquetes.
+4. La aerolínea se comprometió a realizar la devolución del dinero en efectivo.
+5. Después de más de 90 días, la aerolínea no realizó el reembolso prometido.
+6. La demandada no informó a la consumidora sobre la fecha estimada para la devolución del dinero.
+7. La accionante presentó reclamación directa a través de correos electrónicos dirigidos al dominio
+web de la compañía.
+Fundamentos Jurídicos
+Artículo 5 numeral 3 de la Ley 1480 de 2011: Define al consumidor como "Toda persona natural
+o jurídica que, como destinatario final, adquiera, disfrute o utilice un determinado producto,
+cualquiera que sea su naturaleza para la satisfacción de una necesidad propia, privada, familiar o
+doméstica y empresarial cuando no esté ligada intrínsecamente a su actividad económica."
+Artículo 11 numeral 3 de la Ley 1480 de 2011: Establece que cuando el consumidor contrate
+servicios que no se cumplan, habrá lugar a título de efectividad de la garantía al cumplimiento del
+contrato en los términos pactados o a la devolución del dinero.
+Decreto 482 de 2020: Normativa especial aplicable al sector aeronáutico durante la pandemia
+COVID-19, que permitía a las aerolíneas realizar devoluciones en servicios y no necesariamente en
+efectivo.
+Artículo 372 del CGP: Establece las consecuencias procesales por la inasistencia a la audiencia,
+incluyendo presumir como ciertos los hechos susceptibles de confesión.
+Consideraciones Principales
+1. Se estableció la existencia de una relación de consumo entre las partes, siendo la demandante
+consumidora según el artículo 5 numeral 3 de la Ley 1480 de 2011, y la aerolínea proveedora del
+servicio de transporte aéreo.
+2. El tribunal consideró que la cancelación de los v
+uelos se debió a una circunstancia ajena a la
+voluntad de las partes (la pandemia por COVID-19), por lo que no hubo culpa imputable a ninguna
+de ellas.
+3. Se concluyó que aunque el Decreto 482 de 2020 otorgaba a las aerolíneas la posibilidad de
+realizar devoluciones en servicios (travel voucher o bonos), la demandada optó voluntariamente
+por realizar el reembolso en dinero.
+4. El tribunal determinó que la aerolínea v
+ulneró el derecho a la información del consumidor al no
+informar de forma su
+ficiente, transparente y oportuna la fecha exacta en que realizaría la
+devolución del dinero.
+5. Se aplicó la consecuencia procesal de presumir como ciertos los hechos susceptibles de
+confesión ante la no contestación de la demanda y la inasistencia de la demandada a la audiencia.
+Decisión
+Se declaró que ABC Aerolíneas S.A. de CV Sucursal Colombia v
+ulneró los derechos de la
+consumidora.
+Se ordenó a la compañía demandada realizar la devolución de la suma de $2.483.158 (valor
+indexado) a favor de la demandante, por concepto de los tiquetes aéreos.
+Precedente Establecido
+Cuando un proveedor de servicios aeronáuticos se compromete a realizar la devolución del dinero por
+servicios no prestados a causa de la pandemia COVID-19, está obligado a cumplir con dicho
+compromiso e informar de manera clara y oportuna sobre los términos de la devolución, aun cuando
+existieran normas especiales (Decreto 482 de 2020) que le permitieran realizar dicho reembolso
+mediante servicios alternativos. El incumplimiento de este compromiso y la falta de información clara
+constituyen una v
+ulneración a los derechos del consumidor que debe ser remediada mediante la
+devolución efectiva del dinero pagado, debidamente indexado.

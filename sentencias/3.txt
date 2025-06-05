@@ -1,0 +1,89 @@
+ANÁLISIS DE SENTENCIA 22-18461 DEL 11/07/2023
+Tema Jurídico
+Cuestión jurídica central: Ejercicio del derecho de retracto en contratos de transporte aéreo
+celebrados mediante ventas a distancia (comercio electrónico) y los requisitos para su procedencia.
+Subtemas jurídicos:
+1. Naturaleza y alcance del derecho de retracto en el Estatuto del Consumidor
+2. Requisitos temporales y tipológicos para el ejercicio válido del derecho de retracto
+3. Distinción entre ventas tradicionales y
+ventas a distancia para efectos del derecho de retracto
+4. Efectos jurídicos del ejercicio oportuno del derecho de retracto
+5. O
+bligación de reintegro del dinero ante el ejercicio del derecho de retracto
+Ratio Decidendi
+El derecho de retracto es una facultad legal que permite al consumidor resolver unilateralmente
+contratos celebrados mediante sistemas de financiación otorgados por el productor/proveedor, ventas
+de tiempos compartidos o métodos no tradicionales o a distancia, cuando se ejerce dentro de los
+cinco días hábiles siguientes a la celebración del contrato y siempre que el servicio no haya
+comenzado a ejecutarse antes de ese término.
+Las ventas realizadas a través de mecanismos de comercio electrónico, como la adquisición de
+tiquetes aéreos por página web, constituyen ventas a distancia en los términos del Estatuto del
+Consumidor, por cuanto el consumidor no tiene contacto directo con el producto que desea adquirir y
+la transacción se perfecciona por medios electrónicos.
+Cuando el consumidor ejerce válidamente el derecho de retracto, se produce de pleno derecho la
+resolución del contrato y surge para el proveedor la obligación de reintegrar la totalidad del dinero
+pagado, sin que puedan establecerse restricciones, penalidades o condiciones que limiten este
+derecho.
+Datos Básicos
+Número de radicado: 22-18461
+Fecha de la sentencia: 11/07/2023
+Autoridad judicial: Superintendencia de Industria y Comercio - Delegatura para Asuntos
+Jurisdiccionales
+Juez: Orlando Enrique García Artuz
+Partes involucradas:
+Demandantes: Carolina Younes Betancourt / Karime Younes Betancourt
+Demandado: LATAM Airlines Group S.A. Sucursal Colombia
+Tipo de acción: Verbal sumario - Acción de Protección al Consumidor
+Hechos Clave
+1. Las demandantes adquirieron tiquetes aéreos y servicios adicionales a través de la página web de
+la aerolínea demandada.
+2. Las consumidoras ejercieron su derecho de retracto el mismo día de la compra de los tiquetes
+aéreos.
+3. La compra se realizó mediante mecanismo de comercio electrónico (página web), constituyendo
+una venta a distancia según el Estatuto del Consumidor.
+4. La aerolínea demandada admitió que las demandantes adquirieron los tiquetes y servicios a través
+de su página web.
+5. El ejercicio del derecho de retracto se realizó dentro del término legal de los cinco días hábiles
+siguientes a la celebración del contrato.
+Fundamentos Jurídicos
+Artículo 47 de la Ley 1480 de 2011 (Estatuto del Consumidor): Establece el derecho de
+retracto, señalando: "En todos los contratos para la venta de bienes y prestación de servicios
+mediante sistemas de financiación otorgada por el productor o proveedor, venta de tiempos
+compartidos o ventas que utilizan métodos no tradicionales o a distancia, que por su naturaleza no
+deban consumirse o no hayan comenzado a ejecutarse antes de cinco días, se entenderá pactado
+el derecho de retracto por parte del consumidor."
+Definición de ventas a distancia en la Ley 1480 de 2011: Son aquellas en las cuales el
+consumidor no tiene contacto directo con el producto que desea adquirir y se pueden
+perfeccionar mediante mecanismos de comercio electrónico.
+Artículo 62 del Código de Régimen Político y Municipal: "En los plazos de días que se señalen
+en las leyes y actos oficiales, se entienden suprimidos los feriados y de vacantes, a menos que se
+exprese lo contrario."
+Parágrafo del artículo 47 de la Ley 1480 de 2011: Establece que cuando se hace uso de la
+facultad de retracto, se resolverá el contrato y se deberá reintegrar el dinero que el consumidor
+hubiese pagado.
+Consideraciones Principales
+El Despacho analiza la naturaleza del derecho de retracto, estableciendo que es un derecho que
+se entiende pactado en todos los contratos de ventas a distancia, independientemente de que se
+haya informado o no al consumidor.
+Se examina si la compra de tiquetes aéreos por página web constituye una venta a distancia,
+concluyendo afirmativamente al considerar que se trata de una operación realizada mediante
+mecanismos de comercio electrónico y sin contacto directo con el producto.
+Se analiza el requisito temporal, determinando que el plazo de cinco días para ejercer el retracto
+debe entenderse como días hábiles, conforme al artículo 62 del Código de Régimen Político y
+Municipal.
+El Despacho considera que, al haber ejercido el derecho el mismo día de la compra, las
+demandantes cumplieron claramente con el requisito temporal.
+Se evalúa el efecto jurídico del ejercicio del derecho de retracto, concluyendo que opera la
+resolución del contrato y surge la obligación de restitución del dinero pagado.
+Decisión
+(La decisión específica no está completa en el documento proporcionado, pero por el análisis realizado
+parece indicar que se falló a favor de las demandantes, ordenando al demandado reintegrar los valores
+pagados por los tiquetes aéreos y servicios adicionales adquiridos, tras considerar procedente el
+ejercicio del derecho de retracto.)
+Precedente Establecido
+El ejercicio del derecho de retracto en contratos de transporte aéreo celebrados a través de
+plataformas digitales o páginas web es plenamente procedente, siempre que se ejerza dentro de los
+cinco días hábiles siguientes y antes de que comience la ejecución del servicio. Las aerolíneas no
+pueden establecer restricciones o condiciones que limiten este derecho cuando se cumplan los
+requisitos legales para su ejercicio, y están obligadas a reintegrar la totalidad del dinero pagado por el
+consumidor cuando este ejerce válidamente su derecho de retracto.

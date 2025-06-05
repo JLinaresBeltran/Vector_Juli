@@ -1,0 +1,102 @@
+ANÁLISIS DE SENTENCIA - RADICADO 20-93803
+Tema Jurídico
+Cuestión jurídica central: Procedencia de la devolución del dinero pagado por tiquetes aéreos no
+utilizados debido a la emergencia sanitaria por COVID-19 en el contexto de una relación de consumo
+con intermediarios de venta de tiquetes.
+Subtemas jurídicos relacionados:
+1. Relación de consumo entre agencias de viaje en línea y consumidores
+2. Derecho de retracto en contratos de transporte aéreo
+3. Aplicabilidad del desistimiento en tarifas promocionales
+4. Facultades jurisdiccionales de la Superintendencia de Industria y Comercio
+5. Distribución de responsabilidades ante eventos de f
+uerza mayor
+Ratio Decidendi
+Ante situaciones de f
+uerza mayor (como la pandemia por COVID-19) que impiden el cumplimiento de
+obligaciones contractuales por ambas partes de una relación de consumo, no es equitativo asignar
+toda la responsabilidad a una sola de ellas. Si bien no existe v
+ulneración de derechos del consumidor
+ni se cumplen los presupuestos para ordenar la devolución total del dinero en efectivo, tampoco puede
+ignorarse que la f
+uerza mayor afectó a ambas partes por igual.
+El f
+undamento normativo principal es el numeral 9 del artículo 58 de la Ley 1480 de 2011, que
+establece: "Al adoptar la decisión definitiva, el Juez de conocimiento o la Superintendencia de
+Industria y Comercio resolverá sobre las pretensiones de la forma que considere más justa para las
+partes según lo probado en el proceso, con plenas facultades para fallar infra, extra y ultrapetita, y
+emitirá las órdenes a que haya lugar con indicación de la forma y términos en que se deberán cumplir."
+Basado en estas facultades excepcionales, la solución equilibrada en estos casos es ordenar la
+devolución en servicios (bonos endosables) que permitan al consumidor recuperar el valor pagado,
+estableciendo un plazo razonable para su utilización.
+Datos Básicos
+Número de radicado: 20-93803
+Fecha de la sentencia: 10/03/2021
+Autoridad judicial: Superintendencia de Industria y Comercio (Delegatura para Asuntos
+Jurisdiccionales)
+Nombre del juez: Orlando Enrique García Artuz
+Partes involucradas:
+Demandante: Fran Johan Valderrama Carvajal
+Demandado: Despegar Colombia S.A.S.
+Tipo de acción o recurso: Acción de protección al consumidor
+Hechos Clave
+1. El 4 de febrero de 2020, el accionante adquirió 2 tiquetes de la aerolínea AIR EU
+R
+OPA por valor de
+$5.943.689 pesos a través de la página web de Despegar Colombia S.A.S.
+2. El v
+uelo f
+ue cancelado debido a la emergencia sanitaria ocasionada por el COVID-19.
+3. El 10 de marzo de 2020, el accionante solicitó a la sociedad accionada la devolución de la totalidad
+del dinero pagado.
+4. Despegar Colombia S.A.S. respondió que, debido a las políticas de AIR EU
+R
+OPA, no era posible
+realizar la devolución total del dinero.
+5. Ante la negativa, el accionante contactó directamente a AIR EU
+R
+OPA, que le ofreció la devolución
+parcial del precio en efectivo o utilizar los tiquetes dentro de los 2 años siguientes.
+Fundamentos Jurídicos
+1. Numeral 11 del artículo 5 de la Ley 1480 de 2011: Define la calidad de proveedor, aplicable a
+Despegar Colombia S.A.S. aunque no preste directamente el servicio aéreo.
+2. Artículo 47 de la Ley 1480 de 2011: Regula el derecho de retracto, estableciendo un plazo de 5
+días hábiles después de la compra para ejercerlo.
+3. Artículo 3.10.1.8.1 de los Reglamentos Aeronáuticos de Colombia: Regula la figura del
+desistimiento, estableciendo que no aplica para tarifas promocionales.
+4. Numeral 9 del artículo 58 de la Ley 1480 de 2011: Faculta al juez para resolver de la forma más
+justa para las partes, con atribuciones para fallar infra, extra y ultrapetita.
+Consideraciones Principales
+1. Relación de consumo y legitimación: Se confirma la existencia de una relación de consumo. El
+demandante ostenta la calidad de consumidor final, y Despegar Colombia S.A.S. la de proveedor
+según el numeral 11 del artículo 5 de la Ley 1480 de 2011, aunque no preste directamente el
+servicio aéreo.
+2. Solidaridad del intermediario: No se requiere conformar un litisconsorcio necesario con la
+aerolínea, pues Despegar Colombia S.A.S. está obligada a responder solidariamente por las
+pretensiones del consumidor al ser proveedora del servicio.
+3. Inaplicabilidad del derecho de retracto: No es aplicable al caso concreto porque el accionante
+presentó la solicitud de devolución el 10 de marzo de 2020, cuando ya había vencido el plazo de 5
+días hábiles establecido en el artículo 47 de la Ley 1480 de 2011.
+4. Inaplicabilidad del desistimiento: Tampoco opera esta figura porque los tiquetes tenían tarifa
+promocional, excepción contemplada en el artículo 3.10.1.8.1 de los Reglamentos Aeronáuticos de
+Colombia.
+5. Fuerza mayor: La situación generada por el COVID-19 constituye un hecho notorio de f
+uerza
+mayor que impidió a ambas partes cumplir con sus obligaciones contractuales.
+Decisión
+El despacho, haciendo uso de las facultades establecidas en el numeral 9 del artículo 58 de la Ley
+1480 de 2011, ordena la devolución del dinero en servicios, mediante bonos endosables por el valor
+total de la compra ($5.943.689 pesos), con vigencia hasta el 31 de mayo de 2022.
+Precedente Establecido
+En casos donde eventos de f
+uerza mayor impidan el cumplimiento de las obligaciones contractuales
+por ambas partes en una relación de consumo, especialmente en contratos de transporte aéreo
+afectados por restricciones sanitarias, no procede automáticamente la devolución del dinero en
+efectivo ni puede considerarse que exista v
+ulneración de los derechos del consumidor. En estas
+circunstancias, es procedente la devolución del valor pagado en forma de bonos o servicios con un
+plazo razonable de vigencia, como medida equitativa que distribuye las cargas entre proveedor y
+consumidor. Esta solución encuentra su
+f
+undamento en las facultades extraordinarias que la ley
+concede al juez de consumo para fallar de la forma más justa para las partes, atendiendo a las
+circunstancias probadas en el proceso.

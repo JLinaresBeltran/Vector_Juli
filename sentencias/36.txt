@@ -1,0 +1,129 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA No. 21-69165 (27/07/2022)
+Tema Jurídico
+Determinación de la calidad de consumidor final como requisito para la legitimación en la causa por
+activa en acciones de protección al consumidor, cuando el servicio adquirido está directamente
+relacionado con la actividad económica del demandante.
+Subtemas
+1. Alcance y delimitación del concepto de "consumidor final" según la Ley 1480 de 2011 para
+personas jurídicas
+2. Criterios jurisprudenciales para determinar cuándo una empresa actúa como consumidor final
+3. Legitimación en la causa como presupuesto procesal en acciones de protección al consumidor
+4. Alcance del deber de información frente a las restricciones de v
+uelos internacionales de carga
+5. Límites de competencia de la SIC en materia de indemnización de perjuicios y reconocimiento de
+intereses
+Ratio Decidendi
+Una persona jurídica no tiene la calidad de consumidor final, según lo dispuesto en el artículo 5,
+numeral 3 de la Ley 1480 de 2011, cuando adquiere un servicio para satisfacer una necesidad
+directamente ligada a su actividad económica o que está intrínsecamente relacionada con su objeto
+social. En tales casos, el demandante carece de legitimación en la causa por activa para interponer
+acciones de protección al consumidor, debiendo acudir a las vías judiciales ordinarias para dirimir la
+controversia contractual.
+Este criterio resulta aplicable incluso cuando existió incumplimiento por parte del demandado y este
+no contestó la demanda ni asistió a la audiencia inicial, pues la legitimación en la causa constituye un
+presupuesto procesal que no puede ser subsanado por la conducta procesal de la contraparte.
+Datos Básicos
+Número de radicado: 21-69165
+Fecha de la sentencia: 27 de julio de 2022
+Autoridad judicial: Superintendencia de Industria y Comercio, Delegatura para Asuntos
+Jurisdiccionales
+Juez: María Cristina Vallejo Arteaga
+Partes involucradas:
+Demandante: TU TRADER EN CHINA S.A.S.
+Demandado: AER
+OLÍNEA PANAMERICANA DE CARGA Y TRANSPO
+RTE S.A.S.
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. En mayo de 2020, TU TRADER EN CHINA S.A.S. y AER
+OLÍNEA PANAMERICANA DE CARGA Y
+TRANSPO
+RTE S.A.S. suscribieron un contrato de prestación de servicios para un v
+uelo charter
+desde Cantón (China) hasta Bogotá (Colombia), programado para el 8 de mayo de 2020.
+2. Las partes pactaron que TU TRADER debía pagar el 50% del valor del contrato como anticipo,
+equivalente a $204.903.770, obligación que cumplió el 6 de mayo de 2020.
+3. La aerolínea incumplió con la realización del v
+uelo en la fecha acordada, por lo que las partes
+reprogramaron el servicio para el 13 de mayo de 2020.
+4. El v
+uelo tampoco se realizó en esta segunda fecha, lo que motivó que TU TRADER solicitara la
+devolución del dinero mediante comunicación del 15 de mayo de 2020.
+5. El 10 de junio de 2020, el gerente jurídico de la aerolínea explicó que el v
+uelo no pudo salir de
+Cantón sino que debía salir de Guanzhou y Hong Kong, y que existían problemas aduaneros y de
+documentación.
+6. La aerolínea aceptó reembolsar el dinero y el 28 de septiembre de 2020 remitió un soporte de
+pago, pero TU TRADER afirmó que el dinero nunca se reflejó en su cuenta porque la cuenta
+destinataria no existía.
+7. El propósito del contrato era transportar tapabocas desde China a Colombia para su posterior
+comercialización, actividad directamente relacionada con el objeto social de TU TRADER.
+Fundamentos Jurídicos
+Artículo 5, numeral 3 de la Ley 1480 de 2011: Define consumidor o usuario como "toda persona
+natural o jurídica que, como destinatario final, adquiera, disfrute o utilice un determinado producto,
+cualquiera que sea su naturaleza para la satisfacción de una necesidad propia, privada, familiar o
+doméstica y empresarial cuando no esté ligada intrínsecamente a su actividad económica."
+Artículo 59 de la Ley 1480 de 2011: Establece los límites de competencia de la SIC en materia de
+indemnización de perjuicios.
+Artículos 97, 372 numeral 4 y 205 del Código General del Proceso: Regulan las consecuencias
+procesales de la falta de contestación de la demanda y la inasistencia a la audiencia inicial.
+Sentencia C-1141 de 2000 de la Corte Constitucional: Establece que corresponde al juzgador
+declarar la carencia de legitimación en la causa por activa cuando el demandante no tiene la
+calidad de consumidor final.
+Sentencia de 3 de mayo de 2005 de la Corte Suprema de Justicia: Define que para determinar
+la calidad de consumidor "siempre será forzoso indagar en torno a la finalidad concreta que el
+sujeto, persona natural o jurídica persigue con la adquisición, utilización o disfrute de un
+determinado bien o servicio" para establecer si busca satisfacer una necesidad propia no
+vinculada intrínsecamente a su actividad económica.
+Sentencia de 15 de abril de 2015 del Tribunal Superior de Bogotá: Precedente sobre casos en
+que el bien o servicio adquirido está directamente ligado a la actividad económica del
+demandante, donde se estableció que esto "desdibuja la calidad de consumidor que invoca e
+impide dirimir la controversia bajo el amparo del Estatuto del Consumidor".
+Consideraciones Principales
+1. Sobre la acreditación de la reclamación directa: El tribunal considera que las reclamaciones
+directas se encuentran probadas con los acuerdos de pago que se intentaron realizar entre las
+partes, así como con las comunicaciones cruzadas frente al incumplimiento del contrato.
+2. Sobre las consecuencias procesales de la no contestación e inasistencia: El despacho señala
+que la no contestación de la demanda y la inasistencia a la audiencia por parte de la aerolínea
+conlleva a que se tomen como ciertos los hechos susceptibles de confesión, conforme a los
+artículos 97, 372 numeral 4 y 205 del Código General del Proceso.
+3. Sobre la competencia en materia de perjuicios: Frente a la pretensión del pago de intereses, el
+tribunal aclara que la SIC no es competente para analizar daños y perjuicios ni ordenar el pago de
+intereses sobre el dinero solicitado, en virtud del artículo 59 de la Ley 1480 de 2011.
+4. Sobre la calidad de consumidor final: El despacho analiza que TU TRADER adquirió el servicio
+de transporte aéreo para traer mercancía (tapabocas) desde China a Colombia con el propósito de
+venderla posteriormente, lo cual está directamente relacionado con su actividad económica.
+5. Sobre la naturaleza de la relación contractual: El tribunal determina que el propósito del
+contrato no se ajusta a una necesidad propia, privada, familiar o doméstica, sino a una de índole
+económica, por lo que concluye que TU TRADER no es consumidor final en los términos del
+Estatuto del Consumidor.
+6. Sobre la legitimación en la causa: Como consecuencia de lo anterior, el despacho establece que
+TU TRADER carece de legitimación en la causa por activa para interponer la acción de protección
+al consumidor.
+Decisión
+La Superintendencia de Industria y Comercio niega las pretensiones de la parte activa por falta de
+legitimación en la causa por activa, al determinar que TU TRADER EN CHINA S.A.S. no tiene la calidad
+de consumidor final en los términos del artículo 5, numeral 3 de la Ley 1480 de 2011, ya que el servicio
+adquirido estaba directamente ligado a su actividad económica, procediendo con el archivo del
+expediente.
+Precedente Establecido
+Esta sentencia ref
+uerza y desarrolla importantes criterios jurisprudenciales sobre la calidad de
+consumidor final en el contexto de las relaciones comerciales B2B:
+1. La calidad de consumidor final debe analizarse a partir de la finalidad específica para la cual se
+adquiere el producto o servicio, independientemente de la naturaleza jurídica del adquirente.
+2. Una persona jurídica no puede ser considerada consumidor final cuando adquiere un bien o
+servicio para satisfacer una necesidad directamente ligada a su actividad económica, aunque la
+adquisición pueda estar relacionada con su objeto social.
+3. El incumplimiento por parte del proveedor y su conducta procesal (no contestación de la demanda
+e inasistencia a la audiencia) no modifica la naturaleza de la relación contractual ni subsana la falta
+de legitimación en la causa cuando el demandante no es consumidor final.
+4. Las controversias contractuales entre empresas donde el servicio adquirido está ligado a la
+actividad económica del adquirente deben resolverse a través de vías judiciales ordinarias y no
+mediante acciones de protección al consumidor.
+Este precedente resulta especialmente relevante para delimitar el ámbito de aplicación del Estatuto del
+Consumidor en relaciones B2B, evitando que las acciones de protección al consumidor se utilicen
+como mecanismo para resolver controversias contractuales entre empresas que no están en una
+verdadera relación de consumo.

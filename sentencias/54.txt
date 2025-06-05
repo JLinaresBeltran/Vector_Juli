@@ -1,0 +1,117 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA
+TEMA J
+U
+RÍDICO
+Cuestión jurídica central: Protección al consumidor en servicios de transporte aéreo cancelados
+durante la pandemia COVID-19 y efectividad de los Travel Vouchers emitidos como compensación
+cuando la aerolínea cesa operaciones.
+Subtemas jurídicos relacionados:
+1. Acreditación de la relación de consumo
+2. Requisitos y formalidades de la reclamación directa
+3. Consecuencias procesales de la no contestación de la demanda
+4. Garantía legal en la prestación de servicios de transporte aéreo
+5. Aplicación de normativa especial durante estado de emergencia (COVID-19)
+RATIO DECIDENDI
+La ratio decidendi de esta sentencia establece que, si bien durante la pandemia COVID-19 existía
+normativa especial (Decreto Legislativo 482 de 2020) que permitía a las aerolíneas ofrecer vouchers
+en lugar de reembolsos inmediatos, cuando estos vouchers no pueden ser efectivamente redimidos
+por circunstancias sobrevinientes como el valor incorrecto asignado y el cese de operaciones de la
+aerolínea, se debe proceder a la devolución del dinero para hacer efectiva la garantía legal del
+consumidor.
+"Por lo expuesto, el despacho determina que, la consumidora no pudo redimir el Travel Voucher, por lo
+que no vio materializada la efectividad de la garantía. Por tanto, no se ordenará la expedición de un
+nuevo Voucher, como lo había indicado el decreto expedido por el Gobierno Nacional. Lo anterior,
+debido a que INTER
+JET ya no opera en el territorio nacional y no será posible materializar el derecho a
+través de la expedición de un Voucher. Por tanto, se ordenará la devolución del dinero."
+DATOS BÁSICOS
+Número de radicado: 20-311610
+Fecha de la sentencia: 21/09/2021
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales de la Superintendencia de Industria y
+Comercio (SIC)
+Juez: Natalia Andrea Alonso Molina
+Partes involucradas:
+Demandante: CATALINA ANDREA DÍAZ R
+ODRÍGUEZ
+Demandado: ABC AER
+OLÍNEAS S.A. DE C V SUCU
+Tipo de acción: Acción de protección al consumidor
+RSAL COLO
+MBIA
+HECHOS CLAVE
+1. La demandante adquirió un tiquete aéreo de la aerolínea INTER
+JET para la ruta Guadalajara-
+Bogotá a través de la agencia demandada (ABC AER
+OLÍNEAS S.A. DE C V SUCU
+RSAL
+COLO
+MBIA).
+2. El valor pagado f
+ue US 394,14 dólares americanos (según pruebas documentales, aunque la
+demandante inicialmente indicó US 331,94).
+3. Debido a la pandemia COVID-19, el viaje f
+ue cancelado e INTER
+JET otorgó un Travel Voucher para
+redimir en sus servicios.
+4. Al intentar redimir el voucher, la demandante descubrió que su
+valor era inferior al monto
+originalmente pagado.
+5. La consumidora contactó múltiples veces a INTER
+JET solicitando la corrección del valor del
+voucher sin obtener respuesta.
+6. INTER
+JET posteriormente cesó operaciones en Colombia, imposibilitando la redención efectiva del
+voucher.
+FUNDAMENTOS J
+U
+RÍDICOS
+Artículo 58 de la Ley 1480 de 2011 (Estatuto del Consumidor): Establece los requisitos de
+procedibilidad para la acción de protección al consumidor, incluyendo la reclamación directa.
+Artículo 97 del Código General del Proceso: Determina las consecuencias procesales de no
+contestar la demanda, permitiendo presumir ciertos los hechos susceptibles de confesión.
+Artículo 372 numeral 4 del Código General del Proceso: "La inasistencia injustificada del
+demandante hará presumir ciertos los hechos en que se f
+undan las excepciones propuestas por el
+demandado siempre que sean susceptibles de confesión; la del demandado hará presumir ciertos
+los hechos susceptibles de confesión en que se f
+unde la demanda".
+Decreto Legislativo 482 de 2020: Normativa especial expedida durante la pandemia COVID-19
+que permitía a las aerolíneas reembolsar mediante vouchers redimibles en servicios propios,
+válidos durante la pandemia y hasta un año después.
+CONSIDERACIONES PRINCIPALES
+1. Relación de consumo: Quedó acreditada a través de los documentos aportados como prueba por
+la demandante y la falta de contestación de la demanda por parte de la sociedad accionada.
+2. Reclamación directa: Se consideró surtida al haberse presentado ante INTER
+JET, pues el
+Estatuto del Consumidor no impone al consumidor el deber de efectuar la reclamación
+específicamente ante el productor o proveedor del servicio.
+3. Consecuencias procesales: Debido a la inasistencia de la demandada a la audiencia inicial, se
+aplicó la presunción del artículo 372 numeral 4 del CGP. Sin embargo, respecto al monto pagado,
+se tu
+vo en cuenta la evidencia documental que acreditó US 394,14 dólares americanos y no los US
+331,94 inicialmente reclamados.
+4. Garantía legal: Aunque existía normativa especial que permitía emitir vouchers durante la
+pandemia, el despacho determinó que el voucher emitido no pudo ser redimido efectivamente por
+dos razones:
+valor incorrecto y posterior cese de operaciones de INTER
+JET en Colombia.
+5. Aplicación de normativa especial: El tribunal analizó que, si bien el Decreto Legislativo 482 de
+2020 permitía la emisión de vouchers, la finalidad última de la norma era proteger los derechos de
+los consumidores, lo cual no se materializó en este caso.
+DECISIÓN
+1. Se declaró la v
+ulneración a los derechos de la consumidora.
+2. Se ordenó a la sociedad demandada devolver el dinero pagado por la prestación del servicio
+contratado (US 394,14 dólares americanos), en lugar de emitir un nuevo voucher, dada la
+imposibilidad de redimirlo por el cese de operaciones de INTER
+JET.
+PRECEDENTE ESTABLECIDO
+El precedente establece que, incluso cuando existe normativa especial que permite compensaciones
+alternativas al reembolso durante situaciones de emergencia (como la pandemia COVID-19), si estas
+alternativas no pueden hacerse efectivas por circunstancias sobrevinientes como el cese de
+operaciones del proveedor del servicio, debe prevalecer la protección efectiva al consumidor mediante
+la devolución del dinero pagado. La imposibilidad material de hacer efectivo un voucher emitido bajo
+normativa excepcional implica que debe aplicarse la regla general de reembolso para garantizar la
+efectiva protección de los derechos del consumidor.

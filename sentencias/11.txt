@@ -1,0 +1,138 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA 21-155038
+Tema Jurídico
+Responsabilidad de las aerolíneas frente a situaciones de no uso de tiquetes aéreos por causas
+médicas no contempladas en sus políticas de exoneración de penalidades, en el contexto de la
+emergencia sanitaria por COVID-19.
+Subtemas jurídicos:
+1. Alcance y
+validez de las políticas internas de las aerolíneas sobre exoneración de penalidades por
+causas médicas
+2. Deber de información oportuna como componente esencial del servicio de transporte aéreo
+3. Aplicación del Decreto 482 de 2020 como normativa especial durante la emergencia sanitaria
+4. Equilibrio entre la autonomía contractual de las aerolíneas y los derechos del consumidor
+5. Criterios de determinación del valor a reembolsar en tiquetes de ida y
+uelta parcialmente
+utilizados
+Ratio Decidendi
+Las aerolíneas tienen la facultad legítima de establecer sus propias políticas y condiciones respecto a
+la exoneración de penalidades por no uso de tiquetes debido a causas médicas, siempre que estas
+condiciones sean informadas de manera clara y oportuna al consumidor. No existe v
+ulneración de los
+derechos del consumidor cuando la aerolínea aplica sus propias políticas (como exigir hospitalización
+para eximir de penalidad), pero la comunicación tardía de estas condiciones constituye una falla en el
+servicio.
+En el contexto de la emergencia sanitaria por COVID-19, resulta aplicable el Decreto 482 de 2020, que
+permite ordenar alternativas de compensación como la emisión de travel vouchers para uso f
+uturo,
+incluso en situaciones donde las políticas de la aerolínea no contemplarían originalmente la
+exoneración de penalidades, equilibrando así los derechos del consumidor con los intereses legítimos
+de las aerolíneas durante circunstancias excepcionales.
+Datos Básicos
+Número de radicado: 21-155038
+Fecha de la sentencia: 20/04/2022
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales de la Superintendencia de Industria
+y Comercio
+v
+Juez: María Cristina Vallejo Arteaga
+Partes involucradas:
+Demandante: J
+ULIANA RIVAS BADILLO
+Demandado: IBERIA LÍNEAS AÉREAS DE ESPAÑA SOCIEDAD ANÓNIMA OPERADO
+SUCU
+RSAL COLO
+MBIANA
+RA
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. La demandante adquirió dos tiquetes aéreos con Iberia: uno para el trayecto Bogotá-Madrid
+(programado para el 11 de abril de 2021) y otro para Madrid-Bogotá, por un valor total de
+$2.644.840.
+2. El 9 de abril de 2021, la demandante presentó un cuadro de otitis aguda que, según diagnóstico
+médico, le impedía viajar en la fecha programada.
+3. La demandante se comunicó con Iberia ese mismo día para informar su imposibilidad de realizar el
+viaje en la fecha prevista y solicitó información para el cambio de fecha del tiquete.
+4. Al no recibir respuesta, la demandante insistió el 12 de abril de 2021 (después de la fecha original
+del v
+uelo) requiriendo una respuesta a su solicitud.
+5. Ese mismo día, Iberia respondió informando que su política de exoneración de penalidad por casos
+médicos aplicaba únicamente cuando existía hospitalización del pasajero, condición que no se
+cumplía en este caso.
+6. La demandante utilizó normalmente el tiquete de regreso (Madrid-Bogotá), pero tu
+vo que adquirir
+otro tiquete de ida con otra aerolínea para poder viajar a Madrid en una fecha posterior, cuando su
+condición médica lo permitió.
+7. Ante esta situación, la demandante presentó acción de protección al consumidor solicitando el
+reembolso del valor del tiquete no utilizado.
+Fundamentos Jurídicos
+Decreto 482 de 2020: Aunque no se cita textualmente en la sentencia, este decreto establece
+medidas especiales sobre la prestación del servicio público de transporte durante la emergencia
+sanitaria por COVID-19, incluyendo disposiciones sobre reembolsos a través de servicios
+prestados por las mismas aerolíneas (travel vouchers).
+Normativa sobre protección al consumidor: Si bien no se menciona expresamente, la sentencia
+se f
+undamenta en los principios del derecho del consumidor, particularmente en lo relacionado
+con el deber de información oportuna y la protección del consumidor como parte débil de la
+relación contractual.
+Principio de autonomía contractual: El tribunal reconoce la validez de los términos y condiciones
+establecidos por las aerolíneas en ejercicio de su autonomía, siempre que sean debidamente
+informados al consumidor.
+Consideraciones Principales
+1. Sobre la validez de las políticas de las aerolíneas: El tribunal considera que "cada aerolínea
+tiene sus propios términos y condiciones y es el usuario quien escoge la aerolínea con la que
+desea viajar y, por ende, acepta los términos y condiciones de esa compra". En consecuencia, no
+objeta la política de Iberia de eximir de penalidad únicamente en casos de hospitalización.
+2. Sobre el deber de información oportuna: El tribunal reprocha que la respuesta de Iberia f
+ue
+tardía, señalando que "lo que se hubiera esperado por parte de IBERIA es que el 9 de abril de
+2021, fecha en que la demandante puso de presente su estado médico, la pasiva le hubiera
+informado las alternativas que tenía la consumidora ante su situación y que la no penalidad sólo
+procedía en casos de hospitalización".
+3. Sobre la modulación del fallo en virtud del Decreto 482 de 2020: El tribunal reconoce la
+aplicabilidad de este decreto especial para la emergencia sanitaria, ordenando "en virtud del
+Decreto 482 de 2020" la expedición de un travel voucher o, subsidiariamente, el reembolso en
+efectivo.
+4. Sobre la valoración del tiquete no utilizado: Ante la falta de prueba específica sobre el valor del
+trayecto de ida, el tribunal aplica un criterio de equidad, determinando que "tomará para efectos
+de la presente decisión como valor de este tiquete la suma de $1.322.420, que es el resultado de
+dividir en dos el valor de $2.644.840, que f
+ue lo que costaron ambos tiquetes".
+5. Sobre la no aplicación de penalidades: El tribunal determina que "no se realizará ninguna
+retención sobre la suma de $1.322.420 por concepto de penalidad", favoreciendo al consumidor a
+pesar de que según las políticas de la aerolínea podría haberse aplicado.
+Decisión
+1. No se declara la v
+ulneración de los derechos de la consumidora en cuanto al contenido de la
+respuesta de Iberia (que se ajusta a sus propias políticas), pero se reconoce la falla en la
+oportunidad de la información.
+2. Se ordena a Iberia que expida a favor de Juliana Rivas un travel voucher por valor de $1.322.420,
+correspondiente al valor estimado del tiquete de ida no utilizado.
+3. En caso de que no sea posible emitir el travel voucher debido a limitaciones técnicas y operativas
+del sistema de Iberia, se ordena subsidiariamente el reintegro del dinero en efectivo por el mismo
+valor.
+4. Se establece que no se aplicará ninguna retención por concepto de penalidad sobre el valor a
+reembolsar.
+Precedente Establecido
+Esta sentencia establece un importante precedente sobre el equilibrio entre la autonomía contractual
+de las aerolíneas y los derechos de los consumidores en circunstancias especiales como la
+emergencia sanitaria por COVID-19:
+1. Se reconoce la validez de las políticas internas de las aerolíneas sobre exoneración de penalidades
+por causas médicas, siempre que sean informadas oportunamente al consumidor. La libertad
+contractual permite a las aerolíneas establecer condiciones como exigir hospitalización para eximir
+de penalidades.
+2. El deber de información oportuna es esencial, y su incumplimiento, aun cuando el contenido de la
+respuesta se ajuste a las políticas de la empresa, justifica medidas favorables al consumidor.
+3. En el contexto de circunstancias excepcionales como la emergencia sanitaria por COVID-19, las
+normas especiales (Decreto 482 de 2020) permiten modular las consecuencias de la aplicación
+estricta de las políticas de las aerolíneas, facilitando alternativas como la emisión de travel
+vouchers en lugar de la pérdida total del valor del tiquete.
+4. En ausencia de prueba específica sobre el valor de un trayecto en un tiquete de ida y
+uelta, es
+procedente aplicar un criterio de equidad dividiendo el valor total en partes iguales para
+determinar el monto a reembolsar o compensar.
+Este precedente resulta valioso para casos f
+uturos donde se presenten tensiones entre las políticas
+contractuales de las aerolíneas y situaciones imprevistas de los consumidores, particularmente en
+contextos de emergencia que justifiquen la aplicación de normas especiales.
+v

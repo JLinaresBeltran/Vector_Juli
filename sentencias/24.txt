@@ -1,0 +1,161 @@
+Análisis Jurídico - Sentencia 4518 de 2023
+Tema Jurídico
+Responsabilidad de las agencias de viajes online por incumplimiento del deber de información sobre
+requisitos sanitarios y documentación necesaria para viajes internacionales durante la pandemia de
+COVID-19, y sus consecuencias en los derechos del consumidor.
+Subtemas Jurídicos
+1. Deber de información clara, su
+ficiente, veraz y oportuna en la prestación de servicios turísticos
+2. Responsabilidad solidaria entre agencias de viajes y aerolíneas en la cadena de consumo
+3. O
+bligaciones especiales de información en contextos de emergencia sanitaria
+4. Derecho a la devolución del dinero cuando el servicio no se presta por causas no imputables al
+consumidor
+5. Indexación monetaria en la protección al consumidor como mecanismo de reparación integral
+Ratio Decidendi
+Las agencias de viajes online, como intermediarias en la cadena de consumo turístico, tienen la
+obligación de proporcionar información clara, veraz, su
+ficiente y oportuna sobre los requisitos
+necesarios para realizar viajes internacionales, especialmente en contextos excepcionales como la
+pandemia de COVID-19.
+Esta obligación no se satisface simplemente remitiendo al consumidor a consultar f
+uentes externas o
+páginas oficiales, sino que implica un deber de acompañamiento y
+verificación para garantizar que el
+consumidor tenga acceso efectivo a información actualizada y específica para su caso particular. El
+incumplimiento de este deber de información genera responsabilidad frente al consumidor y justifica la
+devolución total del valor pagado cuando, como consecuencia de dicho incumplimiento, no se puede
+hacer uso del servicio contratado.
+Como lo establece el artículo 23 de la Ley 1480 de 2011: "Los proveedores y productores deberán
+suministrar a los consumidores información, clara, veraz, su
+ficiente, oportuna, verificable,
+comprensible, precisa e idónea sobre los productos que ofrezcan y, sin perjuicio de lo señalado para
+los productos defectuosos, serán responsables de todo daño que sea consecuencia de la inadecuada
+o insu
+ficiente información."
+Datos Básicos
+Número de radicado: 21-393577
+Fecha de la sentencia: 19/05/2023
+Autoridad judicial: Superintendencia de Industria y Comercio - Delegatura para Asuntos
+Jurisdiccionales
+Juez: Jenny Carolina Uscátegui Álvarez
+Partes involucradas:
+Demandante: Miguel Angel Aragón Payán
+Demandada: Despegar Colombia S.A.S.
+Tipo de acción: Acción de Protección al Consumidor
+Hechos Clave
+1. El 29 de julio de 2021, el demandante adquirió a través del sitio web de Despegar Colombia S.A.S.
+tiquetes aéreos para un viaje familiar (4 personas) a Alemania por un valor total de $11.536.210.
+2. El 23 de septiembre de 2021, cinco días antes del v
+uelo, el demandante contactó telefónicamente
+a la agencia para asesoría, pero solo le indicaron que podía acceder a información a través de la
+aplicación "Mis Viajes" y le recordaron validar la documentación directamente con las páginas
+oficiales del consulado y/o embajada.
+3. El 27 de septiembre de 2021, cuando la familia se presentó para tomar el v
+uelo AV9210 con
+conexión Airfrance, les notificaron que Samuel Aragón (hijo del demandante de 13 años) no podía
+viajar por no tener esquema de vacunación completo.
+4. El demandante tenía para su hijo una prueba PCR negativa realizada dentro de las 72 horas
+previas, que según la información que había consultado, era su
+ficiente para permitir el ingreso a
+Alemania de menores mayores de 12 años.
+5. El mismo día del v
+uelo (27 de septiembre de 2021), a las 21:41, el demandante recibió un correo de
+Reiseruckkehrer (KHH) Hamburgo (Alemania) confirmando que un menor mayor de 12 años podía
+ingresar a Alemania con una prueba PCR no mayor a 72 horas o una prueba rápida, corroborando
+su interpretación inicial de los requisitos.
+6. Al perder el v
+uelo, se generó un radicado a través de Despegar.com a Airfrance (R59423478),
+donde la aerolínea manifestó que podía reprogramar el viaje, pero pagando una diferencia
+considerable (aproximadamente $25.650.000), cantidad que el demandante consideró injusta
+dado que el impedimento para viajar no f
+ue su responsabilidad.
+Fundamentos Jurídicos
+Artículo 10 de la Ley 1480 de 2011: "Ante los consumidores, la responsabilidad por la garantía
+legal recae solidariamente en los productores y proveedores respectivos."
+Artículos 1571 y 1572 del Código Civil: Establecen el régimen de solidaridad pasiva, permitiendo
+al acreedor dirigir su acción contra cualquiera de los deudores solidarios.
+Artículo 23 de la Ley 1480 de 2011: Establece el deber de suministrar información clara, veraz,
+su
+ficiente, oportuna, verificable, comprensible, precisa e idónea sobre los productos ofrecidos.
+Artículo 3.10.1.1. de los Reglamentos Aeronáuticos de Colombia (RAC 3): Detalla la
+información que debe proporcionarse durante la solicitud de reserva y proceso de compra de
+tiquetes aéreos, incluyendo "la indicación clara, veraz, completa y su
+ficiente de las restricciones
+aplicables" y "las condiciones del transporte respecto a reservas y cancelaciones".
+Sentencias C-208 de 2020 y C-402 de 2020 de la Corte Constitucional: Establecen que no se
+puede afectar el derecho de elección de los consumidores respecto a las formas de reembolso,
+señalando que "el verbo rector 'podrán' incluido en el decreto legislativo para autorizar
+reembolsos a los consumidores con otros servicios turísticos, garantiza el derecho de elección,
+que es una auténtica prerrogativa de los consumidores."
+Consideraciones Principales
+1. Relación de consumo y responsabilidad solidaria: La sentencia confirma la existencia de una
+relación de consumo entre el demandante y la agencia de viajes, y reafirma la responsabilidad
+solidaria que permite al consumidor dirigir su reclamación contra cualquiera de los actores en la
+cadena de consumo (agencia o aerolínea).
+2. Deber de información bidireccional: El tribunal analiza el deber de información como una
+obligación bidireccional basada en la buena fe, donde tanto el consumidor como el proveedor
+tienen responsabilidades:
+El consumidor tiene el deber de autoinformarse (art. 3, num. 2.1 de la Ley 1480/2011)
+El proveedor debe suministrar información clara, veraz, su
+ficiente y oportuna (art. 23 Ley
+1480/2011)
+3. Cumplimiento del deber de información por el consumidor: La sentencia establece que el
+demandante f
+ue diligente al:
+Consultar información oficial sobre requisitos de viaje a Alemania durante la pandemia
+Contactar a la agencia de viajes para obtener asesoría
+Contar con pruebas PCR para su hijo menor de edad
+Verificar posteriormente (con el correo recibido) que su interpretación de los requisitos era
+correcta
+4. Incumplimiento del deber de información por la agencia: El tribunal determina que Despegar
+Colombia S.A.S. incumplió su deber de información al:
+No brindar información completa y específica sobre los requisitos sanitarios especiales
+Limitarse a remitir al consumidor a consultar f
+uentes externas sin un adecuado
+acompañamiento
+No realizar un escalamiento para verificar los requisitos específicos exigidos por la aerolínea
+No presentar prueba de haber informado adecuadamente sobre los requisitos excepcionales
+durante la pandemia
+5. Derecho al reembolso total: La sentencia establece que es contrario al Estatuto del Consumidor
+que se imponga al consumidor una forma específica de reembolso (como bonos o vouchers)
+cuando el servicio no se ha prestado por causas no imputables al consumidor.
+6. Indexación monetaria: El tribunal considera que la indexación opera por ministerio de la ley (ope
+legis) sin necesidad de ser solicitada como pretensión adicional, f
+undamentándose en principios
+de equidad, plenitud del pago y preservación de la reciprocidad en los contratos bilaterales.
+Decisión
+1. DECLARAR que Despegar Colombia S.A.S.
+v
+ulneró los derechos del consumidor.
+2. O
+3. O
+RDENAR a Despegar Colombia S.A.S. reintegrar al demandante la suma de $11.536.210,
+debidamente indexados hasta el momento de la entrega efectiva de los recursos, dentro de los 15
+días hábiles siguientes a la notificación de la decisión.
+RDENAR al demandante informar al Despacho, en un plazo de 30 días hábiles, si la demandada
+cumplió con la orden, para efectos de iniciar el trámite de verificación de cumplimiento.
+4. Sin condena en costas.
+Precedente Establecido
+Esta sentencia establece un importante precedente respecto al alcance del deber de información de
+las agencias de viajes online, particularmente en contextos excepcionales como la pandemia de
+COVID-19, al determinar que:
+1. No basta con remitir al consumidor a f
+uentes externas de información; las agencias tienen un
+deber activo de acompañamiento y
+verificación para garantizar que el consumidor cuente con
+información completa y específica.
+2. Aunque existe un deber de autoinformación del consumidor, este no exime al proveedor de su
+obligación de suministrar información especializada, particularmente en circunstancias
+excepcionales o cambiantes como las restricciones sanitarias durante una pandemia.
+3. La responsabilidad solidaria en la cadena de consumo turístico impide que la agencia de viajes
+online eluda su responsabilidad alegando que la información sobre requisitos sanitarios
+específicos corresponde exclusivamente a la aerolínea o a las autoridades migratorias.
+4. El consumidor tiene derecho a la devolución total del dinero cuando no puede hacer uso del
+servicio contratado por causas no imputables a él, particularmente cuando estas se relacionan con
+información insu
+ficiente proporcionada por el proveedor.
+5. La indexación monetaria es un mecanismo inherente a la protección efectiva de los derechos del
+consumidor, que opera por ministerio de la ley sin necesidad de ser expresamente solicitada,
+garantizando que el reembolso mantenga su
+valor adquisitivo.

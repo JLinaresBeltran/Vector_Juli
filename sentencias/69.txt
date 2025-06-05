@@ -1,0 +1,92 @@
+Análisis Estructurado de Sentencia 20-28655
+Tema Jurídico
+Responsabilidad solidaria de una aerolínea frente a la garantía legal en una relación de consumo
+relacionada con tiquetes aéreos adquiridos a través de un portal web intermediario.
+Subtemas
+1. Relación de consumo y su acreditación
+2. Garantía legal en servicios de transporte aéreo
+3. Responsabilidad solidaria entre proveedores
+4. Facultades jurisdiccionales de la SIC para fallar infra, extra y ultrapetita
+5. Derechos del consumidor en la adquisición de tiquetes aéreos
+Ratio Decidendi
+En la relación de consumo relacionada con la adquisición de tiquetes aéreos, cuando el proveedor
+(aerolínea) ha aceptado expresamente un cambio de fecha solicitado por el consumidor, no puede
+posteriormente, sin consentimiento de éste, realizar un reembolso unilateral, pues esto v
+ulnera los
+derechos del consumidor establecidos en la garantía legal del servicio. La responsabilidad por la
+garantía legal recae solidariamente tanto en la aerolínea como en el intermediario, pero la
+comunicación directa entre aerolínea y consumidor genera obligaciones que deben ser respetadas.
+Los f
+undamentos normativos de esta ratio son los artículos 5, 7, 8 y 10 de la Ley 1480 de 2011 y el
+Decreto 1074 de 2014, que establecen la garantía legal y la responsabilidad solidaria entre productores
+y proveedores.
+Datos Básicos
+Número de radicado: 20-28655
+Fecha de la sentencia: 24/11/2020
+Autoridad judicial: Superintendencia de Industria y Comercio (SIC) - Delegatura para Asuntos
+Jurisdiccionales
+Nombre del juez: Fredy Alexander Pérez Ramírez
+Partes involucradas:
+Demandante: Ginna Katherine Miranda Álvarez
+Demandado: Aerovías de Integración Regional S.A. - LATAM
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El 31 de julio de 2019, la demandante adquirió tiquetes aéreos de LATAM por valor de US $312,30
+dólares a través del portal web MYTRIP.
+2. El 15 de agosto de 2019, la consumidora solicitó a LATAM aplazar la fecha de los v
+uelos.
+3. El 19 de septiembre de 2019, la demandante recibió vía correo electrónico una carta de LATAM
+autorizando el cambio de fecha de los tiquetes.
+4. Posteriormente, al intentar reagendar la nueva fecha, LATAM le informó que no podía hacer el
+cambio porque había realizado el reembolso del valor de los tiquetes a MYTRIP.
+5. La demandante intentó comunicarse con MYTRIP sin obtener respuesta.
+6. La consumidora presentó acción de protección al consumidor ante la SIC el 6 de febrero de 2020.
+7. Después de presentar la acción, sin su consentimiento, recibió US $54.30 dólares por parte de
+MYTRIP por concepto de tasa de impuestos de los tiquetes.
+Fundamentos Jurídicos
+Artículos 5, 7, 8 y 10 de la Ley 1480 de 2011 (Estatuto del Consumidor): Establecen que "en
+virtud de la obligación legal de garantía, fabricantes y productores deben garantizar seguridad,
+calidad e idoneidad de cada uno de los bienes y servicios que ofrecen."
+Decreto 1074 de 2014: Determina que "son responsables de atender las solicitudes de
+efectividad de la garantía de manera solidaria tanto productores y proveedores."
+Numeral 9º del artículo 58 de la Ley 1480 de 2011: Establece que "Al adoptar la decisión
+definitiva, el Juez de conocimiento o la Superintendencia de Industria y Comercio resolverá sobre
+las pretensiones de la forma que considere más justa para las partes según lo probado en el
+proceso, con plenas facultades para fallar infra, extra y ultrapetita, y emitirá las órdenes a que haya
+lugar con indicación de la forma y términos en que se deberán cumplir".
+Consideraciones Principales
+La relación de consumo se encuentra debidamente acreditada en el proceso.
+La demandada (LATAM) no allegó ningún documento que acreditara que la consumidora hubiera
+solicitado el reembolso de las sumas de dinero.
+Aunque se probó que LATAM devolvió US $54.30 dólares a MYTRIP, no medió la voluntad de la
+consumidora frente a dicha solicitud.
+La aerolínea no dio aplicación a la información que le suministró a la accionante, pues sin
+comunicarle sobre la solicitud de la agencia de viajes, unilateralmente decidió devolver las tasas
+de impuestos.
+El despacho encontró demostrada la v
+las condiciones inicialmente comunicadas.
+ulneración de los derechos de la consumidora al no respetar
+Decisión
+El despacho no accedió al reembolso solicitado por la demandante.
+Usando sus facultades para fallar infra, extra y ultrapetita, ordenó a la sociedad demandada
+mantener las condiciones informadas respecto al tiquete.
+El cambio estará sujeto a la disponibilidad de la tarifa en la nueva fecha de viaje, y si no hubiera
+disponibilidad, la consumidora deberá pagar la diferencia.
+Cualquier cambio posterior se ajustará a la regulación original del tiquete.
+El término para realizar el cambio será de un año contado desde la fecha de la sentencia, hasta el
+24 de noviembre de 2021.
+La consumidora, al elegir nuevo itinerario, deberá reembolsar a la aerolínea los US $54.30 dólares
+correspondientes a tasas de impuestos que le f
+ueron dev
+ueltos.
+Precedente Establecido
+En una relación de consumo en la que intervienen múltiples proveedores (aerolínea y portal web de
+reservas), existe responsabilidad solidaria entre ellos frente al consumidor. Cuando uno de los
+proveedores (aerolínea) genera expectativas legítimas en el consumidor al autorizar expresamente un
+cambio en las condiciones del servicio (cambio de fecha de v
+uelo), este no puede posteriormente, sin
+el consentimiento del consumidor, modificar unilateralmente dichas condiciones argumentando
+acciones tomadas por otro proveedor (portal web).
+Adicionalmente, se reafirma la facultad de la SIC para resolver las pretensiones de la forma que
+considere más justa según lo probado en el proceso, incluso modificando la pretensión original cuando
+la solución más adecuada al caso no coincide con lo estrictamente solicitado por el demandante.

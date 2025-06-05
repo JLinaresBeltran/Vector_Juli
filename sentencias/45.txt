@@ -1,0 +1,114 @@
+ANÁLISIS DE SENTENCIA No. 20-435084 DE 2021
+SUPERINTENDENCIA DE INDUSTRIA Y CO
+MERCIO
+Tema Jurídico
+Cuestión jurídica central: Responsabilidad de los prestadores de servicios de transporte aéreo por
+los daños causados a bienes entregados durante el servicio de equipaje y la efectividad de la garantía
+legal en servicios que suponen la entrega de un bien.
+Subtemas jurídicos relacionados:
+1. Custodia y conservación de bienes durante la prestación de servicios de transporte
+2. Deber de informar defectos en bienes y la prueba del daño
+3. Efectos procesales de la falta de respuesta a reclamaciones directas
+4. Valoración de perjuicios en bienes dañados según su estado y uso
+5. Facultades del juez para fallar infra, extra y ultra petita en acciones de protección al consumidor
+Ratio Decidendi
+"Cuando se prestan servicios que conllevan la entrega de un bien, el prestador del servicio asume la
+custodia y conservación adecuada del bien, siendo responsable por la integridad de sus elementos. Si
+durante la prestación del servicio se causa un daño al bien, el prestador debe repararlo o, cuando no
+sea posible, sustituirlo o pagar su equivalente en dinero. La falta de respuesta a una reclamación
+directa del consumidor y la inasistencia a diligencias judiciales generan indicios procesales contra el
+prestador del servicio, que deben interpretarse favorablemente para el consumidor. El valor de la
+indemnización debe determinarse considerando las características, estado y uso del bien, aplicando
+reglas contables de valoración, incluso si esto implica reconocer un monto inferior al solicitado por el
+consumidor."
+Fundamentos normativos:
+Artículo 18 de la Ley 1480 de 2011 (Estatuto del Consumidor)
+Artículo 2.2.2.32.4.2 del Decreto 1074 de 2015 (antes Decreto 735 de 2013)
+Artículo 58 de la Ley 1480 de 2011
+Reglas contables de valoración de bienes
+Datos Básicos
+Número de radicado: 20-435084
+Fecha de la sentencia: 09 de noviembre de 2021
+Autoridad judicial: Superintendencia de Industria y Comercio, Delegatura para Asuntos
+Jurisdiccionales
+Jueza ponente: Yuli Andrea Mogollón Martínez
+Partes involucradas:
+Demandante: Mayra Alejandra Santeliz Morantes
+Demandado: Fast Colombia S.A.S. (Viva Air)
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El 23 de septiembre de 2020, la demandante contrató con la sociedad demandada el servicio de
+bodega de equipaje para transportar un coche de bebé.
+2. El coche f
+ue entregado en perfecto estado al trabajador de la aerolínea, quien lo colocó en la
+banda de equipaje sin advertir que la tela estaba atrapada en la banda, ocasionando daños al
+artículo.
+3. La demandante informó inmediatamente al trabajador del daño ocurrido, quien le indicó poner el
+reclamo en la taquilla de Viva Air.
+4. La consumidora presentó formalmente un reporte de irregularidades con equipaje ante la
+aerolínea.
+5. Transcurridos dos meses desde el reclamo inicial, la demandante no había recibido respuesta por
+parte de la sociedad demandada.
+6. La demandante solicitó el pago del valor del bien dañado por la suma de $673.947, aunque la
+factura aportada mostraba un valor de $283.170.
+7. La sociedad demandada no asistió a la audiencia citada para adelantar el interrogatorio de parte.
+Fundamentos Jurídicos
+Artículo 18 de la Ley 1480 de 2011: "Cuando se exija la entrega de un bien respecto del cual se
+desarrollará una prestación de servicios, estará sometido a las siguientes reglas: (...) 2. Quien
+preste el servicio asume la custodia y conservación adecuada del bien y, por lo tanto, de la
+integridad de los elementos que lo componen, así como la de sus equipos anexos o
+complementarios, si los tu
+viere."
+Artículo 2.2.2.32.4.2 del Decreto 1074 del 2015: "La garantía legal en la prestación de servicios
+que suponen la entrega de un bien, será la de reparación, cuando ello resulte procedente. En los
+casos en que no resulte procedente la reparación, el bien se deberá sustituir por otro de las
+mismas características o se deberá pagar su equivalente en dinero en los casos de destrucción
+total o parcial causada con ocasión del servicio defectuoso."
+Artículo 2.2.2.32.4.2 del Decreto 1074 del 2015: "Cuando el consumidor opte por el pago del
+equivalente en dinero, el valor del bien se determinará según sus características, estado y uso. Si
+se presenta controversia sobre el monto, el productor o expendedor deberá dejar constancia por
+escrito sobre la diferencia y la explicación o sustentación de su
+valoración."
+Artículo 58 de la Ley 1480 de 2011: Faculta a los jueces para interpretar la omisión de respuesta
+a reclamaciones como un indicio en contra del proveedor.
+Consideraciones Principales
+1. Relación de consumo y legitimación: El tribunal establece la existencia de una relación de
+consumo entre las partes, reconocida por la sociedad demandada. Se verifica que la demandante
+era consumidora final del servicio de transporte aéreo y del servicio de equipaje.
+2. Garantía legal en servicios con entrega de bien: La efectividad de la garantía no solo implica la
+adecuada prestación del servicio, sino también que no se presente ninguna afectación al bien
+sobre el cual recae el servicio. La aerolínea asume la custodia y conservación del equipaje durante
+el transporte.
+3. Informe del defecto y prueba del daño: Ante la reclamación del consumidor, el decreto
+reglamentario solo impone el deber de informar la falla, lo cual f
+ue cumplido mediante el reporte de
+irregularidades. El prestador tiene el deber de informar por escrito las razones de su decisión
+frente a la garantía, lo cual no ocurrió en este caso.
+4. Valoración probatoria: Aunque la demandada cuestionó el valor probatorio de las fotografías
+aportadas, el tribunal las considera válidas por tres razones: hacen referencia a la declaración
+directa, la falta de respuesta a la reclamación constituye un indicio en contra, y la inasistencia de la
+demandada a la audiencia genera una duda que debe interpretarse favorablemente para el
+consumidor.
+5. Determinación del monto a indemnizar: Aplicando las facultades para fallar infra, extra y ultra
+petita, el tribunal no otorga el valor total solicitado ($673.947), sino un monto menor ($270.000)
+considerando que el coche había sido usado por aproximadamente 6 meses y que la factura
+aportada mostraba un valor de $283.170, aplicando las reglas contables de valoración.
+Decisión
+1. Declarar que la sociedad Fast Colombia S.A.S.
+v
+ulneró los derechos de la consumidora.
+2. Ordenar a la sociedad demandada pagar a la demandante la suma de $270.000 como equivalente
+en dinero por el coche dañado, considerando el valor original del bien y su estado de uso.
+Precedente Establecido
+La sentencia establece un importante precedente sobre la responsabilidad de las aerolíneas en el
+servicio de transporte de equipaje, confirmando que asumen la custodia y conservación de los bienes
+entregados durante la prestación del servicio.
+Se ref
+uerza la interpretación de que la falta de respuesta a una reclamación directa y la inasistencia a
+diligencias judiciales constituyen indicios procesales contra el proveedor, que deben interpretarse
+favorablemente para el consumidor conforme al principio pro consumatore.
+La valoración de perjuicios debe realizarse considerando el estado y uso del bien, aplicando las reglas
+contables de valoración. Los jueces de protección al consumidor pueden ejercer sus facultades para
+fallar infra, extra o ultra petita para garantizar la efectividad de los derechos del consumidor, incluso
+cuando esto implique reconocer un monto inferior al solicitado, si existe prueba documental que
+justifique tal decisión.

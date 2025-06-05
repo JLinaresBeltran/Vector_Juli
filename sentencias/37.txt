@@ -1,0 +1,141 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA
+1. Tema Jurídico
+Tema central: Reembolso de tiquetes aéreos y seguros de cancelación adquiridos durante la
+pandemia de COVID-19, aplicación de los Decretos 482 y 557 de 2020 y derecho a la información del
+consumidor.
+Subtemas:
+Relación de consumo respecto a tiquetes aéreos y seguros de cancelación
+Legitimación en la causa por pasiva en contratos con intermediarios
+Deber de información en la venta de servicios turísticos y seguros
+Aplicación de la garantía legal durante la emergencia sanitaria
+Alcance del derecho de desistimiento en compra de tiquetes aéreos
+2. Ratio Decidendi
+Durante la emergencia sanitaria por COVID-19, conforme a los Decretos 482 y 557 de 2020, las
+aerolíneas y agencias de viajes debían ofrecer travel vouchers por el valor de los servicios no
+prestados, sin posibilidad de realizar recargos adicionales por reprogramaciones. Asimismo, las
+aerolíneas y agencias de viajes tienen la obligación de proporcionar información clara, su
+ficiente,
+anticipada y completa sobre las condiciones de los servicios que ofrecen, incluyendo restricciones al
+desistimiento y la forma de hacer efectivos los seguros de cancelación. La falta de información clara y
+anticipada sobre estos aspectos constituye una v
+ulneración al derecho de información del consumidor
+que activa la garantía legal.
+Los f
+undamentos normativos principales son los artículos 23, 24 y 37 de la Ley 1480 de 2011 (Estatuto
+del Consumidor), el Reglamento Aeronáutico Colombiano (RAC 3, artículo 3.10.1.7), el Decreto 482 de
+2020 (aplicable a aerolíneas) y el Decreto 557 de 2020 (aplicable a agencias de viajes).
+3. Datos Básicos
+Número de radicado: 21-49173
+Fecha de la sentencia: 08/04/2022
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales - Superintendencia de Industria y
+Comercio
+Juez: Yuly Andrea Mogollón Martínez
+Partes:
+Demandantes: Jhon Deivid Castiblanco Varela y Leidy Carolina Fagua Galvis
+Demandados: Aerovías de México S.A. de CV Aeroméxico Sucursal Colombia y Agencia de
+Viajes y Turismo Aviatur S.A.S.
+Tipo de acción: Acción de protección al consumidor
+4. Hechos Clave
+1. El 11 de febrero de 2020, los demandantes compraron a través de Aviatur seis tiquetes aéreos por
+valor de $2.700.760, para viajar en mayo de 2020 en la ruta Bogotá-Ciudad de México-Bogotá.
+2. Adicionalmente, adquirieron seguros de cancelación de viajes con anexo de pérdida y demora de
+equipaje por valor de $8.925, respaldados por la Aseguradora Chubb S.A., que supuestamente
+cubrían el 100% del valor de los v
+uelos.
+3. Debido a la pandemia por COVID-19, los v
+uelos f
+ueron cancelados por Aeroméxico.
+4. Aeroméxico ofreció la reprogramación de los v
+uelos para febrero de 2021, pero solicitó a los
+demandantes un pago adicional de $543.770, valor que f
+ue cancelado por los consumidores.
+5. El 21 de enero de 2021, debido a las condiciones médicas de los demandantes y la continuidad de
+la pandemia, solicitaron el desistimiento de los v
+uelos y el reembolso del dinero pagado.
+6. Aviatur negó la solicitud argumentando que el trámite debía generarse dentro de las 24 horas
+antes del v
+uelo original (siempre que la tarifa f
+uera reembolsable) y que la reprogramación se
+había hecho directamente con la aerolínea.
+7. Los demandantes presentaron acción de protección al consumidor solicitando el reembolso total
+del dinero pagado.
+5. Fundamentos Jurídicos
+Estatuto del Consumidor (Ley 1480 de 2011): Establece el derecho a la información completa,
+veraz, transparente, oportuna, verificable, comprensible, precisa e idónea respecto de los
+productos que se ofrezcan (artículos 3, 5 y 23).
+Artículo 37, numeral 3º del Estatuto del Consumidor: Señala que en los contratos de seguros,
+la aseguradora hará entrega anticipada del clausulado al tomador, explicándole el contenido, la
+cobertura, las exclusiones y las garantías del servicio.
+Reglamento Aeronáutico Colombiano (RAC 3): Regula el transporte aéreo de personas y señala
+como derecho del consumidor recibir información respecto del tiquete y de las condiciones de la
+tarifa, especialmente en ventas por internet o a distancia (artículo 3.10.1.7).
+Decreto 482 de 2020: Estableció medidas sobre la prestación de servicios de transporte aéreo
+en tiempos de pandemia, permitiendo a las aerolíneas realizar reembolsos a los usuarios en
+servicios prestados por la misma aerolínea (travel vouchers).
+Decreto 557 de 2020: Aplicable a las agencias de viajes, con disposiciones similares al Decreto
+482 sobre la forma de realizar los reembolsos durante la emergencia sanitaria.
+6. Consideraciones Principales
+El tribunal realizó las siguientes consideraciones:
+1. Sobre la relación de consumo:
+Se acreditó la relación de consumo respecto a los tiquetes aéreos entre los demandantes y
+ambas demandadas (Aviatur y Aeroméxico).
+Respecto a los seguros de cancelación, la relación de consumo se estableció solo entre los
+demandantes y Aviatur, siendo Chubb S.A. la aseguradora responsable del cumplimiento.
+2. Sobre el derecho a la información:
+La información es tanto un derecho de los consumidores como un principio f
+undamental en
+toda relación de consumo.
+Los consumidores deben contar con información su
+ficiente, veraz, verificable, comprensible,
+precisa e idónea para tomar decisiones razonables.
+3. Sobre los seguros de cancelación:
+La información suministrada por Aviatur sobre los seguros f
+ue insu
+ficiente, pues no se explicó
+claramente el dinero que se reconocería a los beneficiarios ni las condiciones para hacer
+efectivo el cobro.
+La información sobre cómo hacer efectiva la póliza no f
+ue entregada anticipadamente, sino
+hasta el momento de la factura, lo que constituye una v
+ulneración al derecho de información.
+4. Sobre los tiquetes aéreos:
+Los Decretos 482 y 557 de 2020 establecían que las aerolíneas debían realizar reembolsos
+mediante travel vouchers, no simplemente reprogramaciones con recargo.
+El cobro adicional por la reprogramación ($543.030) constituyó una violación a los derechos
+del consumidor.
+No se evidenció que se hubiera informado explícitamente a los consumidores que el
+desistimiento no procedía por el tipo de tarifa adquirida.
+7. Decisión
+El tribunal decidió:
+1. Respecto a los seguros de cancelación: Ordenó a Aviatur entregar un voucher a los
+demandantes por valor de $8.925 (valor de los seguros), para ser utilizado en servicios de la
+compañía.
+2. Respecto a los tiquetes aéreos:
+Ordenó a Aeroméxico entregar un travel voucher a los demandantes por valor de $543.030,
+correspondiente al cobro adicional por reprogramación.
+Ordenó a Aeroméxico y Aviatur, en conjunto o según decidan cumplir la orden, entregar un
+travel voucher a los demandantes por valor de $2.780.760, correspondiente al valor inicial de
+los tiquetes.
+8. Precedente Establecido
+Esta sentencia establece importantes criterios jurisprudenciales en materia de protección al
+consumidor durante la emergencia sanitaria por COVID-19:
+1. Las disposiciones de los Decretos 482 y 557 de 2020 no sustituyen completamente el Estatuto
+del Consumidor, sino que lo complementan en el contexto específico de la emergencia sanitaria.
+2. Durante la pandemia, las aerolíneas no podían cobrar penalidades o valores adicionales por
+reprogramaciones de v
+uelos cancelados, sino que debían ofrecer travel vouchers por el valor
+completo del servicio.
+3. El deber de información en contratos de seguros exige que se proporcione claramente al
+consumidor, de manera anticipada y su
+ficiente, las condiciones para hacer efectiva la póliza, no
+siendo su
+ficiente entregar términos y condiciones generales sin explicación específica.
+4. Si la aerolínea o agencia de viajes pretende limitar el derecho de desistimiento por tratarse de
+tarifas promocionales o básicas, debe informarlo explícitamente al momento de la venta, no siendo
+su
+ficiente mencionar el tipo de tarifa sin explicar sus restricciones.
+5. Los jueces deben analizar cada caso particular para determinar si procede el reembolso en dinero
+o mediante travel vouchers, dependiendo de las circunstancias específicas y la conducta de las
+partes implicadas, incluso durante circunstancias extraordinarias como la pandemia.

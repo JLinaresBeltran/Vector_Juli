@@ -1,0 +1,109 @@
+ANÁLISIS J
+U
+RÍDICO DE LA SENTENCIA 18-136389 DE 2018 - SIC
+Tema Jurídico
+Cuestión central: Responsabilidad de los proveedores de servicios turísticos por incumplimiento
+contractual en la prestación de servicios "todo incluido" y la competencia de la Superintendencia de
+Industria y Comercio para ordenar devoluciones e indemnizaciones bajo el Estatuto del Consumidor.
+Subtemas jurídicos:
+1. Alcance de la garantía legal en la prestación de servicios turísticos
+2. Límites de la competencia jurisdiccional de la SIC en materia indemnizatoria
+3. Consecuencias procesales de la no contestación de la demanda
+4. Requisitos para la configuración de publicidad engañosa
+5. Facultades del juez para fallar infra, extra y ultra petita en acciones de protección al consumidor
+Ratio Decidendi
+La ratio decidendi se f
+undamenta en que, ante el incumplimiento del proveedor en las condiciones
+pactadas en un contrato de servicios turísticos, se configura una v
+ulneración a la garantía legal que
+justifica la devolución proporcional del precio pagado, considerando que algunos servicios sí pudieron
+ser disfrutados.
+El tribunal establece que la no contestación de la demanda permite dar por ciertos los hechos
+susceptibles de confesión, facilitando la acreditación del incumplimiento en la prestación del servicio,
+conforme al artículo 97 del Código General del Proceso.
+La sentencia determina claramente los límites competenciales de la SIC, señalando que "la ley dotó a
+la Superintendencia de Industria y Comercio de facultades jurisdiccionales, pero a su
+vez limitó dichas
+facultades (Ley 1480 de 2011, artículo 56, numeral 3º) quedando excluida la posibilidad de reconocer
+indemnizaciones de perjuicios en los términos supuestos en el presente caso."
+Fundamentos normativos:
+Artículo 10 de la Ley 1480 de 2011 (responsabilidad solidaria)
+Artículo 97 del Código General del Proceso (efectos de la no contestación)
+Artículo 58, numeral 4 de la Ley 1480 de 2011 (facultad de fallar infra, extra y ultra petita)
+Artículo 56, numeral 3 de la Ley 1480 de 2011 (límites competenciales)
+Datos Básicos
+Número de radicado: 18-136389
+Fecha de la sentencia: 28 de diciembre de 2018
+Autoridad judicial: Superintendencia de Industria y Comercio, Delegatura para Asuntos
+Jurisdiccionales
+Juez: Vladimir Rolando Vargas Salazar
+Partes involucradas:
+Demandante: Cándido Sánchez Quintero
+Demandado: Inversiones Noas Capital S.A.S. (antes Golden Vacation Club S.A.S.)
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El demandante suscribió un contrato de prestación de servicios turísticos con Golden Vacation
+Club S.A.S. para un viaje a Punta Cana para 17 personas, que incluía tiquetes aéreos, traslados,
+alojamiento, alimentación y entretenimiento.
+2. La demandada incumplió al aplazar varias veces el viaje y cambiar unilateralmente el destino de
+Punta Cana a Cuba.
+3. Durante el viaje (6-14 de mayo de 2017), la demandada incumplió reiteradamente con los servicios
+pactados, obligando al demandante a pagar por servicios ya incluidos.
+4. Los viajeros f
+ueron desalojados de sus habitaciones por falta de confirmación de la reserva.
+5. El demandante realizó reclamación telefónica el 13 de mayo de 2017 y posteriormente un derecho
+de petición el 27 de mayo de 2017, solicitando el reembolso de $11'576.125.
+6. Ante la falta de respuesta, el demandante interpuso una acción de tutela para obtener respuesta al
+derecho de petición.
+7. El demandante pagó $29'700.000 por el paquete turístico "todo incluido", mediante tres abonos
+acreditados con facturas.
+Fundamentos Jurídicos
+Normativa aplicada:
+Artículo 10 de la Ley 1480 de 2011: Establece la responsabilidad solidaria por la garantía legal
+Artículo 97 del Código General del Proceso: Consecuencias de la no contestación
+Artículo 56, numeral 3 de la Ley 1480 de 2011: Límites de las facultades jurisdiccionales
+Artículo 58, numeral 4 de la Ley 1480 de 2011: Facultad para fallar infra, extra y ultra petita
+Artículo 58, numerales 3 y 5 de la Ley 1480 de 2011: Requisito de procedibilidad
+Artículo 58, literal a) del numeral 5 de la Ley 1480 de 2011: Requisitos para acreditar publicidad
+engañosa
+Disposiciones relevantes: El artículo 10 de la Ley 1480 de 2011 señala: "Ante los consumidores,
+la responsabilidad por la garantía legal recae solidariamente en los productores y proveedores
+respectivos. Para establecer la responsabilidad por incumplimiento a las condiciones de idoneidad
+y calidad, bastará con demostrar el defecto del producto, sin perjuicio de las causales de
+exoneración de responsabilidad establecidas en el artículo 16 de la presente ley."
+Consideraciones Principales
+El tribunal determinó que no se configuró la publicidad engañosa al no aportarse la prueba
+documental exigida por el artículo 58, literal a) del numeral 5 de la Ley 1480.
+Se acreditó plenamente la relación de consumo mediante las facturas de pago y el contrato de
+prestación de servicios turísticos.
+El tribunal verificó el cumplimiento del requisito de procedibilidad (reclamación directa) mediante
+el derecho de petición presentado.
+La no contestación de la demanda, junto con el interrogatorio y testimonio aportados, permitieron
+dar por probado el incumplimiento en la prestación del servicio.
+El tribunal enfatizó su
+falta de competencia para reconocer indemnizaciones de perjuicios,
+indicando que para tales pretensiones se debe acudir a las autoridades jurisdiccionales ordinarias.
+Se reconoció que, pese al incumplimiento, algunos servicios sí f
+ueron efectivamente prestados, lo
+que justificó una devolución parcial del dinero.
+Decisión
+El tribunal, utilizando sus facultades para fallar infra, extra y ultra petita (artículo 58, numeral 4 de la
+Ley 1480), ordenó a la sociedad demandada la devolución de $14'850.000 pesos (aproximadamente
+el 50% del valor total pagado), debidamente indexados.
+Se negaron las pretensiones indemnizatorias por falta de competencia.
+Precedente Establecido
+Esta sentencia establece un importante precedente al delimitar claramente el alcance de las
+facultades jurisdiccionales de la SIC en materia de protección al consumidor:
+1. La SIC no tiene competencia para ordenar indemnizaciones de perjuicios derivadas de la
+efectividad de la garantía, siendo esta una facultad exclusiva de los jueces ordinarios.
+2. La no contestación de la demanda en estos procesos permite presumir ciertos los hechos
+susceptibles de confesión, facilitando la acreditación del incumplimiento contractual.
+3. En casos de incumplimiento parcial de contratos de servicios turísticos "todo incluido", procede la
+devolución proporcional del dinero, considerando los servicios efectivamente prestados y
+aplicando criterios de equidad.
+4. Para la configuración de publicidad engañosa se requiere prueba documental específica, no
+siendo su
+ficiente la mera alegación o prueba testimonial.
+5. Las facultades para fallar infra, extra y ultra petita permiten al juez moderar las pretensiones
+económicas para ajustarlas a las circunstancias probadas, incluso cuando el monto difiera de lo
+solicitado por el demandante.

@@ -1,0 +1,117 @@
+ANÁLISIS DE SENTENCIA: VULNERACIÓN DEL DERECHO DE
+ELECCIÓN DEL CONSU
+MIDO
+R PO
+R COBR
+OS NO AUTO
+RIZADOS
+Tema Jurídico
+Vulneración del derecho de elección del consumidor cuando se realizan cobros por servicios que
+nunca contrató ni autorizó, específicamente en el contexto de un plan exequial facturado a través de
+servicios públicos.
+Subtemas:
+1. La figura del "Consumidor Bystander" como tercero expuesto a una relación de consumo no
+solicitada
+2. El derecho de elección del consumidor en el marco del Estatuto del Consumidor
+3. Legitimación por activa en casos de cobros no autorizados
+4. Efectos jurídicos del reembolso tardío sobre las pretensiones del consumidor
+5. La competencia jurisdiccional de la SIC en materia de protección al consumidor
+Ratio Decidendi
+Cuando un consumidor se ve expuesto a cobros por servicios que nunca eligió ni contrató, se v
+ulnera
+su derecho de elección consagrado en el numeral 1.7 del artículo 3º de la Ley 1480 de 2011 (Estatuto
+del Consumidor), pues todo consumidor tiene la libertad de escoger los bienes y servicios que desea
+adquirir. La devolución posterior del dinero cobrado indebidamente no subsana la v
+ulneración ya
+ocurrida, especialmente si dicha devolución se realiza después de presentada la demanda.
+Esta decisión se f
+undamenta normativamente en el derecho a la libertad de elección establecido en el
+Estatuto del Consumidor y en el concepto doctrinal del "Consumidor Bystander", que aunque no está
+expresamente consagrado en el derecho colombiano, permite reconocer la legitimación de personas
+no adquirentes pero que resultan expuestas a relaciones de consumo que afectan sus derechos.
+Datos Básicos
+Número de radicado: 21-324697
+Fecha de la sentencia: 2/02/2023
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales de la Superintendencia de Industria
+y Comercio
+Juez: Silvia Cristina Hoyos Gómez (Profesional Universitaria autorizada para el ejercicio de
+f
+unciones jurisdiccionales)
+Partes involucradas:
+Demandante: Diego Benjamín Gaviria Moreno
+Demandado: Recordar Previsión Exequial Total S.A.S.
+Tipo de acción: Acción de Protección al Consumidor (mínima cuantía)
+Hechos Clave
+1. El demandante señaló que no existía ningún vínculo contractual con la sociedad accionada.
+2. A través de la factura de servicios públicos de Emcali (agua y energía), se realizaron cobros de un
+plan exequial durante tres meses, servicios que el demandante nunca contrató.
+3. El demandante presentó reclamación ante Emcali, quien lo direccionó a Grupo Recordar S.A.S.
+4. El 28 de junio de 2021, el demandante radicó reclamación escrita solicitando la cancelación del
+plan, la identificación de quien lo solicitó y el reintegro de los valores cobrados ($45.000).
+5. La sociedad demandada manifestó que la inscripción se hizo por error en el diligenciamiento del
+contrato, vinculando indebidamente el número de suscriptor de la factura Emcali del demandante.
+6. La empresa realizó el reembolso de $60.000 a la sociedad Almacenes Cerámicas y Pintura Ltda.
+(de la cual el demandante es representante legal), pero lo hizo el 14 de septiembre de 2021,
+después de presentada la demanda.
+Fundamentos Jurídicos
+Artículo 116 de la Constitución Política: Establece que "excepcionalmente la ley podrá atribuir
+f
+unción jurisdiccional en materias precisas a determinadas autoridades administrativas".
+Artículo 24 del Código General del Proceso: "Las autoridades administrativas a que se refiere
+este artículo ejercerán f
+unciones jurisdiccionales conforme a las siguientes reglas: 1. La
+Superintendencia de Industria y Comercio en los procesos que versen sobre: a) Violación a los
+derechos de los consumidores establecidos en el Estatuto del Consumidor".
+Numeral 1.7 del artículo 3º de la Ley 1480 de 2011: Consagra el derecho a la elección del
+consumidor, que implica la libertad de decidir qué bienes y servicios adquiere para la satisfacción
+de sus necesidades.
+Parágrafo tercero del artículo 390 del Código General del Proceso: Permite proferir sentencias
+escritas en procesos verbales sumarios de mínima cuantía sobre protección al consumidor,
+cuando las pruebas aportadas con la demanda y su contestación f
+ueren su
+ficientes para resolver
+el litigio.
+Consideraciones Principales
+El tribunal analiza que, aunque inicialmente podría pensarse que no existe relación de consumo al
+tratarse de una contratación no realizada por el demandante, se aplica la figura del "Consumidor
+Bystander", considerando que el demandante f
+ue una tercera persona expuesta a una relación de
+consumo no requerida que afectó sus derechos.
+La sentencia señala que "para este Despacho existe relación de consumo, por ende, legitimación en la
+causa por activa para el ejercicio de sus pretensiones", lo que permite al tribunal entrar a analizar la
+ulneración alegada.
+El tribunal considera que efectivamente hubo v
+ulneración del derecho de elección, pues el
+demandante "se vio compelido al pago de unos valores por la adquisición de unos servicios
+exequiales, que nunca eligió adquirir, constituyendo una flagrante violación a los derechos del usuario
+quien bajo amparo constitucional y legal tiene la libertad de escoger los bienes y servicios".
+Respecto a las excepciones propuestas por la demandada, el tribunal establece que no prosperan
+porque el reembolso se efectuó después de presentada la demanda. Para que las excepciones
+prosperaran, "debía demostrarse que su cumplimiento se dio con antelación al ejercicio de la acción
+jurisdiccional y en vigencia de la reclamación efectuada por el extremo actor".
+Decisión
+El Despacho:
+1. Declara que la sociedad Recordar Previsión Exequial Total S.A.S.
+v
+ulneró los derechos del
+consumidor.
+2. Se abstiene de emitir órdenes sobre la materialización de lo pretendido, dado que ya se acreditó el
+reembolso del dinero.
+3. Ordena archivar las diligencias jurisdiccionales.
+4. Determina que no hay lugar a costas.
+Precedente Establecido
+Esta sentencia establece un importante precedente al reconocer la aplicación conceptual del
+"Consumidor Bystander" en el ordenamiento jurídico colombiano, otorgando protección a personas
+que, sin haber contratado directamente un servicio, se ven afectadas por cobros no autorizados. El
+fallo reafirma que el cobro de servicios no contratados ni autorizados constituye una v
+ulneración al
+derecho de elección del consumidor, incluso cuando la persona no es adquirente directa.
+Asimismo, la sentencia determina que la devolución del dinero cobrado indebidamente, cuando se
+realiza después de presentada la demanda, no exime al proveedor de la declaración de v
+ulneración de
+derechos, aunque sí evita que se emitan órdenes adicionales sobre la materialización de las
+v
+pretensiones. Este criterio es relevante para f
+uturos casos donde los proveedores intenten subsanar
+tardíamente las v
+ulneraciones a los derechos del consumidor.

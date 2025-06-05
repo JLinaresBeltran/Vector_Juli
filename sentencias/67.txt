@@ -1,0 +1,100 @@
+ANÁLISIS DE SENTENCIA - RADICADO 20-52865
+1. TEMA J
+U
+RÍDICO
+Cuestión central: Vulneración del derecho a la información del consumidor en contratos de paquetes
+turísticos, específicamente respecto a las condiciones y procedimientos de cancelación de servicios
+aéreos.
+Subtemas jurídicos:
+Garantía legal en la prestación de servicios turísticos
+O
+bligaciones de información de las agencias de viajes
+Responsabilidad solidaria entre aerolíneas y agencias de viajes
+Alcance del deber de información en contratos de transporte aéreo
+Efectos del incumplimiento del deber de información al consumidor
+2. RATIO DECIDENDI
+La agencia de viajes incumplió su obligación de suministrar información completa, veraz, transparente,
+oportuna, verificable, comprensible, precisa e idónea respecto a los procedimientos para cancelar o
+suspender los servicios aéreos incluidos en un paquete turístico.
+El Reglamento Aeronáutico de Colombia (RAC3) establece una obligación solidaria entre aerolíneas y
+agencias de viajes para informar al consumidor sobre "las condiciones del transporte respecto a
+reservas y cancelaciones, adquisición de tiquetes, tarifas y sus condiciones", especialmente en ventas
+por internet o a distancia.
+Cuando la agencia de viajes confirma la suspensión de los servicios hoteleros sin informar sobre el
+procedimiento específico para suspender los servicios aéreos, está incumpliendo su deber de
+información, lo que afecta la garantía legal y justifica la devolución del dinero pagado por el paquete
+turístico.
+3. DATOS BÁSICOS
+Número de radicado: 20-52865
+Fecha de la sentencia: 13/01/2021
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales (Superintendencia de Industria y
+Comercio)
+Juez: Yuly Andrea Mogollón Martínez
+Demandante: Sol Beatriz Rivera Gallego
+Demandado: ÉXITO VIAJES Y TU
+RISM
+O S.A.S.
+Tipo de acción: Acción de Protección al Consumidor
+4. HECHOS CLAVE
+1. El 10 de julio de 2019, la demandante adquirió un paquete turístico a Cancún para dos personas
+por valor de $7.631.461 pesos, que incluía hospedaje y tiquetes aéreos.
+2. El 18 de septiembre de 2019, debido al diagnóstico de cáncer del padre de su esposo, la
+demandante solicitó posponer o cancelar el paquete turístico.
+3. El 9 de octubre de 2019, la agencia confirmó la suspensión de servicios hoteleros sin penalidad,
+pero no informó sobre el procedimiento para los tiquetes aéreos.
+4. En diciembre de 2019, cuando la demandante intentó reactivar el paquete para junio de 2020, le
+informaron que los tiquetes aéreos tenían un costo adicional de $1.921.530.
+5. La agencia argumentó que los tiquetes no eran reembolsables porque la demandante no realizó la
+cancelación directamente con la aerolínea con 4 horas de anticipación.
+6. La demandante alegó que nunca le informaron sobre esta obligación ni sobre el término "waiver"
+utilizado por la aerolínea.
+7. La sociedad demandada no asistió al interrogatorio de parte, lo que resultó en confesión ficta
+según el artículo 205 del Código General del Proceso.
+5. FUNDAMENTOS J
+U
+RÍDICOS
+Ley 1480 de 2011 (Estatuto del Consumidor), Artículo 3, numeral 3: Derecho a recibir
+información "completa, veraz, transparente, oportuna, verificable, comprensible, precisa e idónea"
+sobre los productos ofrecidos.
+Ley 1480 de 2011, Artículo 5, numeral 5: Define la garantía legal como la "obligación temporal,
+solidaria a cargo del productor y el proveedor, de responder por el buen estado del producto y la
+conformidad del mismo con las condiciones de idoneidad, calidad y seguridad legalmente
+exigibles o las ofrecidas".
+Reglamento Aeronáutico de Colombia "RAC3": Establece que durante la solicitud de reserva y
+proceso de compra, el pasajero tiene derecho a que el transportador, agencia de viajes o
+intermediarios le informen sobre "las condiciones del transporte respecto a reservas y
+cancelaciones".
+RAC3, Artículo 3.10.1.1.1: "Las aerolíneas, agencias de viajes o intermediarios, deberán incluir en
+sus plataformas destinadas a la venta de tiquetes por internet o a distancia, y en especial durante
+el proceso de compra, información completa, su
+ficiente y clara sobre las condiciones en que los
+pasajeros puedan ejercer el desistimiento o el retracto".
+Código General del Proceso, Artículo 205: Disposiciones sobre la confesión presunta en caso
+de inasistencia al interrogatorio de parte.
+6. CONSIDERACIONES PRINCIPALES
+La garantía legal implica que la calidad de bienes y servicios debe cumplir con la información o
+características inherentes e informadas por el proveedor.
+Existe una obligación solidaria entre aerolíneas, agencias de viajes e intermediarios para informar
+al consumidor sobre las condiciones de cancelación y reserva.
+No se evidencia que la sociedad demandada haya proporcionado información sobre el
+procedimiento para suspender los servicios de transporte aéreo.
+El uso de terminología técnica como "waiver" sin explicación adecuada viola el principio de
+información comprensible para el consumidor.
+La inasistencia de la sociedad demandada al interrogatorio de parte resultó en confesión ficta,
+dando por cierta la intención de la demandante de cancelar el plan turístico de forma integral.
+7. DECISIÓN
+Se declara el incumplimiento del contrato por parte de ÉXITO VIAJES Y TU
+RISM
+O S.A.S.
+Se ordena la devolución del dinero pagado por el paquete turístico ($7.631.461 pesos), que deberá
+ser consignado a la cuenta de ahorros de Bancolombia número 100 11749528.
+8. PRECEDENTE ESTABLECIDO
+Las agencias de viajes tienen una obligación solidaria con las aerolíneas de proporcionar información
+completa, veraz y comprensible sobre los procedimientos específicos de cancelación tanto para los
+servicios hoteleros como para los servicios aéreos incluidos en paquetes turísticos. El incumplimiento
+de este deber de información constituye una v
+ulneración a los derechos del consumidor que justifica la
+resolución del contrato y la devolución del dinero pagado. Este precedente es aplicable
+particularmente en casos donde se utilizan términos técnicos desconocidos para el consumidor
+promedio o donde no se especifican claramente los procedimientos que debe seguir el usuario para
+ejercer sus derechos.

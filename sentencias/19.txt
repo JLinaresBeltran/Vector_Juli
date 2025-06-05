@@ -1,0 +1,160 @@
+Análisis de Sentencia - Radicado 21-218867
+Tema Jurídico
+Desistimiento de contratos de transporte aéreo durante la emergencia sanitaria por COVID-19:
+Aplicación del Decreto 482 de 2020 para reembolsos mediante vouchers
+Subtemas jurídicos relacionados:
+1. Prevalencia de normas excepcionales (Decreto 482 de 2020) sobre regulaciones ordinarias (RAC)
+durante la emergencia sanitaria
+2. Protección especial a consumidores con comorbilidades durante la pandemia
+3. Requisitos formales del desistimiento en contratos de transporte aéreo
+4. Efectos jurídicos de las restricciones de movilidad territorial como f
+uerza mayor
+5. Alcance temporal de las medidas excepcionales por emergencia sanitaria
+Ratio Decidendi
+Durante la vigencia de la emergencia sanitaria por COVID-19, las aerolíneas están obligadas a aplicar
+las disposiciones del Decreto Legislativo 482 de 2020 (artículo 17) cuando los consumidores solicitan
+desistimiento por circunstancias relacionadas con la pandemia, incluso tratándose de tarifas
+promocionales. Cuando el consumidor solicita expresamente el reembolso mediante voucher
+conforme a dicho decreto, y la aerolínea rechaza esta solicitud aplicando incorrectamente el
+Reglamento Aeronáutico de Colombia (RAC), se configura una v
+ulneración a los derechos del
+consumidor.
+Adicionalmente, la existencia de comorbilidades en los pasajeros constituye un factor relevante que
+justifica el desistimiento durante la pandemia, especialmente cuando se combinan con restricciones
+de movilidad en el destino, lo que hace improcedente la aplicación de las condiciones restrictivas de
+las tarifas promocionales.
+Datos Básicos
+Número de radicado: 21-218867
+Fecha de la sentencia: 17/06/2022
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales (Superintendencia de Industria y
+Comercio)
+Juez: Jair Jesús O
+Partes involucradas:
+bispo Rodríguez
+Demandante: Lida Navarrete
+Demandado: Aerovías del Continente Americano S.A. - Avianca S.A.
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El 24 de diciembre de 2020, la demandante adquirió tiquetes aéreos con Avianca para viajar a
+Medellín el 12 de enero de 2021, con reserva No. 3GMTSF por valor de $688.200.
+2. La demandante no pudo realizar el viaje debido a que, del 8 al 12 de enero de 2021, el alcalde de
+Medellín anunció el cierre de la ciudad como medida preventiva por el alto número de contagios de
+COVID-19.
+3. Adicionalmente, uno de los miembros del grupo familiar de la demandante tenía comorbilidades
+(hipotiroidismo tratado con medicamentos), lo que aumentaba el riesgo de complicaciones en
+caso de contagio.
+4. La demandante canceló el viaje a través del canal de WhatsApp dispuesto por la aerolínea y
+posteriormente envió un derecho de petición solicitando la devolución del dinero mediante un
+bono (voucher), conforme al Decreto 482 de 2020.
+5. La aerolínea rechazó la solicitud argumentando que, al tratarse de una tarifa promocional, no
+procedía la devolución según el Reglamento Aeronáutico de Colombia (RAC), sin aplicar las
+disposiciones excepcionales del Decreto 482 de 2020.
+6. La demandante interpuso acción de protección al consumidor solicitando la declaración de
+ulneración de sus derechos y la devolución del dinero.
+7. La demandante no asistió a la audiencia donde se realizó el interrogatorio de parte,
+configurándose una confesión ficta respecto a que conocía las condiciones del desistimiento y
+retracto.
+Fundamentos Jurídicos
+Decreto Legislativo 482 de 2020:
+Artículo 17: "En los eventos en que la
+s aerolínea
+s reciban solicitudes de retra
+cto, desistimiento
+y
+otra
+s circunstancia
+s rela
+cionada
+s c
+on la
+solicitud de reemb
+olso, podrán realizar, durante el
+periodo que dure la emergencia y h
+a
+sta por un año más, reemb
+olsos a los usuarios en
+servicios prestados por la misma aerolínea
+".
+Código General del Proceso:
+Artículo 164: "T oda decisión judicial debe fundarse en la
+s prueba
+s regular y
+oportunamente
+allegada
+s al pro
+ceso. La
+s prueba
+s o
+btenida
+s c
+on viola
+ción del debido pro
+ceso son nula
+s de
+pleno derech
+o".
+v
+Artículo 165: Define los medios de prueba válidos.
+Artículo 244: Sobre la autenticidad de los documentos.
+Precedentes administrativos de la SIC: Decisiones previas donde se ha reconocido situaciones
+especiales para personas con comorbilidades o de la tercera edad, ordenando la devolución del
+dinero cuando las situaciones que afectan el disfrute del servicio están relacionadas con su
+condición médica.
+Consideraciones Principales
+1. Sobre la relación de consumo y reclamación directa: El despacho considera que la relación de
+consumo no f
+ue puesta en discusión y ambas partes la reconocieron. La reclamación directa se
+presentó oportunamente, cumpliendo con el requisito de procedibilidad.
+2. Sobre la situación de f
+uerza mayor: El tribunal considera que existe un indicio a favor de la
+consumidora de que el lugar de destino no iba a permitir una estancia confortable debido a las
+restricciones por COVID-19, lo que constituye una situación de f
+uerza mayor. La aerolínea no
+controvirtió esta afirmación.
+3. Sobre la solicitud de reembolso mediante voucher: La demandante explícitamente solicitó la
+devolución del dinero mediante un bono, acogiéndose a lo establecido en el Decreto 482 de 2020,
+y no la devolución directa del dinero.
+4. Sobre la aplicabilidad del Decreto 482/2020: El despacho cuestiona por qué la aerolínea no
+aplicó este decreto que seguía vigente, y optó por aplicar el RAC argumentando que el
+desistimiento había ocurrido sobre una tarifa promocional. El tribunal señala que esto f
+ue erróneo,
+ya que la emergencia sanitaria estaba vigente hasta el 30 de junio de 2022 y no existía norma que
+estableciera el retorno a la normatividad ordinaria.
+5. Sobre las comorbilidades: El despacho reconoce que las personas con comorbilidades tienen
+mayor riesgo de contagio y deben evitar volar o estar en aglomeraciones. La demandante probó
+mediante historia clínica que uno de los pasajeros tenía antecedentes de hipotiroidismo tratado
+con medicamentos farmacológicos.
+6. Sobre la confesión ficta: Aunque se configuró una confesión ficta respecto al conocimiento de
+las condiciones de desistimiento y retracto, esto no exime a la aerolínea de aplicar la normativa
+excepcional vigente durante la emergencia sanitaria.
+Decisión
+El despacho determina que el desistimiento se presentó antes de realizar el viaje a través de
+WhatsApp y mediante derecho de petición se solicitó el reembolso del dinero mediante voucher,
+petición que no f
+ue respondida adecuadamente.
+La ley aplicable al caso es el Decreto 482 de 2020, y la sociedad demandada infringió los derechos del
+consumidor al rechazar la solicitud de reembolso mediante voucher aplicando incorrectamente el
+Reglamento Aeronáutico de Colombia.
+Por lo tanto, el tribunal declara la v
+ulneración de los derechos del consumidor y ordena a la aerolínea
+proceder con el reembolso en servicios (voucher), conforme a lo solicitado por la demandante.
+Precedente Establecido
+Esta sentencia establece importantes criterios interpretativos sobre la aplicación del Decreto 482 de
+2020 y los derechos de los consumidores durante la emergencia sanitaria por COVID-19:
+1. Durante la vigencia de la emergencia sanitaria, las aerolíneas deben aplicar prioritariamente el
+Decreto 482 de 2020 frente al Reglamento Aeronáutico de Colombia, incluso tratándose de tarifas
+promocionales, cuando los consumidores solicitan desistimiento por circunstancias relacionadas
+con la pandemia.
+2. Las comorbilidades de los pasajeros constituyen un factor relevante para justificar el desistimiento
+durante la pandemia, especialmente cuando se combinan con restricciones de movilidad en el
+destino.
+3. Las restricciones de movilidad territorial impuestas por autoridades locales como medida
+preventiva contra el COVID-19 constituyen situaciones de f
+uerza mayor que justifican el
+desistimiento.
+4. La vigencia de las medidas excepcionales se extiende hasta la fecha oficialmente declarada como
+fin de la emergencia sanitaria, no pudiendo las aerolíneas decidir unilateralmente cuándo dejan de
+aplicar dichas medidas.
+5. Cuando el consumidor expresamente solicita el reembolso mediante voucher conforme al Decreto
+482 de 2020, la aerolínea no puede rechazar esta solicitud aplicando las condiciones restrictivas
+del Reglamento Aeronáutico de Colombia para tarifas promocionales.

@@ -1,0 +1,103 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA
+Radicado: 20-421221
+TEMA J
+U
+RÍDICO
+O
+bligatoriedad de emisión de vouchers para tiquetes aéreos no utilizados durante la pandemia
+COVID-19 y limitación a la aplicación de cláusulas de no reembolso.
+Subtemas jurídicos relacionados:
+1. Aplicación preferente del Decreto 482 de 2020 sobre las políticas internas de las aerolíneas
+2. Derecho del consumidor a redimir el valor de tiquetes aéreos mediante vouchers durante la
+emergencia sanitaria
+3. Imposibilidad de aplicar cláusulas restrictivas frente a normativa especial de emergencia
+4. Límites a la autonomía contractual de las aerolíneas en circunstancias excepcionales
+5. Garantía legal en servicios de transporte aéreo durante la pandemia
+RATIO DECIDENDI
+El Decreto 482 de 2020, como norma reglamentaria especial durante la emergencia sanitaria,
+establece que las aerolíneas pueden realizar reembolsos en servicios (travel voucher) durante el
+período de emergencia y hasta por un año más. Esta disposición tiene prevalencia sobre las cláusulas
+contractuales restrictivas de las aerolíneas y sobre la normativa general del Estatuto del Consumidor,
+por lo que las compañías aéreas no pueden negarse a emitir vouchers para v
+uelos no realizados
+durante la pandemia amparándose en políticas internas de "tarifas promocionales no reembolsables".
+Limitar la redención del servicio a una fecha específica o negarse a emitir vouchers a solicitud del
+usuario constituye una v
+ulneración a los derechos del consumidor en los términos del artículo 17 del
+Decreto 482 de 2020.
+DATOS BÁSICOS
+Número de radicado: 20-421221
+Fecha de la sentencia: 08/11/2021
+Autoridad judicial: Superintendencia de Industria y Comercio - Delegatura para Asuntos
+Jurisdiccionales
+Juez: Yuly Andrea Mogollón Martínez
+Partes involucradas:
+Demandante: Mateo Harold Sebastian Torres Mejía
+Demandado: Fast Colombia S.A.S.
+Tipo de acción: Acción de protección al consumidor
+HECHOS CLAVE
+1. El 15 de enero de 2020, el demandante adquirió tiquetes aéreos para los trayectos Bogotá-Miami-
+Bogotá programados para el 28 y 29 de marzo de 2020 con la sociedad demandada.
+2. Debido a circunstancias relacionadas con la pandemia, el v
+uelo planeado no pudo realizarse, por lo
+que el demandante solicitó reprogramar el viaje para el 30 de noviembre de 2020.
+3. El 21 de octubre de 2020, el demandante presentó una reclamación directa solicitando la
+cancelación del v
+uelo reprogramado y pidió la expedición de un voucher equivalente al valor
+pagado para redimirlo posteriormente.
+4. La sociedad demandada entregó un voucher correspondiente solo al v
+uelo Bogotá-Miami, pero se
+negó a emitir uno para el trayecto Miami-Bogotá, argumentando que según una de las cláusulas
+de compra "Este reintegro puede ser parcial o total teniendo en cuenta que todas nuestras tarifas
+son promocionales no reembolsables".
+5. Ante esta negativa, el demandante instauró la Acción de Protección al Consumidor.
+FUNDAMENTOS J
+U
+RÍDICOS
+Decreto 482 de 2020, artículo 17: "Derecho de retracto, desistimiento y otras circunstancias de
+reembolso. En los eventos en que las aerolíneas reciban solicitudes de retracto, desistimiento y
+otras circunstancias relacionadas con la solicitud de reembolso, podrán realizar, durante el periodo
+que dure la emergencia y hasta por un año más, reembolsos a los usuarios en servicios prestados
+por la misma aerolínea."
+Ley 1480 de 2011 (Estatuto del Consumidor): Establece los derechos y obligaciones de
+consumidores y proveedores, aunque en este caso específico se determina que tiene una
+aplicación subsidiaria respecto al Decreto 482 de 2020.
+Reglamento Aeronáutico de Colombia - RAC 3: Normativa general para el transporte aéreo, que
+también es subordinada al Decreto 482 de 2020 durante el período de emergencia.
+CONSIDERACIONES PRINCIPALES
+1. Relación de consumo: Se acreditó la existencia de la relación de consumo mediante los
+comprobantes de las reservas adquiridas con radicado N° 616502 y los tiquetes aéreos emitidos
+con número de reserva T68TRF del 15 de enero de 2020.
+2. Prevalencia normativa: El tribunal determinó que el Decreto 482 de 2020 f
+ungía como una
+norma reglamentaria especial con prevalencia sobre la Ley 1480 de 2011 y sobre el Reglamento
+Aeronáutico de Colombia (RAC 3) para el servicio de transporte aéreo durante la emergencia.
+3. Adecuación del remedio: El despacho consideró que reprogramar el v
+uelo para una fecha
+específica (30 de noviembre de 2020) no era la forma idónea de reembolsar el servicio, dado que
+no se sabía con exactitud si la emergencia continuaría para esa fecha.
+4. Limitación indebida: A pesar de que la reprogramación inicial f
+ue a petición del consumidor, el
+tribunal consideró que no se podía limitar la forma de redimir el servicio cuando el Decreto 482
+permitía hacerlo "durante el periodo que dure la emergencia y hasta por un año más".
+5. Vulneración de derechos: El tribunal determinó que la negativa de la aerolínea a expedir un
+voucher para el trayecto Miami-Bogotá constituyó una clara v
+ulneración de los derechos del
+consumidor según lo establecido en el artículo 17 del Decreto 482 de 2020.
+DECISIÓN
+1. Se declaró la v
+ulneración de los derechos del consumidor por parte de la aerolínea.
+2. Se ordenó a la sociedad demandada devolver la suma de $331.667 pesos en un travel voucher
+para que el demandante lo utilice en servicios de la compañía.
+PRECEDENTE ESTABLECIDO
+Las aerolíneas no pueden ampararse en cláusulas contractuales sobre "tarifas promocionales no
+reembolsables" para negarse a emitir vouchers por servicios no prestados durante la pandemia
+COVID-19. El Decreto 482 de 2020, como normativa especial para la emergencia sanitaria, prevalece
+sobre dichas cláusulas y sobre la normativa general del transporte aéreo, garantizando el derecho de
+los consumidores a obtener travel vouchers por el valor total de los servicios no utilizados, que puedan
+ser redimidos durante la emergencia y hasta un año después. La emisión de estos vouchers no puede
+limitarse a fechas específicas ni condicionarse a políticas internas de las aerolíneas, constituyendo una
+obligación para las compañías aéreas independientemente de las condiciones iniciales de las tarifas
+adquiridas.

@@ -1,0 +1,106 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA
+Radicado: 20-285354
+Tema Jurídico
+Cuestión central: Determinación de la abusividad de una cláusula contractual que excluye el
+reembolso de servicios turísticos no disfrutados por f
+uerza mayor en el contexto de la pandemia
+COVID-19.
+Subtemas jurídicos:
+1. Determinación de cláusulas abusivas en contratos de servicios turísticos
+2. Exoneración de responsabilidad por f
+uerza mayor en contratos de consumo
+3. Aplicación de normativa especial (Decreto 482 de 2020) para reembolsos en el sector turístico
+durante la pandemia
+4. Efectos jurídicos de la no ejecución de servicios por causas ajenas a las partes
+5. Alcance de la facultad de fallar en equidad (infra, extra y ultrapetita) en acciones de protección al
+consumidor
+Ratio Decidendi
+Una cláusula contractual que excluye el reembolso por servicios no disfrutados debido a f
+uerza mayor
+no puede considerarse abusiva cuando no ha sido aplicada efectivamente, ya que la abusividad
+requiere demostrar un desequilibrio significativo que se haya materializado. Para que una cláusula sea
+calificada como abusiva debe comprobarse su uso efectivo y no una mera potencialidad de afectación.
+Adicionalmente, en el contexto de la pandemia COVID-19, conforme al Decreto 482 de 2020, las
+agencias de viaje pueden realizar el reembolso mediante servicios (vouchers) en lugar de dinero en
+efectivo, siendo esta una medida proporcional dadas las circunstancias extraordinarias que afectaron
+al sector turístico.
+Datos Básicos
+Número de radicado: 20-285354
+Fecha de la sentencia: 07/04/2021
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales (Superintendencia de Industria y
+Comercio)
+Juez: Ricardo Arias Flórez
+Partes: Amalí Carolina Blanco Bohórquez, Orlando Blanco Parejo, Sol Amalia Bohórquez Pérez
+(demandantes) vs. Peregrinar de Viajes y Turismo S.A.S. (demandada)
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. Los demandantes celebraron un contrato de servicios turísticos con destino a Egipto, Jordania e
+Israel para el período del 29 de marzo al 14 de abril de 2020, por un valor de USD $6,070 por
+persona (total de $62.601.134 pesos colombianos).
+2. Para financiar el viaje, los demandantes suscribieron créditos con Bancolombia por valores de
+$20.000.000 y $42.000.000.
+3. El servicio turístico no se realizó debido a un aplazamiento por parte del proveedor,
+presumiblemente a causa de las restricciones por la pandemia COVID-19.
+4. Los demandantes solicitaron el reembolso del dinero pagado, a lo cual la empresa se negó.
+5. La empresa se amparó en la cláusula sexta del contrato que estipulaba que en caso de
+interrupción de servicios por f
+uerza mayor no atribuible a la agencia, esta no reintegraría el valor
+de los servicios no disfrutados.
+6. Los demandantes consideraron dicha cláusula como abusiva y solicitaron que se declarara como
+tal.
+Fundamentos Jurídicos
+Artículo 42 de la Ley 1480 de 2011: Define las cláusulas abusivas como "aquellas que producen
+un desequilibrio injustificado en perjuicio del consumidor y las que, en las mismas condiciones,
+afecten el tiempo, modo o lugar en que el consumidor puede ejercer sus derechos."
+Artículo 16 de la Ley 1480 de 2011: Establece que "El productor o proveedor se exonerará de la
+responsabilidad que se deriva de la garantía, cuando demuestre que el defecto proviene de: 1.
+Fuerza mayor o caso fortuito; 2. El hecho de un tercero; 3. El uso indebido del bien por parte del
+consumidor. (...)"
+Artículo 10, inciso segundo de la Ley 1480 de 2011: Dispone que "Para establecer la
+responsabilidad por incumplimiento a las condiciones de idoneidad y calidad, bastará con
+demostrar el defecto del producto, sin perjuicio de las causales de exoneración de responsabilidad
+establecidas en el artículo 16 de la presente ley."
+Artículo 58, numeral 9 de la Ley 1480 de 2011: Faculta al juez para resolver "sobre las
+pretensiones de la forma que considere más justa para las partes según lo probado en el proceso,
+con plenas facultades para fallar infra, extra y ultrapetita."
+Decreto 482 de 2020, artículo 17: Establece que las aerolíneas y agencias de viaje, ante
+solicitudes de reembolso durante la emergencia, "deberán realizar durante el periodo que dure la
+emergencia manifiesta y hasta por un año más, el reembolso en servicios prestados por las
+mismas."
+Consideraciones Principales
+1. El tribunal consideró que la cláusula sexta del contrato no podía ser calificada como abusiva, pues
+no llegó a aplicarse efectivamente. La abusividad de una cláusula depende de su uso efectivo y no
+de una supuesta afectación potencial.
+2. Se determinó que la cláusula hubiera sido aplicable solo si el servicio contratado hubiera iniciado y
+luego se hubiera interrumpido, situación que no ocurrió en este caso, ya que el servicio nunca
+inició.
+3. El tribunal reconoció que el incumplimiento del contrato se debió a un hecho sobreviniente (la
+pandemia COVID-19) y no a causas imputables a la agencia de viajes, constituyendo un caso de
+f
+uerza mayor.
+4. Se aplicó el Decreto 482 de 2020, que permitía a las agencias realizar el reembolso en servicios
+durante la emergencia y hasta un año después, como una medida especial para mitigar los efectos
+económicos de la pandemia en el sector turístico.
+5. El tribunal ejerció su
+facultad de fallar en equidad para determinar la solución más justa para
+ambas partes, considerando tanto los intereses de los consumidores como la situación
+excepcional que enfrentaba el sector turístico.
+Decisión
+El tribunal ordenó a la agencia de viajes la reexpedición de un voucher de servicios por el valor inicial
+pactado en el contrato ($62.601.134 pesos), con un término de vigencia por el periodo que dure la
+emergencia sanitaria y hasta por un año más, para ser utilizado por los demandantes.
+Precedente Establecido
+En circunstancias excepcionales como la pandemia COVID-19, las cláusulas que limitan reembolsos
+por f
+uerza mayor no son automáticamente consideradas abusivas, especialmente si no han sido
+efectivamente aplicadas. Para determinar la abusividad de una cláusula contractual se requiere
+demostrar un desequilibrio significativo, injustificado o irrazonable que efectivamente se haya
+materializado, no siendo su
+ficiente la mera potencialidad de dicho desequilibrio. Adicionalmente, en
+aplicación de normativa especial expedida para mitigar los efectos de la pandemia en el sector
+turístico, es legítima la sustitución del reembolso en dinero por vouchers de servicio, siempre que
+estos tengan una vigencia razonable que permita su utilización cuando las condiciones lo hagan
+posible. Esta solución equilibra los derechos de los consumidores con la situación excepcional que
+enfrentaban las empresas del sector turístico durante la emergencia sanitaria.

@@ -1,0 +1,100 @@
+ANÁLISIS DE ACTA DE AUDIENCIA 4117 DEL 08/05/2023
+Tema Jurídico
+Cuestión jurídica central: Vulneración de los derechos del consumidor en el sector de transporte
+aéreo y la procedencia de reembolso de tiquetes aéreos.
+Subtemas jurídicos:
+1. Responsabilidad de las aerolíneas frente a los derechos del consumidor
+2. Procedencia del reembolso de tiquetes aéreos en casos de v
+ulneración de derechos del
+consumidor
+3. Mecanismos de reparación económica en acciones de protección al consumidor
+4. Indexación de valores en reembolsos ordenados judicialmente
+5. Consecuencias jurídicas del incumplimiento de órdenes emitidas por la Superintendencia de
+Industria y Comercio
+Ratio Decidendi
+La decisión adoptada mediante sentencia anticipada establece que cuando una aerolínea v
+ulnera los
+derechos del consumidor en relación con la adquisición de tiquetes aéreos, procede la devolución total
+del dinero pagado por dichos tiquetes, debidamente indexado con base en el IPC, para garantizar la
+reparación efectiva del perjuicio económico su
+frido por el consumidor.
+Aunque no se detallan en el acta los f
+undamentos específicos, se puede inferir que la decisión se basa
+en el principio de protección efectiva de los derechos económicos del consumidor establecido en el
+Estatuto del Consumidor, que busca garantizar el reestablecimiento de la situación económica del
+usuario cuando sus derechos han sido v
+ulnerados en una relación de consumo.
+Datos Básicos
+Número de radicado: 21-443856
+Fecha de la sentencia: 08 de mayo de 2023
+Autoridad judicial: Superintendencia de Industria y Comercio - Delegatura para Asuntos
+Jurisdiccionales
+Juez: Lina Margarita Flórez Pernett, Profesional adscrita al Grupo de Trabajo de Defensa del
+Consumidor
+Partes involucradas:
+Demandante: Diego Enrique Segura Alfonso
+Demandado: Fast Colombia S.A.S. en proceso de recuperación empresarial
+Tipo de acción: Acción de Protección al Consumidor (Art. 392 C.G.P.)
+Hechos Clave
+El acta no detalla explícitamente los hechos del caso, pero a partir de la decisión se puede inferir:
+1. El demandante adquirió tiquetes aéreos con la aerolínea Fast Colombia S.A.S. por valor de
+COP$1.721.827.
+2. Se presentó una situación que constituyó v
+ulneración a los derechos del consumidor.
+3. El demandante interpuso acción de protección al consumidor ante la Superintendencia de
+Industria y Comercio.
+4. Durante la audiencia, se declaró fracasada la etapa de conciliación, lo que indica que no hubo
+acuerdo entre las partes.
+5. El tribunal decidió proferir sentencia anticipada declarando la v
+ulneración de los derechos del
+consumidor.
+Fundamentos Jurídicos
+Ley 1480 de 2011 (Estatuto del Consumidor): Marco normativo general que regula los derechos
+y obligaciones de consumidores, productores y proveedores.
+Artículo 24 del Código General del Proceso: Establece las f
+unciones jurisdiccionales de las
+autoridades administrativas, como la Superintendencia de Industria y Comercio.
+Numeral 11 del artículo 58 de la Ley 1480 de 2011: Establece las facultades de la
+Superintendencia para imponer sanciones en caso de incumplimiento de sus órdenes, incluyendo
+multas y cierre temporal de establecimientos.
+Mecanismo de indexación basado en el IPC: Se aplica la fórmula "Vp = Vh x (I.P.C. actual / I.P.C.
+inicial)" donde Vp corresponde al valor a averiguar y Vh al monto cuya devolución se ordena.
+Consideraciones Principales
+Aunque el acta no detalla las consideraciones específicas del tribunal, de la decisión adoptada se
+puede inferir:
+Se determinó que existió una v
+ulneración efectiva de los derechos del consumidor por parte de la
+aerolínea demandada.
+El tribunal consideró que la forma adecuada de reparar el perjuicio al consumidor era mediante el
+reembolso total del valor pagado por los tiquetes aéreos.
+Se estableció la necesidad de indexar el valor a reembolsar para mantener el poder adquisitivo del
+dinero y evitar un perjuicio adicional al consumidor por el paso del tiempo.
+Se contempló un mecanismo de seguimiento al cumplimiento de la orden, exigiendo al
+demandante informar sobre su cumplimiento dentro de los 30 días siguientes al vencimiento del
+plazo otorgado.
+Decisión
+1. Se declaró que Fast Colombia S.A.S. en proceso de recuperación empresarial v
+ulneró los derechos
+del consumidor.
+2. Se ordenó a la demandada reembolsar al señor Diego Enrique Segura Alfonso la suma de
+COP$1.721.827 correspondiente al valor pagado por tiquetes aéreos, dentro de los diez (10) días
+hábiles siguientes a la ejecutoria de la providencia.
+3. Se ordenó que la suma a reembolsar debía indexarse con base en el IPC para la fecha de pago.
+4. Se estableció que el demandante debía informar al Despacho sobre el cumplimiento o
+incumplimiento de la orden dentro de los 30 días hábiles siguientes al vencimiento del plazo
+concedido.
+5. Se advirtió que el retraso en el cumplimiento causaría una multa equivalente a una séptima parte
+del salario mínimo legal mensual vigente por cada día de retardo.
+6. Se señaló que el incumplimiento persistente podría resultar en el cierre temporal del
+establecimiento de comercio.
+7. No se condenó en costas.
+Precedente Establecido
+Esta sentencia establece que en casos de v
+ulneración de los derechos del consumidor en el ámbito
+del transporte aéreo, procede el reembolso total del valor pagado por los tiquetes, debidamente
+indexado, como mecanismo de reparación económica directa.
+Además, ref
+uerza la aplicación de medidas coercitivas (multas y posible cierre temporal de
+establecimientos) para garantizar el cumplimiento efectivo de las órdenes de la Superintendencia de
+Industria y Comercio, protegiendo así los derechos económicos de los consumidores del sector aéreo
+y estableciendo consecuencias claras para las aerolíneas que incumplan las órdenes de reembolso.

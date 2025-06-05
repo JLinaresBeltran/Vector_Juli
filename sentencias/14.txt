@@ -1,0 +1,195 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA
+Tema Jurídico
+Incumplimiento del contrato de transporte aéreo por negativa injustificada de embarque y
+compensación aplicable según normativa especial aeronáutica
+Subtemas:
+1. Consecuencias procesales de la no contestación de la demanda e inasistencia a la audiencia inicial
+2. Valoración de pruebas documentales en idioma extranjero
+3. Aplicación de normativa especial aeronáutica (RAC 3) complementada con el Estatuto del
+Consumidor
+4. Garantía legal en servicios de transporte aéreo y mecanismos de compensación
+5. Responsabilidad del transportador aéreo por cancelación de v
+uelo imputable a su operación
+Ratio Decidendi
+Cuando una aerolínea impide sin justa causa el abordaje de pasajeros con reservas confirmadas que
+cumplen con todos los requisitos para el viaje, debe no solo reembolsar el valor completo de los
+tiquetes, sino también otorgar una compensación adicional equivalente al 30% del valor del trayecto
+por cada pasajero afectado, conforme a lo establecido en el artículo 3.10.2.13.2 literales c) y f) del
+Reglamento Aeronáutico Colombiano (RAC 3).
+La no contestación de la demanda y la inasistencia a la audiencia inicial por parte del transportador
+tienen como consecuencia procesal la presunción de certeza de los hechos susceptibles de confesión
+contenidos en la demanda, lo que facilita la acreditación de la relación de consumo y del
+incumplimiento contractual.
+Datos Básicos
+Número de radicado: 21-178325
+Fecha de la sentencia: 25/05/2022
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales de la Superintendencia de Industria
+y Comercio
+Juez: Natalia Andrea Alonso Molina
+Demandantes: Jaime Alberto Trillos Muñoz y María Cristina Ujueta Suárez
+Demandado: Deutsche L
+u
+fthansa Aktiengesellschaft
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. Los demandantes adquirieron tiquetes aéreos con L
+u
+fthansa para el trayecto Bucaramanga-
+Frankf
+urt-Bucaramanga, con inicio el 14 de diciembre de 2020, por valor de 8.460.600 pesos.
+2. Al llegar a Bogotá para continuar el viaje, una asesora de L
+u
+fthansa les informó que no podrían
+continuar con el itinerario, a pesar de contar con los permisos requeridos por la embajada
+alemana.
+3. La asesora de L
+u
+fthansa les aseguró la devolución de los dineros pagados por los tiquetes, pero la
+aerolínea solo reintegró parcialmente la suma de 4.034.800 pesos.
+4. Los demandantes incurrieron en gastos adicionales como el hospedaje en el hotel Movich en
+Bogotá y perdieron los tiquetes de tren Frankf
+urt-Colonia que habían programado en conjunto con
+los tiquetes aéreos.
+5. Los demandantes realizaron múltiples reclamaciones directas a L
+u
+fthansa solicitando el reintegro
+total de los dineros sin obtener respuesta satisfactoria.
+6. La sociedad demandada no contestó la demanda ni asistió a la audiencia inicial del proceso.
+Fundamentos Jurídicos
+Artículo 97 del Código General del Proceso: "La falta de c
+ontesta
+ción de la demanda
+o de
+pronunciamiento expreso so
+bre los hech
+os y pretensiones de ella, o la
+s afirma
+ciones o nega
+ciones
+c
+ontraria
+s a la realidad, h
+arán presumir ciertos los hech
+os susceptibles de c
+onfesión c
+ontenidos
+en la demanda, salvo que la ley le a
+tribuya
+otro efecto."
+Artículo 372, numeral 4º del Código General del Proceso: Establece que la inasistencia del
+demandado a la audiencia inicial "h
+ará presumir ciertos los hech
+os susceptibles de c
+onfesión en
+que se funde la demanda."
+Artículo 251 del Código General del Proceso: Regula la valoración de documentos en idioma
+extranjero, exigiendo la traducción oficial para su apreciación como prueba.
+Artículo 11, numeral 3 de la Ley 1480 de 2011: "En los c
+a
+sos de presta
+h
+aya incumplimiento se pro
+cederá, a elección del c
+onsumidor, a la presta
+ción de servicios, cuando
+ción del servicio en la
+s
+c
+ondiciones en que fue c
+ontra
+tado o
+a la devolución del precio pagado."
+Artículo 2º de la Ley 1480 de 2011: Establece que en sectores con regulación especial, como el
+aeronáutico, aplica primero la regulación especial y suplementariamente el Estatuto del
+Consumidor.
+RAC 3, artículo 3.10.2.1: Sobre verificación de requisitos y expedición de pasabordo.
+RAC 3, artículo 3.10.2.3: Sobre admisión de pasajeros para embarque, indicando que "El pa
+sa
+jero
+deberá ser admitido para
+su embarque y posterior transporte, previa presenta
+ción del tiquete y/o
+pa
+sab
+ordo, a no ser que el transportador tenga
+justific
+a
+ción legal para negarse a prestarle el
+servicio."
+RAC 3, artículo 3.10.2.5: Establece que "El pa
+sa
+jero será transportado
+c
+onf
+orme a lo
+de a
+cuerdo
+c
+on la
+tarifa, itinerario, frecuencia y h
+orario pa
+ctados, siempre que cumpla
+c
+ontra
+tado,
+c
+on los
+deberes y
+o
+bliga
+ciones c
+ontenidos en el presente reglamento."
+RAC 3, artículo 3.10.2.13.2, literales c) y f): Regula la compensación en casos de cancelación
+atribuible al transportador, estableciendo la devolución del precio del trayecto más una
+compensación adicional mínima del 30% del valor del trayecto.
+Consideraciones Principales
+1. Sobre consecuencias procesales: El tribunal dio aplicación a los artículos 97 y 372 del CGP,
+teniendo por ciertos los hechos susceptibles de confesión contenidos en la demanda debido a la
+no contestación y la inasistencia a la audiencia por parte de la aerolínea.
+2. Sobre la relación de consumo: Se consideró probada la existencia de una relación de consumo
+entre las partes por la compra de tiquetes aéreos por valor de 8.460.600 pesos para el trayecto
+Bucaramanga-Frankf
+urt-Bucaramanga.
+3. Sobre el incumplimiento contractual: Se estableció que los demandantes contaban con los
+permisos requeridos por la embajada alemana pero no pudieron cumplir el itinerario por una
+actuación arbitraria e injustificada de L
+u
+fthansa.
+4. Sobre el reembolso parcial: Se verificó que la sociedad demandada había procedido con un
+reintegro parcial de 4.034.800 pesos, quedando pendiente parte del reembolso.
+5. Sobre la normativa aplicable: El tribunal aplicó la normativa especial del RAC 3 que regula los
+derechos y obligaciones en el transporte aéreo, complementada con la Ley 1480 de 2011.
+6. Sobre el cumplimiento de deberes: Se determinó que los demandantes cumplieron con todos
+sus deberes como pasajeros, mientras que la aerolínea incumplió sin justa causa al no permitirles
+abordar.
+7. Sobre la compensación adicional: El tribunal estableció que, además del reembolso total de los
+tiquetes, correspondía una compensación adicional del 30% del valor del trayecto por cada
+pasajero (1.269.250 pesos por pasajero), conforme al RAC 3.
+Decisión
+1. Se declara que la sociedad demandada v
+ulneró los derechos de los consumidores.
+2. Se ordena la devolución del valor pendiente por reembolsar de los tiquetes aéreos (diferencia
+entre 8.460.600 pesos y 4.034.800 pesos ya reintegrados).
+3. Se ordena el pago de una compensación adicional del 30% del valor del trayecto por cada
+pasajero (1.269.250 pesos por pasajero), conforme a lo establecido en el RAC 3.
+Precedente Establecido
+Esta sentencia establece importantes criterios jurisprudenciales en materia de protección al
+consumidor en el sector aeronáutico:
+1. La negativa de embarque a un pasajero con reserva confirmada y que cumple con todos los
+requisitos de viaje, sin justificación legal, constituye un incumplimiento contractual que activa no
+solo la obligación de reembolso total sino también el pago de compensaciones adicionales.
+2. La normativa especial del sector aeronáutico (RAC 3) se aplica de manera preferente sobre el
+Estatuto del Consumidor, pero este último complementa la protección en aspectos no regulados
+específicamente.
+3. El transportador aéreo debe demostrar la existencia de una justificación legal para negar el
+embarque a un pasajero; de lo contrario, será responsable por el valor total del servicio no
+prestado y por la compensación adicional establecida en la regulación.
+4. La inactividad procesal del demandado (no contestación y no comparecencia) genera
+consecuencias probatorias determinantes en este tipo de procesos, facilitando la acreditación de
+los hechos a favor del consumidor.
+5. En el caso de cancelación de v
+uelo por causa imputable al transportador, la compensación mínima
+establecida en el RAC 3 es del 30% del valor del trayecto por pasajero, adicional al reembolso del
+valor pagado por los tiquetes.

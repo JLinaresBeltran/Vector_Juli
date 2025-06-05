@@ -1,0 +1,121 @@
+ANÁLISIS J
+U
+RISPR
+UDENCIAL: SENTENCIA 7771 DE 2021
+Tema Jurídico
+Derecho de retracto en la compra de tiquetes aéreos mediante ventas a distancia y la legitimación en
+la causa por pasiva en acciones de protección al consumidor.
+Subtemas jurídicos relacionados:
+1. Aplicación del derecho de retracto en contratos de transporte aéreo
+2. Legitimación en la causa por pasiva en relaciones de consumo
+3. Efectos del allanamiento a las pretensiones en procesos de protección al consumidor
+4. Alcance de las facultades jurisdiccionales de la Superintendencia de Industria y Comercio
+5. Aplicación del Estatuto del Consumidor versus regulaciones específicas del sector aeronáutico
+Ratio Decidendi
+El derecho de retracto establecido en el artículo 47 de la Ley 1480 de 2011 (Estatuto del Consumidor)
+es aplicable a los contratos de transporte aéreo adquiridos por métodos de venta a distancia, como
+internet. Cuando el consumidor ejerce oportunamente este derecho dentro de los cinco días hábiles
+siguientes a la celebración del contrato, el proveedor está obligado a reintegrar el dinero pagado, sin
+que pueda oponerse ofreciendo alternativas como vouchers o bonos de viaje.
+Para determinar la legitimación en la causa por pasiva en acciones de protección al consumidor, es
+necesario identificar quién f
+ue efectivamente el proveedor del servicio con quien se estableció la
+relación de consumo, verificando quién vendió directamente el producto o servicio al consumidor,
+independientemente de que pertenezcan al mismo grupo empresarial.
+Datos Básicos
+Número de radicado: 20-250244
+Fecha de la sentencia: 12/07/2021
+Autoridad judicial: Superintendencia de Industria y Comercio - Delegatura para Asuntos
+Jurisdiccionales
+Nombre del juez/jueza: Lennys Lorena Lozano Barón (Profesional Universitaria autorizada para
+ejercer f
+unciones jurisdiccionales)
+Partes involucradas:
+Demandante: María Alejandra R
+ubio Habib
+Demandados: Aerovías de Integración Regional S.A. y Latam Airlines Group S.A. Sucursal
+Colombia
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El 12 de marzo de 2020, la demandante compró a Latam Airlines Group S.A. Sucursal Colombia
+unos tiquetes aéreos en la ruta Bogotá-Buenos Aires, con salida el 1 de abril y regreso el 15 de
+mayo de 2020, a través de la página web de Latam.
+2. La compra se realizó por valor de $3.097.740 mediante tarjeta de crédito de titularidad de la
+demandante.
+3. El 13 de marzo de 2020 (al día siguiente de la compra), la demandante se retractó de la compra a
+través de la línea de atención al cliente de Latam, quien confirmó la recepción de la solicitud
+mediante correo electrónico.
+4. Durante la llamada de retractación, la demandante suministró los datos para la devolución del
+dinero.
+5. Desde el 26 de abril de 2020, la demandante realizó varias reclamaciones solicitando la devolución
+del dinero, pero Latam negó la solicitud ofreciendo un "travel voucher" con validez de 12 meses,
+argumentando estar amparada por el Decreto 482 del 26 de marzo de 2020.
+6. El 3 de junio de 2020 se llevó a cabo un intento de arreglo directo a través del programa SIC
+facilita, sin llegar a ningún acuerdo.
+7. En su contestación, Latam Airlines Group S.A. Sucursal Colombia se allanó a la pretensión de
+devolución del dinero.
+Fundamentos Jurídicos
+Artículo 47 de la Ley 1480 de 2011: Establece el derecho de retracto en contratos de venta de
+bienes y prestación de servicios mediante sistemas de financiación o métodos no tradicionales o a
+distancia, otorgando al consumidor cinco días hábiles contados a partir de la celebración del
+contrato para ejercer este derecho.
+Artículos 5, 6, 45, 46 y 56 de la Ley 1480 de 2011: Definen conceptos como productor,
+proveedor, consumidor, y establecen la responsabilidad solidaria entre productores y proveedores.
+Decreto Único Reglamentario del Sector Comercio, Industria y Turismo, artículo 2.2.2.37.7:
+Delimita las responsabilidades en ventas a distancia.
+RAC 3 (Reglamento Aeronáutico de Colombia) y Resolución 1375 de 2015: Aunque
+establecían regulaciones específicas para el retracto en transporte aéreo, la sentencia destaca que
+el Consejo de Estado suspendió provisionalmente partes de esta regulación mediante providencia
+del 28 de noviembre de 2019.
+Artículo 98 del Código General del Proceso: Regula el allanamiento a la demanda.
+Artículo 390, parágrafo 3, inciso 2 del Código General del Proceso: Permite dictar sentencia
+escrita en procesos verbales sumarios cuando las pruebas aportadas sean su
+ficientes.
+Consideraciones Principales
+1. Alcance del derecho de retracto: La sentencia establece que tras la suspensión provisional de
+algunas disposiciones del RAC 3 por parte del Consejo de Estado, debe aplicarse el régimen
+general del derecho de retracto establecido en el artículo 47 de la Ley 1480 de 2011 para
+contratos de transporte aéreo adquiridos por métodos a distancia.
+2. Legitimación en la causa por pasiva: El tribunal analiza la participación de cada demandado en la
+relación de consumo, verificando que solo Latam Airlines Group S.A. Sucursal Colombia f
+ue quien
+vendió los tiquetes y estableció la relación de consumo con la demandante, como se evidencia en
+el tiquete aportado.
+3. Efectos del allanamiento: La sentencia acepta el allanamiento de Latam Airlines Group S.A.
+Sucursal Colombia, considerando que cumple con los requisitos del artículo 98 del CGP y cubre la
+totalidad de las pretensiones que el juzgador puede examinar en el marco de la acción.
+4. Límites de las facultades jurisdiccionales de la SIC: El tribunal aclara que no tiene competencia
+para reconocer indemnizaciones por perjuicios (costos financieros) en procesos de efectividad de
+la garantía o ejercicio del derecho de retracto.
+5. Sobre la multa solicitada: Se abstiene de imponer multa a la demandada que se allanó a las
+pretensiones, conforme al numeral 10 del artículo 58 de la Ley 1480 de 2011, que establece que no
+procede la multa cuando el demandado se allana a los hechos en la contestación.
+Decisión
+1. Declara la carencia de legitimación en la causa por pasiva de Aerovías de Integración Regional
+S.A., por no haber vendido los tiquetes objeto de litigio ni ser prestador directo del servicio.
+2. Acepta el allanamiento presentado por Latam Airlines Group S.A. Sucursal Colombia.
+3. Ordena a Latam Airlines Group S.A. Sucursal Colombia reembolsar a María Alejandra R
+ubio Habib
+la suma de $3.097.740 dentro de los quince días hábiles siguientes a la ejecutoria de la
+providencia, si aún no lo hubiera realizado.
+4. No condena en costas por no aparecer causadas.
+5. Establece mecanismos para verificar el cumplimiento de la orden y posibles sanciones en caso de
+incumplimiento.
+Precedente Establecido
+Esta sentencia establece importantes precedentes en materia de protección al consumidor:
+1. Confirma la aplicación del régimen general del derecho de retracto del Estatuto del Consumidor a
+los contratos de transporte aéreo adquiridos por medios electrónicos o a distancia, tras la
+suspensión de disposiciones especiales del RAC 3, reafirmando que el plazo para ejercer este
+derecho es de cinco días hábiles contados a partir de la celebración del contrato.
+2. Establece criterios claros para determinar la legitimación en la causa por pasiva en acciones de
+protección al consumidor, exigiendo verificar precisamente quién f
+ue el productor o proveedor con
+quien el consumidor estableció la relación de consumo.
+3. Reafirma que el allanamiento a las pretensiones en procesos de protección al consumidor exime a
+la parte demandada de la imposición de multas contempladas en el Estatuto del Consumidor.
+4. Delimita el alcance de las facultades jurisdiccionales de la Superintendencia de Industria y
+Comercio, clarificando que no tiene competencia para reconocer indemnizaciones por perjuicios
+en procesos de efectividad de la garantía o ejercicio del derecho de retracto.
+El precedente es particularmente relevante para el sector aeronáutico, pues reafirma que las
+aerolíneas no pueden ofrecer vouchers o bonos como sustituto de la devolución del dinero cuando el
+consumidor ejerce válidamente su derecho de retracto dentro del plazo legal establecido.

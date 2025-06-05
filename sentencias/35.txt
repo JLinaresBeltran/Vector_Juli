@@ -1,0 +1,119 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA No. 21-82301 (01/03/2022)
+Tema Jurídico
+Deber de información del proveedor en el sector de transporte aéreo internacional respecto a
+restricciones migratorias durante la pandemia por COVID-19 que afectan la utilización de tiquetes
+aéreos con escalas.
+Subtemas
+1. Alcance del deber de información del proveedor en relaciones de consumo internacionales
+2. Límites al deber de informarse del consumidor frente a restricciones migratorias
+3. Validez de cláusulas de no reembolso cuando el servicio es inutilizable por causas no informadas
+4. Aplicación del principio de buena fe en contratos de transporte aéreo internacional
+5. Desequilibrio contractual en la relación proveedor-consumidor y su corrección a través del deber
+de información
+Ratio Decidendi
+El deber de información en cabeza del proveedor, como profesional del mercado que ostenta una
+posición dominante en la relación de consumo, incluye informar sobre las restricciones migratorias que
+afectan la utilización del servicio contratado, especialmente cuando estas son conocidas previamente
+por el proveedor y resultan determinantes para la decisión de consumo.
+No puede trasladarse al consumidor la carga de investigar restricciones migratorias especiales
+derivadas de la pandemia que hacen imposible la utilización del servicio, pues esto v
+ulnera el principio
+de buena fe y el equilibrio contractual que buscan las normas de protección al consumidor. La omisión
+de esta información esencial justifica el reembolso del valor pagado, incluso cuando se trate de tarifas
+catalogadas como no reembolsables.
+Datos Básicos
+Número de radicado: 21-82301
+Fecha de la sentencia: 01/03/2022
+Autoridad judicial: Superintendencia de Industria y Comercio, Delegatura para Asuntos
+Jurisdiccionales
+Juez: Andrés Felipe Restrepo Prado
+Partes involucradas:
+Demandante: Jorge Alejandro Niño Sandoval
+Demandado: American Airlines Inc Sucursal Colombiana
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El 16 de noviembre de 2020, el demandante adquirió tiquetes aéreos con origen en España y
+destino Colombia, con una escala en Estados Unidos, por un valor de $1.089.607.
+2. El consumidor contaba con visa estadounidense vigente hasta 2023, cumpliendo con el requisito
+habitual para hacer tránsito por Estados Unidos.
+3. El 27 de noviembre de 2020, el demandante solicitó la devolución del dinero tras enterarse que la
+proclama migratoria de Estados Unidos le impedía hacer tránsito por ese país por no ser nacional o
+residente, debido a las medidas por COVID-19.
+4. La aerolínea negó la solicitud de reembolso sin explicar las razones de su decisión, a pesar de que
+su página web indicaba la posibilidad de reembolso cuando la cancelación se hacía con 72 horas
+de anticipación.
+5. El demandante alegó que la aerolínea incluyó en un idioma distinto al castellano una advertencia
+sobre la no reembolsabilidad del tiquete, contradiciendo la información proporcionada al momento
+de la compra.
+6. El tiquete quedó abierto por el término de un año sin que el consumidor pudiera utilizarlo debido a
+las restricciones migratorias.
+7. El consumidor tu
+vo conocimiento de estas restricciones a través de otro consumidor con
+problemas similares y lo confirmó consultando directamente con la embajada americana.
+Fundamentos Jurídicos
+Artículo 23 de la Ley 1480 de 2011: Establece la obligación de proveedores y productores de
+suministrar información "clara, veraz, su
+ficiente, oportuna, verificable, comprensible, precisa e
+idónea" sobre los productos ofrecidos.
+Artículo 24 de la Ley 1480 de 2011: Determina el contenido mínimo de la información,
+incluyendo instrucciones para el correcto uso, especificaciones del servicio, garantías y precio.
+Artículo 5, numeral 7 de la Ley 1480 de 2011: Define el concepto de información como todo
+contenido sobre características relevantes del producto y los riesgos derivados de su uso.
+Artículo 3, numeral 2.1 de la Ley 1480 de 2011: Establece como deber del consumidor
+informarse respecto a la calidad de los productos y las instrucciones del proveedor.
+Principio de buena fe contractual: Aplicable a todas las relaciones contractuales y con especial
+relevancia en las relaciones de consumo para equilibrar la posición dominante del proveedor.
+Consideraciones Principales
+1. Sobre el idioma de la información: El tribunal no considera que proporcionar información en
+idioma extranjero constituya v
+ulneración a los derechos del consumidor, dado que el tiquete f
+ue
+adquirido a través de una página web extranjera y no colombiana.
+2. Sobre la posición dominante del proveedor: El despacho reconoce que el proveedor, como
+profesional del mercado, ostenta la posición más f
+uerte en la relación de consumo y posee mayor
+conocimiento, por lo que debe informar sobre elementos esenciales como las restricciones
+migratorias aplicables.
+3. Sobre el deber de información: La sentencia establece que el deber de información es
+consecuencia necesaria del principio de buena fe y mecanismo f
+undamental para equilibrar la
+relación contractual asimétrica entre proveedor y consumidor.
+4. Sobre el alcance del deber de informarse del consumidor: Aunque existe un deber del
+consumidor de informarse, no puede trasladársele la carga de investigar restricciones
+excepcionales derivadas de la pandemia. El consumidor no tenía la obligación de acudir a cada
+embajada para conocer las restricciones vigentes.
+5. Sobre las restricciones migratorias: La aerolínea tenía conocimiento de las restricciones
+aproximadamente un año antes de la venta del tiquete, y al ofertar un servicio con escala en
+Estados Unidos que estaba limitado a nacionales o residentes, debió informar esta restricción al
+consumidor.
+6. Sobre la validez de la cláusula de no reembolso: El tribunal reconoce que la tarifa no era
+reembolsable, pero esta condición no aplica cuando el problema se origina en la falta de
+información sobre condiciones esenciales para la utilización del servicio.
+Decisión
+La sentencia declara la v
+ulneración de los derechos del consumidor y ordena la devolución del dinero
+pagado por el tiquete ($1.089.607), considerando que:
+1. La aerolínea incumplió su deber de información al no informar sobre restricciones migratorias que
+impedían al consumidor utilizar el servicio.
+2. No es posible trasladar al consumidor la responsabilidad de conocer restricciones especiales
+derivadas de la pandemia.
+3. El tiquete quedó abierto por el término de un año sin que el consumidor pudiera utilizarlo.
+Precedente Establecido
+La sentencia establece un importante precedente respecto al deber de información de las aerolíneas
+en el contexto de la pandemia:
+1. El deber de información del proveedor incluye las restricciones migratorias especiales derivadas
+de situaciones como la pandemia que pueden afectar la utilización del servicio, especialmente
+cuando estas son conocidas por el proveedor.
+2. En el contexto de restricciones por COVID-19, no puede trasladarse al consumidor la carga de
+investigar disposiciones especiales que restringen el tránsito internacional cuando el proveedor
+tiene conocimiento de dichas restricciones.
+3. Las condiciones de no reembolso en tiquetes aéreos son inaplicables cuando el servicio no puede
+utilizarse por causas ajenas al consumidor que debieron ser informadas por el proveedor.
+4. La posición dominante del proveedor en la relación de consumo implica una mayor responsabilidad
+en cuanto al deber de información, especialmente en situaciones atípicas como las generadas por
+la pandemia.
+5. El reembolso del dinero procede como remedio adecuado cuando el servicio no puede utilizarse
+debido a restricciones que debieron ser informadas, incluso en tarifas catalogadas como no
+reembolsables.

@@ -1,0 +1,183 @@
+Análisis de Sentencia - Radicado 21-257154
+Tema Jurídico
+Efectividad de la garantía legal en contratos de transporte aéreo internacional y derecho al
+reembolso en efectivo cuando la aerolínea impide injustificadamente el uso del servicio
+contratado
+Subtemas jurídicos relacionados:
+1. Inaplicabilidad del Decreto 482 de 2020 (reembolsos mediante voucher) a fallos no relacionados
+con la pandemia
+2. Allanamiento a la demanda y sus requisitos formales de validez
+3. Prevalencia del derecho de elección del consumidor en la forma de reembolso
+4. Límites a la competencia de la SIC para decretar indemnización de perjuicios
+5. Carga probatoria en casos de impedimento de abordaje en transporte aéreo internacional
+Ratio Decidendi
+Cuando una aerolínea impide injustificadamente el embarque de un pasajero, exigiendo requisitos
+documentales no establecidos por las autoridades migratorias del país de destino, el consumidor tiene
+derecho a la devolución del dinero en efectivo, no siendo aplicable el reembolso mediante voucher
+establecido en el Decreto 482 de 2020.
+Este decreto, que permite a las aerolíneas ofrecer reembolsos mediante vouchers durante la
+emergencia sanitaria, solo es aplicable para situaciones directamente relacionadas con la pandemia,
+no para fallos en el servicio imputables directamente a la aerolínea. Adicionalmente, según estableció
+la Corte Constitucional en las sentencias C-208 y C-402 de 2020, dicho decreto es constitucional
+siempre que se garantice el derecho de elección del consumidor, no pudiendo imponerse el voucher
+como única alternativa de reembolso.
+En consecuencia, ante el incumplimiento de la garantía legal en la prestación del servicio de transporte
+aéreo, por causas no relacionadas con la pandemia, el consumidor conserva su derecho a elegir entre
+la prestación del servicio en las condiciones pactadas o la devolución del dinero en efectivo, conforme
+al numeral 3 del artículo 11 de la Ley 1480 de 2011.
+Datos Básicos
+Número de radicado: 21-257154
+Fecha de la sentencia: 28/07/2022
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales (Superintendencia de Industria y
+Comercio)
+Juez: Jenny Lorena Murillo Lozano
+Partes involucradas:
+Demandante: Leidy Milena Valencia Murcia
+Demandado: Aerovías de México S.A. de CV Aeroméxico Sucursal Colombia
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El 12 de mayo de 2021, la demandante se presentó en el aeropuerto para realizar un viaje Bogotá-
+Dinamarca, con boleto electrónico No. 1392121770474 adquirido a través de la aerolínea
+demandada.
+2. Durante el proceso de embarque, un f
+uncionario de Aeroméxico le impidió abordar, indicándole
+que le faltaba una "carta de invitación apostillada" y que, sin este documento, podría ser dev
+uelta
+desde Dinamarca, debiendo asumir la multa correspondiente.
+3. La demandante manifestó que previamente había consultado con la aerolínea, donde le informaron
+que solo necesitaba el registro civil que demostrara el parentesco con su hermano biológico
+residente en Dinamarca.
+4. La pasajera se comunicó con su hermano, quien consultó con autoridades danesas, confirmando
+que no se requería tal carta apostillada para ingresar al país, siendo su
+ficiente demostrar el
+parentesco.
+5. A pesar de esta información, la aerolínea mantu
+vo su posición y no permitió el embarque.
+6. Al día siguiente (13 de mayo), la demandante verificó con la Embajada de Dinamarca que
+efectivamente no se requería ningún documento apostillado para ingresar al país.
+7. Al comunicarse nuevamente con la aerolínea y
+visitar el aeropuerto el 14 de mayo, los f
+uncionarios
+mantu
+vieron su posición inicial, impidiendo definitivamente que realizara el viaje.
+Fundamentos Jurídicos
+Ley 1480 de 2011 (Estatuto del Consumidor):
+Artículo 11, numeral 3: Establece como opciones de la garantía legal la prestación del servicio
+en las condiciones pactadas o la devolución del dinero.
+Artículo 56, numeral 3: Define los casos en que la SIC tiene competencia para reconocer
+perjuicios (información o publicidad engañosa, o prestación de servicios que suponen la
+entrega de un bien).
+Decreto 482 de 2020:
+Artículo 17: "En los eventos en que la
+s aerolínea
+s reciban solicitudes de retra
+cto, desistimiento
+y
+otra
+s circunstancia
+s rela
+cionada
+s c
+on la
+solicitud de reemb
+olso, podrán realizar, durante el
+periodo que dure la emergencia y h
+a
+sta por un año más, reemb
+olsos a los usuarios en
+servicios prestados por la misma aerolínea."
+Código General del Proceso:
+Artículo 98: Requisitos del allanamiento a la demanda.
+Jurisprudencia:
+Sentencias C-208 de 2020 y C-402 de 2020 de la Corte Constitucional: Establecen que el
+Decreto 482 de 2020 es constitucional siempre que se garantice el derecho de elección del
+consumidor. La Corte señaló: "el verb
+o rector 'podrán' incluido en el artículo 4 del decreto
+legisla
+tivo para autorizar reemb
+olsos a los c
+onsumidores c
+on otros servicios turístic
+os,
+garantiza el derech
+o de elección, que es una auténtic
+a prerroga
+tiva de los c
+onsumidores. No
+podría
+ser de otra f
+orma, pues siendo la rela
+ción de c
+onsumo una rela
+ción bila
+teral, al surgir
+estos intereses c
+ontrapuestos, la prerroga
+tiva de elección en c
+abeza de una de la
+s partes no
+elimina de fa
+cto la posibilidad de elección de la
+otra."
+Consideraciones Principales
+1. Sobre el allanamiento: El tribunal rechazó el allanamiento parcial presentado por la aerolínea, ya
+que ésta ofrecía reembolso mediante voucher, mientras que la pretensión de la demandante era la
+devolución del dinero en efectivo. Adicionalmente, la aerolínea se opuso a algunos hechos de la
+demanda, lo que contradice la naturaleza del allanamiento como aceptación total de los hechos y
+pretensiones.
+2. Relación de consumo: Se confirma la existencia de una relación de consumo entre las partes,
+estando la demandante legitimada por activa al ser la titular del tiquete para un viaje con fines
+personales, y la aerolínea legitimada por pasiva al ser quien operaría parte del trayecto y con quien
+se adquirieron los tiquetes.
+3. Reclamación directa: Se acredita que la demandante realizó reclamaciones verbales directas
+ante la aerolínea sin obtener respuesta formal, lo que genera un indicio grave en contra de la
+demandada conforme al Estatuto del Consumidor.
+4. Incumplimiento del servicio: El tribunal determina que no existe prueba de que la "carta de
+invitación apostillada" f
+uera un requisito obligatorio para ingresar a Dinamarca. Por el contrario, de
+las grabaciones telefónicas aportadas se evidencia que la Embajada confirmó que tal documento
+no era necesario. Por tanto, la negativa a permitir el embarque constituye un incumplimiento en la
+prestación del servicio imputable a la aerolínea.
+5. Inaplicabilidad del Decreto 482/2020: Se establece que este decreto, que permite reembolsos
+mediante vouchers durante la emergencia sanitaria, no es aplicable al caso porque el impedimento
+para viajar no está relacionado con la pandemia de COVID-19 (como cierres de aeropuertos o
+requisitos de pruebas COVID), sino con una falla atribuible exclusivamente a la aerolínea.
+6. Derecho de elección del consumidor: Con base en las sentencias C-208 y C-402 de 2020 de la
+Corte Constitucional, el tribunal reafirma que el consumidor conserva su derecho a elegir entre la
+prestación del servicio o la devolución del dinero, no pudiendo la aerolínea imponer
+unilateralmente un voucher como única forma de reembolso.
+7. Incompetencia para perjuicios: El tribunal establece que no tiene competencia para reconocer
+perjuicios en este caso, pues según el numeral 3 del artículo 56 de la Ley 1480 de 2011, los
+perjuicios en acciones de protección al consumidor solo proceden en tres supuestos: información
+o publicidad engañosa, o prestación de servicios que suponen la entrega de un bien. Al tratarse de
+un asunto de efectividad de la garantía, la pretensión de perjuicios deberá tramitarse ante la
+jurisdicción ordinaria.
+Decisión
+1. Se rechaza el allanamiento parcial presentado por Aerovías de México S.A.
+ulnerados los derechos de la consumidora por incumplimiento en la prestación del
+2. Se declara v
+servicio.
+3. Se ordena a Aerovías de México S.A. de CV Aeroméxico Sucursal Colombia el reembolso del
+dinero equivalente al valor del tiquete aéreo ($2.941.240), suma que deberá ser indexada con base
+en el IPC para la fecha en que se realice el pago.
+4. Se niega la pretensión relacionada con el reconocimiento de perjuicios por falta de competencia
+de la Delegatura para Asuntos Jurisdiccionales.
+Precedente Establecido
+La sentencia establece importantes criterios sobre la aplicación de normas excepcionales de
+protección a las aerolíneas durante la pandemia, diferenciando claramente los casos en que estas son
+aplicables.
+El Decreto 482 de 2020, que permite reembolsos mediante vouchers, solo es aplicable a situaciones
+directamente relacionadas con la pandemia COVID-19 (como cancelaciones por cierres de
+aeropuertos, restricciones de viaje por emergencia sanitaria, contagios, etc.), no a fallas imputables al
+normal f
+uncionamiento de las aerolíneas, como la exigencia injustificada de documentos no requeridos
+por las autoridades migratorias.
+Cuando el incumplimiento es atribuible al proveedor y no a circunstancias excepcionales de la
+pandemia, prevalece el derecho de elección del consumidor establecido en el Estatuto del
+Consumidor, pudiendo este optar por la devolución del dinero en efectivo en lugar de aceptar
+vouchers o servicios f
+uturos de la aerolínea.
+Finalmente, la sentencia clarifica los límites de la competencia de la Delegatura para Asuntos
+Jurisdiccionales de la SIC en materia de indemnización de perjuicios, estableciendo que en acciones
+de protección al consumidor por efectividad de la garantía no procede el reconocimiento de perjuicios,
+debiendo acudirse a la jurisdicción ordinaria para tal fin.

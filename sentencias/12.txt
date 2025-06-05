@@ -1,0 +1,119 @@
+ANÁLISIS J
+U
+RÍDICO: SENTENCIA 21-170709
+Tema Jurídico
+Responsabilidad de las agencias de viajes como intermediarios en la prestación de servicios
+turísticos y de transporte aéreo.
+Subtemas jurídicos:
+1. Garantía legal en la prestación de servicios turísticos
+2. Deberes de información de las agencias de viajes frente al consumidor
+3. Solidaridad entre productores y proveedores en el sector turístico
+4. Límites a la responsabilidad de los intermediarios en servicios de transporte aéreo
+5. Aplicación de normativa especial durante la emergencia sanitaria por COVID-19
+Ratio Decidendi
+A pesar de que las agencias de viajes actúan como intermediarios entre los pasajeros y las aerolíneas,
+estas tienen obligaciones directas frente a los consumidores en términos de calidad e idoneidad del
+servicio contratado. El deber de información clara, oportuna y
+veraz constituye un componente
+esencial de la garantía legal, cuyo incumplimiento configura una v
+ulneración a los derechos del
+consumidor.
+La normativa que regula a las agencias de viajes (Decreto 2438 de 2010) les impone el deber de "velar
+por el cabal cumplimiento de los servicios contratados" y de informar adecuadamente sobre cambios
+en las condiciones del servicio, lo que contradice la pretensión de exoneración de responsabilidad
+basada en su calidad de intermediarios.
+La responsabilidad frente al consumidor recae solidariamente en productores y proveedores,
+permitiendo que la garantía legal pueda ser exigida a cualquiera de los intervinientes en la relación de
+consumo.
+Datos Básicos
+Número de radicado: 21-170709
+Fecha de la sentencia: 27/07/2022
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales (Superintendencia de Industria y
+Comercio)
+Nombre del juez/jueza: Lina Margarita Flórez Pernett
+Partes involucradas:
+Demandante: Gregorio Armando Mayorga Cardozo
+Demandado: Price Res S.A.S.
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El demandante adquirió tiquetes aéreos con destino Bogotá-Las Vegas a través de la agencia de
+viajes Price Res S.A.S. por valor de $653.900 pesos.
+2. Debido a la emergencia sanitaria por COVID-19, el v
+uelo original f
+ue cancelado, dejando como
+solución la reprogramación de los tiquetes.
+3. El demandante reprogramó el tiquete para el 31 de marzo de 2021 a las 2:20 p.m.
+4. Al intentar hacer check-in el día anterior, el demandante descubrió que el v
+uelo había sido
+reprogramado para las 10:16 a.m. sin previo aviso.
+5. El cambio de horario impidió al demandante tomar el v
+uelo debido a compromisos laborales.
+6. A pesar de múltiples comunicaciones, la agencia de viajes no ofreció una solución adecuada al
+problema.
+7. El demandante tu
+vo que adquirir otro v
+uelo a un costo más elevado.
+Fundamentos Jurídicos
+Ley 1480 de 2011 (Estatuto del Consumidor):
+Artículo 5.1: Define la calidad como "condición en que un producto cumple con las
+características inherentes y las atribuidas por la información que se suministre sobre él."
+Artículo 7: Establece la garantía legal como "la obligación, en los términos de esta ley, a cargo
+de todo productor y/o proveedor de responder por la calidad, idoneidad, seguridad y el buen
+estado y f
+uncionamiento de los productos."
+Artículo 10: "Ante los consumidores, la responsabilidad por la garantía legal recae
+solidariamente en los productores y proveedores respectivos."
+Ley 300 de 1996:
+Artículo 84: Define las agencias de viajes como "empresas comerciales (...) que, debidamente
+autorizadas, se dediquen profesionalmente al ejercicio de actividades turísticas dirigidas a la
+prestación de servicios, directamente o como intermediarios entre los viajeros y proveedores
+de los servicios."
+Decreto 2438 de 2010:
+Artículo 1: Establece los deberes de las agencias de viajes, incluyendo suministrar información
+completa, informar sobre modificaciones y
+velar por el cumplimiento de los servicios
+contratados.
+Artículo 3: Limita la responsabilidad de las agencias frente al servicio de transporte aéreo.
+Reglamento Aeronáutico Colombiano (RAC):
+Artículo 3.10.1.5: "Efectuada la reserva para uno o más trayectos, ésta deberá ser respetada
+por el transportador, sus agentes o intermediarios, en los términos y condiciones de la misma."
+Artículo 3.10.1.6: Establece la obligación de informar sobre cambios en horarios o aspectos
+que afecten la reserva con al menos 24 horas de antelación.
+Decreto 482 de 2020:
+Artículo 17: Establece medidas especiales para reembolsos durante la emergencia sanitaria
+por COVID-19.
+Consideraciones Principales
+1. La calidad del servicio exige que el productor/proveedor proporcione información oportuna para
+que el consumidor pueda tomar decisiones de consumo razonables.
+2. Aunque la sociedad demandada alegó ser un mero intermediario amparado en el artículo 3 del
+Decreto 2438 de 2010, este mismo decreto establece deberes de información y la obligación de
+"velar por el cabal cumplimiento de los servicios contratados."
+3. El actuar de la sociedad demandada f
+ue negligente al no cumplir con los requisitos de información
+que la normativa especializada le imponía, particularmente al no informar oportunamente sobre el
+cambio de horario.
+4. La imposición unilateral de nuevas condiciones (cambio de horario) demuestra una v
+ulneración
+directa a los derechos del consumidor y a la garantía legal del servicio contratado.
+5. Existe responsabilidad solidaria entre la agencia de viajes y la aerolínea, pudiendo el consumidor
+exigir el cumplimiento de la garantía a cualquiera de los intervinientes en la relación de consumo.
+6. Durante la emergencia sanitaria, el Decreto 482 de 2020 estableció medidas especiales para
+reembolsos, permitiendo a las aerolíneas realizar reembolsos en servicios durante el periodo de
+emergencia y hasta por un año más.
+Decisión
+1. Ordenar a Price Res S.A.S. la entrega de un Travel Voucher al demandante, por valor de $653.900
+pesos, para ser utilizados en servicios que preste la compañía, con vigencia durante la emergencia
+sanitaria y hasta por un año más.
+2. Negar la pretensión indemnizatoria por valor de $1.396.000 pesos por concepto de daños y
+perjuicios, por no ser procedente en el marco de la acción de protección al consumidor.
+Precedente Establecido
+Las agencias de viajes, aunque actúen como intermediarios entre consumidores y prestadores
+directos del servicio, mantienen responsabilidad solidaria frente a los consumidores en relación con la
+garantía legal de los servicios contratados. El deber de información oportuna y clara sobre cambios en
+los servicios constituye un elemento esencial de la garantía legal, y su incumplimiento configura una
+ulneración directa a los derechos del consumidor. Los eximentes de responsabilidad contemplados
+en la normativa sectorial no relevan a las agencias de viajes de cumplir con sus deberes
+f
+undamentales frente al consumidor, especialmente en lo relativo a la información y a velar por el
+cumplimiento de los servicios contratados.
+v

@@ -1,0 +1,111 @@
+Análisis Jurídico de Sentencia sobre Derecho a la Información y
+Legitimación del Comprador como Consumidor
+Tema Jurídico
+Tema Central: La v
+ulneración del derecho a la información del consumidor cuando una aerolínea
+promete un reembolso en un plazo determinado y no lo cumple, y la legitimación como consumidor de
+quien compra tiquetes aéreos para uso de terceros.
+Subtemas:
+1. Consecuencias procesales y probatorias de la confesión ficta por no contestación de la demanda
+2. Alcance y definición del concepto de consumidor en la legislación colombiana
+3. Contenido y alcance del deber de información durante toda la relación contractual
+4. Responsabilidad del proveedor por información inexacta o incumplida
+5. Efectos probatorios del interrogatorio de parte bajo gravedad de juramento
+Ratio Decidendi
+Cuando un proveedor de servicios (aerolínea) informa al consumidor que procederá con el reembolso
+del valor de tiquetes aéreos en un plazo determinado y no cumple con dicho compromiso, se configura
+una v
+ulneración al derecho a la información establecido en el artículo 23 del Estatuto del Consumidor,
+que obliga a los proveedores a suministrar información "clara, veraz, su
+ficiente, oportuna, verificable,
+comprensible, precisa e idónea".
+Asimismo, quien adquiere tiquetes aéreos para ser utilizados por terceros tiene legitimación como
+consumidor para interponer acciones legales, conforme a la definición del numeral 3 del artículo 5 del
+Estatuto del Consumidor, pues f
+ue quien realizó la compra para satisfacer una necesidad propia,
+privada, familiar o doméstica.
+Datos Básicos
+Número de radicado: 22-61789
+Fecha de la sentencia: 28/06/2023
+Autoridad judicial: Superintendencia de Industria y Comercio, Delegatura para Asuntos
+Jurisdiccionales
+Nombre del juez: Andrea Carolina Velásquez Lacera
+Partes involucradas:
+Demandante: Alejandra Margarita Maria Cuellar Valencia
+Demandado: Aerovias De Integracion Regional S.A
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El 8 de noviembre (no se especifica el año), la demandante realizó la compra de dos tiquetes
+aéreos que serían utilizados por otras personas.
+2. La aerolínea informó a la demandante que procedería con el reembolso del dinero pagado por los
+tiquetes.
+3. La aerolínea solicitó información de datos personales como el número de cuenta bancaria para
+efectuar el reembolso.
+4. La aerolínea indicó específicamente que realizaría el reintegro en un plazo total de 15 días hábiles.
+5. A la fecha de la demanda, el reembolso no se había efectuado.
+6. La aerolínea no contestó la demanda en el momento procesal oportuno.
+7. La demandante, en su interrogatorio de parte, confirmó bajo gravedad de juramento que f
+ue ella
+quien adquirió los tiquetes, aunque serían utilizados por otras personas.
+Fundamentos Jurídicos
+Código General del Proceso, artículo 97: Establece las consecuencias procesales y probatorias
+de la no contestación de la demanda (confesión ficta), presumiendo ciertos los hechos
+susceptibles de confesión contenidos en la demanda.
+Ley 1480 de 2011 (Estatuto del Consumidor), artículo 5, numeral 3: Define quién se reputa
+como consumidor: "toda persona natural o jurídica que, como destinatario final, adquiera, disfrute
+o utilice un determinado producto, cualquiera que sea su naturaleza, para la satisfacción de una
+necesidad propia, privada, familiar, doméstica, empresarial, cuando no esté ligada intrínsecamente
+a su actividad económica".
+Ley 1480 de 2011, artículo 23: Establece la obligación de los proveedores y productores de
+suministrar información clara, veraz, su
+ficiente, oportuna, verificable, comprensible, precisa e
+idónea sobre los productos que ofrezcan, y su responsabilidad por daños derivados de
+información inadecuada o insu
+ficiente.
+Consideraciones Principales
+1. Relación de consumo: El tribunal considera acreditada la relación de consumo a través de dos
+medios probatorios: la confesión ficta derivada de la no contestación de la demanda y la
+declaración bajo juramento de la demandante en el interrogatorio de parte.
+2. Legitimación del comprador como consumidor: Se establece que la demandante, aunque
+compró los tiquetes para ser utilizados por otras personas, cumple con los requisitos establecidos
+en el artículo 5 del Estatuto del Consumidor para estar legitimada en la causa por activa, pues f
+ue
+la persona que compró los tiquetes aéreos objeto de la controversia.
+3. Deber de información durante toda la relación contractual: Se enfatiza que el deber de
+información no se limita al momento de la compra, sino que se extiende "durante toda la relación
+contractual", debiendo ser la información siempre verídica y clara.
+4. Evidencia documental de la promesa incumplida: El tribunal destaca que está acreditado con
+documentos (Consecutivo cero, página cuatro y cinco) que la aerolínea, a través de su agente de
+atención al cliente, informó que procedería con la devolución del dinero y solicitó información
+bancaria, indicando un plazo de 15 días hábiles.
+5. Efectos de la no contestación: Al no contestar la demanda, se aplican las consecuencias
+probatorias del artículo 97 del Código General del Proceso, presumiendo ciertos los hechos
+susceptibles de confesión contenidos en la demanda, específicamente que la aerolínea se
+comprometió al reembolso y que éste no se efectuó en el plazo indicado.
+Decisión
+El tribunal accede a la pretensión de la demanda, ordenando a la aerolínea el reembolso del dinero
+pagado por los tiquetes aéreos objeto de la controversia, por considerar demostrada la v
+ulneración al
+derecho a la información consagrado en el artículo 23 del Estatuto del Consumidor.
+Precedente Establecido
+Esta sentencia establece importantes precedentes en materia de protección al consumidor:
+1. Alcance del concepto de consumidor: Quien compra tiquetes aéreos u otros
+productos/servicios para ser utilizados por terceros tiene plena legitimación como consumidor
+para interponer acciones legales, pues se considera destinatario final del servicio de venta,
+independientemente de quién utilice el producto final.
+2. Alcance temporal del deber de información: El deber de información por parte de los
+proveedores no se limita a la etapa precontractual o al momento de la venta, sino que se extiende
+"durante toda la relación contractual", incluyendo la etapa post-contractual cuando se ha ofrecido
+un reembolso.
+3. Concepto de información veraz: La veracidad de la información no solo implica que ésta
+corresponda con la realidad al momento de ser suministrada, sino que se cumpla efectivamente lo
+informado en los términos y plazos indicados.
+4. Efectos sustanciales del incumplimiento de plazos informados: El incumplimiento de un plazo
+informado para un reembolso no constituye un simple retardo sin consecuencias, sino una
+ulneración material al derecho a la información que genera responsabilidad para el proveedor.
+Este precedente es particularmente relevante para casos similares donde proveedores de servicios,
+especialmente aerolíneas, realicen promesas de reembolso con plazos específicos y no los cumplan,
+estableciendo claramente que tal conducta constituye una v
+ulneración al derecho a la información que
+amerita la intervención jurisdiccional para proteger al consumidor.
+v

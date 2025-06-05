@@ -1,0 +1,116 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA
+Radicado: 2020-241926
+Tema Jurídico
+Cuestión central: Diferenciación entre publicidad engañosa y efectividad de la garantía en casos de
+doble cobro por tiquetes aéreos, y determinación del reembolso procedente al consumidor.
+Subtemas jurídicos:
+1. Distinción conceptual entre publicidad engañosa y garantía legal en el Estatuto del Consumidor
+2. Procedencia y alcance del reembolso por doble cobro en servicios turísticos
+3. Efectos jurídicos del allanamiento parcial o condicionado en acciones de protección al consumidor
+4. Límites de la competencia jurisdiccional para reconocer indemnizaciones por perjuicios en
+procesos de efectividad de garantía
+5. Procedencia de la indexación monetaria en reembolsos por efectividad de garantía
+Ratio Decidendi
+El doble cobro en la adquisición de un servicio de transporte aéreo no constituye un caso de
+publicidad o información engañosa, sino una v
+ulneración a la efectividad de la garantía establecida en
+el artículo 11 numeral 3 de la Ley 1480 de 2011. Cuando esto ocurre, el consumidor tiene derecho a
+que se le dev
+uelva el dinero pagado indebidamente, debidamente indexado para mantener su
+valor
+adquisitivo, sin que esto constituya una indemnización. Dicha devolución debe realizarse en un plazo
+máximo de 15 días hábiles desde que el consumidor lo solicite, conforme al artículo 2.2.2.32.2.9 del
+Decreto 1074 de 2015. El allanamiento parcial o condicionado a una suma diferente a la reclamada no
+cumple con los requisitos del artículo 98 del CGP y debe ser rechazado.
+Datos Básicos
+Número de radicado: 2020-241926
+Fecha de la sentencia: 31/05/2021
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales (Superintendencia de Industria y
+Comercio)
+Juez: Fredy Alexander Pérez Ramírez
+Partes: Ana Leonor Mayorga de Ulloa (demandante) vs. Despegar Colombia S.A.S. (demandado)
+Tipo de acción: Acción de Protección al Consumidor
+Hechos Clave
+1. El 12 de septiembre de 2019, la demandante adquirió un tiquete aéreo a nombre de Marisol
+Londoño con destino Buenos Aires-Bogotá, ida y regreso, por valor de $1.613.214, mediante tarjeta
+de crédito terminada en 0469, transacción que f
+ue rechazada.
+2. El 13 de septiembre, ante la insistencia de la demandada, la consumidora realizó la compra con
+otra tarjeta de crédito (terminada en 8364) por el mismo valor.
+3. El 14 de septiembre, la demandante recibió confirmación de compra sobre la tarjeta rechazada
+inicialmente (terminada en 0469), produciéndose un doble cobro.
+4. El 15 de octubre de 2019, la demandante presentó reclamación directa solicitando el reembolso de
+la suma debitada de la primera tarjeta.
+5. El 7 de noviembre de 2019, la sociedad demandada manifestó que procedería con la solicitud ante
+la aerolínea, alegando actuar como intermediarios y prometiendo la devolución de $1.602.000, lo
+cual nunca se materializó.
+6. Según los extractos bancarios aportados, la suma efectivamente debitada de la tarjeta terminada
+en 0469 f
+ue de $1.602.000 a nombre de LATAM Airlines Colombia.
+Fundamentos Jurídicos
+Artículo 5, Ley 1480 de 2011: Define publicidad como "toda forma y contenido de comunicación
+que tenga como finalidad influir en las decisiones de consumo".
+Artículos 23 y 29, Ley 1480 de 2011: Establecen el derecho de los consumidores a recibir
+información y la obligatoriedad de las condiciones objetivas anunciadas en la publicidad.
+Artículo 11 numeral 3, Ley 1480 de 2011: Establece que cuando exista incumplimiento en la
+prestación de servicios, el consumidor tiene derecho a exigir la devolución del precio pagado.
+Artículo 2.2.2.32.2.9, Decreto 1074 de 2015: Establece que la devolución del dinero por
+efectividad de la garantía legal deberá producirse dentro de los 15 días hábiles siguientes a la
+solicitud.
+Artículo 2.2.2.32.6.4, Decreto 1074 de 2015: Limita la competencia para reconocer
+indemnizaciones por perjuicios en procesos de efectividad de la garantía.
+Artículo 2.2.2.32.2.6, Decreto 1074 de 2015: Establece que en eventos de controversia sobre el
+monto de devolución, la efectividad de la garantía legal se hará mediante la devolución del precio
+efectivamente pagado.
+Artículo 98, Código General del Proceso: Regula los requisitos del allanamiento a la demanda.
+Artículo 58 numeral 10, Ley 1480 de 2011: Establece la facultad del juez para imponer multas en
+ciertos casos, exceptuando situaciones como el allanamiento.
+Consideraciones Principales
+1. El Despacho determina que el caso no se trata de publicidad o información engañosa, sino de una
+ulneración a la efectividad de la garantía legal, pues el doble cobro y el incumplimiento en el
+reembolso no afectaron la decisión de consumo inicial.
+2. Se establece que la publicidad e información engañosa ocurre cuando las condiciones anunciadas
+influyen en la decisión de compra, mientras que la efectividad de la garantía se refiere al
+cumplimiento de obligaciones post-venta.
+3. Mediante revisión de extractos bancarios, se verifica que la suma debitada de la tarjeta de crédito
+terminada en 0469 f
+ue de $1.602.000, no $1.613.214 como afirmaba la demandante.
+4. El tribunal rechaza el allanamiento de la demandada por no ser expreso a las pretensiones exactas,
+ya que condicionó su aceptación a una suma diferente a la reclamada.
+5. Se reconoce la favorabilidad otorgada por la demandada al aceptar la devolución del dinero, pero
+se enfatiza que esto no constituye exoneración de responsabilidad.
+6. El Despacho aclara que la indexación del monto a devolver no constituye una indemnización, sino
+la actualización del valor adquisitivo de la moneda.
+7. Se determina que la SIC no tiene competencia para reconocer indemnizaciones por perjuicios en
+procesos de efectividad de la garantía, según lo establece el Decreto 1074 de 2015.
+8. El tribunal decide no imponer multa a la demandada, en aplicación del artículo 58 numeral 10 de la
+Ley 1480 de 2011, que exceptúa esta sanción cuando el demandado se allana a los hechos.
+Decisión
+1. Se declara la v
+ulneración de los derechos de la consumidora y se acepta la favorabilidad
+presentada por Despegar Colombia S.A.S.
+2. Se ordena a la sociedad demandada devolver $1.602.000, debidamente indexados, dentro de los
+10 días hábiles siguientes a la ejecutoria de la providencia.
+3. Se niegan las demás pretensiones, incluyendo las indemnizaciones por perjuicios y la imposición
+de multa.
+4. Se ordena a la demandante informar al Despacho sobre el cumplimiento de la orden dentro de los
+30 días hábiles siguientes.
+5. Se advierte que el retraso en el cumplimiento generará multas diarias a favor de la SIC.
+6. Se imponen costas a favor de la demandante, con agencias en derecho por $100.000.
+Precedente Establecido
+v
+El doble cobro en la adquisición de servicios de transporte aéreo constituye una v
+ulneración a la
+efectividad de la garantía legal establecida en el Estatuto del Consumidor, no un caso de publicidad o
+información engañosa. La diferenciación es f
+undamental: la publicidad engañosa afecta la formación
+del consentimiento contractual influenciando la decisión de compra con información falsa o inexacta,
+mientras que la efectividad de la garantía se refiere al cumplimiento posterior de obligaciones
+relacionadas con calidad, idoneidad y seguridad de productos y servicios. El consumidor tiene
+derecho a la devolución del dinero indebidamente cobrado dentro del plazo legal de 15 días hábiles,
+debidamente indexado para preservar su poder adquisitivo, sin que este ajuste por inflación constituya
+una indemnización. La competencia de la SIC en procesos de efectividad de garantía no incluye el
+reconocimiento de perjuicios patrimoniales o extrapatrimoniales, limitándose a ordenar la devolución
+del precio efectivamente pagado.

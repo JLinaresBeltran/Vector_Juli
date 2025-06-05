@@ -1,0 +1,114 @@
+ANÁLISIS J
+U
+RISPR
+UDENCIAL: SENTENCIA 20-358936
+Tema Jurídico
+Responsabilidad de una empresa transportadora por el extravío de mercancía y legitimación del
+destinatario final para ejercer acciones de protección al consumidor, aun cuando no haya contratado
+directamente el servicio de transporte.
+Subtemas jurídicos relacionados:
+1. Legitimación por activa del consumidor como destinatario final
+2. Alcance de la garantía legal en servicios de transporte de mercancías
+3. Responsabilidad del transportador por pérdida de la carga
+4. Requisitos de procedibilidad en acciones de protección al consumidor
+5. Indemnización por pérdida de mercancía transportada
+Ratio Decidendi
+El destinatario final de una mercancía transportada tiene legitimación para interponer acciones de
+protección al consumidor contra la empresa transportadora cuando ésta incumple su obligación de
+entrega, aun cuando no haya sido quien contrató directamente el servicio. El concepto de consumidor
+incluye a quien, como destinatario final, disfruta o utiliza un producto o servicio, siendo aplicable el
+artículo 5 numeral 3 de la Ley 1481 de 2011.
+Adicionalmente, conforme al artículo 1024 del Código de Comercio, cuando el transportador reconoce
+el extravío de la mercancía, o cuando han transcurrido siete días desde que debió llegar sin que esto
+ocurra, el destinatario queda legalmente autorizado para hacer valer los derechos resultantes del
+contrato de transporte, sin que pierda legitimación por no haber recibido físicamente el bien, ya que
+este hecho f
+ue causado por la misma empresa transportadora.
+Datos Básicos
+Número de radicado: 20-358936
+Fecha de la sentencia: 27/09/21
+Autoridad judicial: Superintendencia de Industria y Comercio - Delegatura para Asuntos
+Jurisdiccionales
+Nombre del juez/jueza: María José Bautista Rivera
+Partes involucradas:
+Demandante: Sandra Isabel Carrasquilla Vásquez
+Demandado: Coordinadora Mercantil S.A.
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El 18 de agosto de 2020, la demandante contrató el servicio de envío de encomienda con la
+sociedad demandada para transportar una caja con regalos y compras del exterior valorada en
+600 USD.
+2. El courrier AR EXPRESS COLO
+MBIA S.A.S. se encargó de nacionalizar los productos y entregó el
+bien en perfectas condiciones a la sociedad demandada para su transporte.
+3. El paquete f
+ue extraviado y la información proporcionada por la sociedad demandada f
+ue tardía e
+inconsistente, inicialmente atribuyendo el retraso a la pandemia COVID-19.
+4. Posteriormente, la demandada informó que había ocurrido un hurto al camión que transportaba el
+paquete en la ruta Bogotá-Cachipay, aunque según la demandante no existe denuncia formal ante
+las autoridades.
+5. La demandante alegó una afectación moral a su hija, cuyos regalos de cumpleaños venían en el
+paquete, además de una pérdida monetaria de 600 USD.
+Fundamentos Jurídicos
+Artículo 5 numeral 3 de la Ley 1481 de 2011: Define consumidor como "Toda persona natural o
+jurídica que, como destinatario final, adquiera, disfrute o utilice un determinado producto,
+cualquiera que sea su naturaleza para la satisfacción de una necesidad propia, privada, familiar o
+doméstica y empresarial cuando no esté ligada intrínsecamente a su actividad económica. Se
+entenderá incluido en el concepto de consumidor el de usuario."
+Artículo 1024 del Código de Comercio: Establece que el destinatario tiene derecho a solicitar la
+entrega de la mercancía desde su llegada al punto de destino. Si el transportador reconoce el
+extravío o si transcurren siete días sin que la mercancía llegue, "el destinatario queda autorizado a
+hacer valer con relación al transportador los derechos resultantes del contrato de transporte."
+Artículo 7 de la Ley 1480 de 2011: Define la garantía legal como "La obligación, en los términos
+de esta ley, a cargo de todo productor y/o proveedor de responder por la calidad, idoneidad,
+seguridad y el buen estado y f
+uncionamiento de los productos."
+Artículo 18 numeral 2 del Estatuto del Consumidor: Establece que quien presta el servicio
+"asume la custodia y conservación adecuada del bien y, por lo tanto, de la integridad de los
+elementos que lo componen."
+Artículo 1031 del Código de Comercio: Establece el límite de la indemnización en caso de
+pérdida total de la carga transportada.
+Consideraciones Principales
+La Superintendencia determina que:
+1. La legitimación por activa de la demandante está probada al ser la destinataria final de la
+mercancía transportada, conforme a la definición amplia de consumidor que incluye no solo a
+quien adquiere originariamente un bien o servicio, sino a toda persona que, como destinatario final,
+lo disfruta o utiliza.
+2. La demandante no pierde legitimación por no haber recibido el paquete, ya que esto f
+ue resultado
+de una circunstancia provocada por la sociedad demandada que no entregó la mercancía.
+3. La excepción de mérito sobre la falta de reclamo directo (requisito de procedibilidad) se considera
+propuesta f
+uera de término y de forma inadecuada, al no haberse interpuesto mediante recurso de
+reposición contra el auto admisorio, como lo exige el artículo 391 del Código General del Proceso
+para procesos verbales sumarios.
+4. Se aplicó la normativa del Código de Comercio sobre transporte de cosas y no las disposiciones
+especiales de la Ley 369 de 2009, por tratarse de objetos postales que superan 5 km.
+5. Se determina que existe una v
+ulneración de los derechos de la consumidora en materia de
+garantía legal, ya que la mercancía nunca f
+ue entregada.
+6. No existe carencia del objeto por hecho superado, ya que, aunque la demandada adelantó un
+trámite de indemnización con el remitente, no se ha compensado a la consumidora que es quien
+tiene sus derechos v
+ulnerados.
+Decisión
+1. Se declara la v
+ulneración de los derechos de la consumidora en relación con la garantía legal.
+2. Se ordena a la sociedad demandada el pago de la indemnización correspondiente a la suma
+declarada en la guía de transporte, siguiendo las disposiciones del artículo 1031 del Código de
+Comercio que establece el límite indemnizatorio en caso de pérdida total de la carga.
+Precedente Establecido
+Esta sentencia establece que el destinatario final de una mercancía tiene legitimación activa para
+interponer acciones de protección al consumidor contra la empresa transportadora por el
+incumplimiento en la entrega, aun cuando no haya contratado directamente el servicio. Este
+precedente ref
+uerza la interpretación amplia del concepto de consumidor establecido en la Ley 1480
+de 2011, extendiendo la protección a quien, como destinatario final, iba a disfrutar o utilizar un
+producto o servicio.
+El precedente confirma también que, en casos de extravío de mercancía, el transportador debe
+responder ante el destinatario final por la pérdida, conforme a los límites indemnizatorios establecidos
+en la normativa comercial, sin que pueda exonerarse alegando falta de legitimación del consumidor
+destinatario o ausencia de reclamo directo cuando estos argumentos no se presentan oportunamente
+conforme al procedimiento aplicable.

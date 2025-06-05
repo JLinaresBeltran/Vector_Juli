@@ -1,0 +1,166 @@
+Análisis de Sentencia - Radicado 21-269979
+Tema Jurídico
+Deber de información en el transporte aéreo: O
+oportunamente cambios de itinerario a los pasajeros
+bligación de aerolíneas de comunicar
+Subtemas jurídicos relacionados:
+1. Publicidad engañosa en servicios de transporte aéreo
+2. Indemnización de perjuicios por incumplimiento del deber de información
+3. Sistema de atención al usuario en el transporte aéreo
+4. Carga probatoria en procesos de protección al consumidor
+5. Efectos jurídicos del juramento estimatorio objetado
+Ratio Decidendi
+v
+La aerolínea que modifica el itinerario de un v
+uelo tiene la obligación legal de informar oportunamente
+(con al menos 24 horas de antelación) al pasajero o a la agencia de viajes sobre dicho cambio,
+conforme lo establece el artículo 3.10.4 del Reglamento Aeronáutico Colombiano. Corresponde a la
+aerolínea, según el artículo 167 del Código General del Proceso, probar que cumplió con dicha
+obligación de información. La falta de prueba del cumplimiento de este deber configura una
+ulneración al derecho de información del consumidor establecido en el artículo 23 de la Ley 1480 de
+2011.
+Sin embargo, para el reconocimiento de la indemnización de perjuicios derivados de dicha v
+ulneración,
+cuando el juramento estimatorio ha sido objetado, le corresponde al demandante demostrar la cuantía
+de los daños alegados mediante otros medios probatorios, no siendo su
+ficiente la simple estimación
+juramentada.
+Datos Básicos
+Número de radicado: 21-269979
+Fecha de la sentencia: 09/08/2022
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales (Superintendencia de Industria y
+Comercio)
+Juez: Juan Guillermo Sandoval Montero
+Partes involucradas:
+Demandante: Diego Andrés García Sánchez
+Demandado: Aerovías del Continente Americano S.A. (AVIANCA)
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El 17 de octubre de 2020, el demandante adquirió mediante la agencia Viajes Éxito Colina un viaje
+para 3 personas con destino a San Andrés Islas.
+2. Los tiquetes aéreos f
+ueron adquiridos con AVIANCA en la ruta Bogotá-San Andrés Isla, v
+uelo
+AV8560, programado inicialmente para el 31 de mayo de 2021 a las 8:50 am.
+3. El día del v
+uelo, al llegar al aeropuerto El Dorado a las 6:50 am, le informaron que el v
+uelo ya
+estaba cerrado porque el itinerario de salida era a las 7:40 am.
+4. La aerolínea solicitó el pago de una multa de $170.000 por persona para tomar otro v
+uelo, lo que el
+demandante no aceptó.
+5. La agencia de viajes intervino y logró una solución a través del Call Center de AVIANCA sin
+necesidad del pago adicional.
+6. El demandante alegó que nunca recibió información sobre el cambio de itinerario del v
+uelo.
+7. AVIANCA afirmó haber informado oportunamente el cambio pero no aportó prueba de ello.
+Fundamentos Jurídicos
+Ley 1480 de 2011 (Estatuto del Consumidor):
+Artículo 5, numerales 7, 12 y 13: Definiciones de información, publicidad y publicidad
+engañosa.
+Artículo 23: Deber de información. "Los proveedores y productores deberán suministrar a los
+c
+onsumidores inf
+orma
+ción, clara, veraz, suficiente, oportuna, verific
+able, c
+omprensible,
+precisa e idónea
+so
+bre los productos que o
+frezc
+an y, sin perjuicio de lo señalado para los
+productos defectuosos, serán responsables de todo daño que sea
+c
+onsecuencia de la
+inadecuada
+o insuficiente inf
+orma
+ción."
+Reglamento Aeronáutico Colombiano:
+Artículo 3.10.4: "En c
+a
+so de producirse algún c
+ambio en cuanto
+al vuelo, el h
+orario o en
+general cualquier a
+specto que afecte la reserva a
+c
+ordada, la aerolínea
+o la agencia de via
+jes
+por cuy
+c
+o
+onducto se h
+aya efectuado la reserva
+(si ésta
+última
+hubiese tenido
+c
+ono
+cimiento),
+deberá inf
+ormarlo
+al pa
+sa
+jero por el medio más rápido posible (teléf
+ono, fax, c
+orreo
+electrónic
+o, mensa
+je de texto por teléf
+ono móvil, etc.) a más tardar c
+on veinticua
+tro
+(24) h
+ora
+s
+de antela
+ción al vuelo."
+Artículo 3.10.1.6: O
+bligación de contar con un Sistema de Atención al Usuario.
+Código General del Proceso:
+Artículo 167: Carga de la prueba.
+Artículo 206: Juramento estimatorio.
+Consideraciones Principales
+1. Sobre la publicidad engañosa: El despacho determinó que la frase "Servimos con compasión e
+integridad" no constituye publicidad engañosa, pues no se demostró que influyera en la decisión
+de adquirir el servicio con AVIANCA. El demandante manifestó que eligió el v
+uelo por el horario
+ofrecido por la agencia de viajes, no por publicidad directa de la aerolínea.
+2. Sobre el deber de información: La aerolínea aceptó expresamente que modificó el horario del
+uelo, pero no aportó prueba de haber informado oportunamente al pasajero o a la agencia de
+viajes sobre dicho cambio. En el interrogatorio de parte, el representante legal de AVIANCA indicó
+que la información se envió al correo que aparecía en la reserva, pero no especificó cuál era ese
+correo ni aportó prueba del envío.
+3. Sobre la indemnización de perjuicios: Al haberse objetado el juramento estimatorio,
+correspondía al demandante probar los perjuicios alegados (gastos de alimentación, angustia y
+tiempo perdido). El despacho no encontró prueba alguna de estos daños, pues el demandante no
+aportó evidencia en el término de traslado de la objeción al juramento estimatorio.
+4. Sobre el sistema de atención al usuario: No se aportaron pruebas que demostraran la
+ulneración a este derecho.
+Decisión
+1. Se declaró la v
+ulneración al deber de información por parte de AVIANCA, al no haber probado que
+informó oportunamente el cambio de itinerario.
+2. No se consideró demostrada la publicidad engañosa alegada por el demandante.
+3. No se concedió la indemnización de perjuicios solicitada por falta de prueba de los daños.
+4. No se encontró v
+ulneración respecto al sistema de atención al usuario.
+Precedente Establecido
+La sentencia establece que las aerolíneas tienen la obligación de informar oportunamente los cambios
+de itinerario a los pasajeros o a las agencias de viajes, y la carga de probar el cumplimiento de esta
+obligación recae sobre la aerolínea. El incumplimiento de este deber de información constituye una
+ulneración a los derechos del consumidor.
+Sin embargo, para obtener una indemnización por los perjuicios derivados de dicha v
+ulneración,
+cuando el juramento estimatorio ha sido objetado, no basta con la simple afirmación de los daños, sino
+v
+v
+v
+que estos deben ser probados mediante evidencia concreta. La sentencia aclara la distribución de
+cargas probatorias en este tipo de procesos: mientras que la aerolínea debe probar que cumplió con
+su deber de información, el consumidor debe probar los perjuicios que reclama cuando su juramento
+estimatorio ha sido objetado.

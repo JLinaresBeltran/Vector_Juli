@@ -1,0 +1,107 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA
+Radicado: 20-111244
+Tema Jurídico
+Cuestión central: Procedencia del derecho de retracto extemporáneo en contratos de transporte
+aéreo y determinación de soluciones equitativas ante la imposibilidad de prestación del servicio por la
+emergencia sanitaria del COVID-19.
+Subtemas jurídicos:
+1. Requisitos y plazos para ejercer el derecho de retracto en servicios de transporte aéreo
+2. Exoneración de responsabilidad por f
+uerza mayor en contratos de transporte aéreo
+3. Alcance de la garantía legal frente a causas extrañas no imputables a las partes
+4. Aplicación de la facultad judicial de fallar en equidad en el marco del Estatuto del Consumidor
+5. Alternativas al reembolso monetario como solución equitativa en circunstancias extraordinarias
+Ratio Decidendi
+Cuando el consumidor ejerce el derecho de retracto f
+uera del plazo legal de 5 días hábiles establecido
+en el artículo 47 de la Ley 1480 de 2011, y adicionalmente la imposibilidad de prestación del servicio de
+transporte aéreo se debe a un evento de f
+uerza mayor como la pandemia COVID-19, no existe
+ulneración a los derechos del consumidor que justifique la devolución del dinero. Sin embargo, en
+aplicación de la facultad de fallar en equidad (artículo 58 numeral 9 de la Ley 1480), el juez puede
+ordenar medidas alternativas como la expedición de un voucher por el valor del tiquete con vigencia
+extendida, buscando así un equilibrio entre los intereses de ambas partes afectadas por circunstancias
+extraordinarias.
+v
+Datos Básicos
+Número de radicado: 20-111244
+Fecha de la sentencia: 11/03/2021
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales (Superintendencia de Industria y
+Comercio)
+Juez: Natalia Andrea Alonso Molina
+Partes: Claudio Molinari (demandante) vs. Fast Colombia S.A.S. (demandado)
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El demandante adquirió un tiquete aéreo el 7 de marzo de 2020 para volar en la ruta Cartagena-
+Miami-Cartagena, con fechas programadas para el 22 y 25 de junio de 2020, por valor de USD
+378 (equivalente a COP 1.428.304).
+2. El 14 de marzo de 2020, el demandante solicitó el derecho de retracto y requirió el reembolso del
+valor pagado por el tiquete.
+3. La aerolínea respondió que le entregaría un voucher equivalente al monto total del tiquete, pero no
+lo entregó de forma directa al consumidor.
+4. El demandante insistió en que su solicitud era por la devolución del dinero, no por un voucher o
+reprogramación del v
+uelo.
+5. Debido a la pandemia del COVID-19, los v
+uelos programados para junio de 2020 f
+ueron totalmente
+cancelados por las restricciones de tráfico aéreo decretadas por el gobierno nacional.
+6. El consumidor consideró v
+ulnerado su derecho al retracto y presentó acción de protección al
+consumidor solicitando la devolución del dinero.
+Fundamentos Jurídicos
+Artículo 47 de la Ley 1480 de 2011: Establece el derecho de retracto y el plazo de 5 días hábiles
+para ejercerlo.
+Artículo 11 numeral 3 de la Ley 1480 de 2011: Determina que en caso de incumplimiento del
+servicio, el consumidor tiene derecho a que se preste el servicio en las condiciones contratadas o
+a la devolución del precio pagado.
+Artículos 5, 7, 8, 10, 11 y 18 de la Ley 1480 de 2011: Establecen la obligación de garantía en
+cabeza de productores y proveedores respecto a la calidad, idoneidad y seguridad de los
+productos y servicios.
+Artículo 58 numeral 9 de la Ley 1480 de 2011: Otorga al juez facultades para fallar de la forma
+más justa para las partes, con plenas facultades para fallar infra, extra y ultrapetita.
+Decretos de emergencia económica, social y ecológica: Si bien no se aplicó directamente el
+Decreto 482 de 2020 por razones de temporalidad, se menciona como referencia del tratamiento
+especial para el sector aeronáutico durante la pandemia.
+Consideraciones Principales
+1. Se confirma la existencia de una relación de consumo entre las partes mediante la comprobación
+de la transacción realizada el 7 de marzo de 2020 por valor de USD 378 (COP 1.428.304).
+2. Se verifica que la reclamación directa f
+ue presentada por el consumidor el 14 de marzo de 2020,
+solicitando la devolución del dinero pagado por el tiquete.
+3. Se determina que el derecho de retracto f
+ue ejercido extemporáneamente, al haberse presentado
+un día después de vencido el término legal de 5 días hábiles contados desde la compra realizada
+el 7 de marzo.
+4. Se establece que los v
+uelos programados para junio de 2020 f
+ueron cancelados debido a las
+restricciones gubernamentales por la pandemia COVID-19, constituyendo un evento de f
+uerza
+mayor no imputable a ninguna de las partes.
+5. Se considera que la garantía legal no era exigible en este caso, pues la imposibilidad de prestar el
+servicio no se debió a un incumplimiento de la aerolínea sino a una causa extraña no previsible
+para ambas partes.
+6. El tribunal valora que la situación constituye un escenario especial de carácter global que afectó
+tanto al consumidor como a las aerolíneas.
+7. En ejercicio de la facultad de fallar en equidad, el tribunal considera que la solución más justa es
+ordenar la expedición de un voucher por el valor del tiquete con una vigencia razonable,
+equilibrando así los intereses de las partes.
+Decisión
+El tribunal ordenó a Fast Colombia S.A.S. reexpedir un voucher por concepto de servicios de
+transporte aéreo por el valor inicial de COP 1.428.304, con vigencia hasta el 31 de mayo de 2022,
+como solución equitativa a la controversia.
+Precedente Establecido
+En casos de solicitud de retracto extemporáneo en servicios de transporte aéreo, cuando
+adicionalmente se presenta una imposibilidad de prestación del servicio por causas de f
+uerza mayor
+como la pandemia COVID-19, no procede automáticamente la devolución del dinero. El juez debe
+buscar una solución equitativa que considere las circunstancias excepcionales que afectan tanto al
+consumidor como al proveedor del servicio, pudiendo ordenar medidas alternativas como la emisión
+de un voucher con vigencia extendida que permita al consumidor utilizar el servicio cuando las
+condiciones lo hagan posible. Esta solución equilibra la protección de los derechos del consumidor
+con la realidad económica y operativa de las aerolíneas afectadas por situaciones extraordinarias,
+aplicando el principio de equidad que faculta al juez a resolver más allá de lo estrictamente solicitado
+por las partes.

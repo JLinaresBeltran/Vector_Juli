@@ -1,0 +1,111 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA
+Tema Jurídico
+Derecho de reembolso en la cancelación de v
+uelos durante la emergencia sanitaria por COVID-
+19 y la aplicabilidad del Decreto Legislativo 482 de 2020 como norma especial frente a las
+disposiciones generales de protección al consumidor.
+Subtemas
+1. Relación de consumo y sus implicaciones contractuales
+2. Retroactividad, ultraactividad y retrospectividad de normas jurídicas
+3. Alcance de la garantía legal en contratos de transporte aéreo
+4. Derechos del consumidor en situaciones de f
+uerza mayor
+5. Mecanismos de compensación alternativos a la devolución monetaria
+Ratio Decidendi
+Durante el estado de emergencia sanitaria por COVID-19, las aerolíneas pueden legalmente realizar
+reembolsos mediante vouchers de servicio ("Travel Voucher") en lugar de devoluciones monetarias
+directas, amparadas en el artículo 17 del Decreto Legislativo 482 de 2020, sin que esto constituya una
+ulneración a los derechos del consumidor.
+Esta normativa, al entrar en vigencia el 26 de marzo de 2020, resulta aplicable a situaciones
+posteriores a dicha fecha, incluyendo v
+uelos programados pero no ejecutados. Como indica la
+sentencia: "Así las cosas, el Decreto 482 del 2020 f
+ue publicado el 26 de marzo de 2020, es decir,
+desde dicha fecha, se debe aplicar la mencionada disposición. Por lo que, el despacho no puede
+acoger las pretensiones relacionadas con la devolución del dinero."
+Esta regla jurídica se f
+undamenta en los principios de aplicación inmediata de las normas y las
+facultades extraordinarias del gobierno para mitigar los efectos económicos de la pandemia en
+sectores críticos como el transporte aéreo.
+Datos Básicos
+Número de radicado: 20-88908
+Fecha de la sentencia: 27/01/2021
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales (Superintendencia de Industria y
+Comercio)
+v
+Juez: Fredy Alexander Pérez Ramírez
+Partes involucradas:
+Demandante: MARÍA VICTO
+Demandado: FAST COLO
+RIA BUILES SILVA
+MBIA S.A.S.
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. La demandante adquirió dos tiquetes aéreos para la ruta Montería-Medellín por valor de
+$2.042.492 pesos.
+2. Los v
+uelos estaban programados para los días 5 y 9 de abril de 2020.
+3. Dichos v
+uelos f
+ueron cancelados debido a la pandemia ocasionada por el COVID-19.
+4. La aerolínea demandada ofreció la devolución del dinero a través de un "Travel Voucher".
+5. La demandante consideró que esta oferta v
+ulneraba sus derechos como consumidora y solicitó la
+devolución monetaria.
+Fundamentos Jurídicos
+Artículo 1602 del Código Civil: "Todo contrato legalmente celebrado es ley para las partes", que
+establece la f
+uerza vinculante de los contratos.
+Decreto Legislativo 482 de 2020, Artículo 17: "Derecho de retracto, desistimiento y otras
+circunstancias de reembolso. En los eventos en que las aerolíneas reciban solicitudes de retracto,
+desistimiento y otras circunstancias relacionadas con la solicitud de reembolso, podrán realizar,
+durante el periodo que dure la emergencia y hasta por un año más, reembolsos a los usuarios en
+servicios prestados por la misma aerolínea."
+Jurisprudencia de la Corte Suprema de Justicia: "La retroactividad, ultractividad y
+retrospectividad son instituciones jurídicas desarrolladas para resolver los problemas de sucesión
+de leyes en el tiempo, con el fin de definir el marco normativo aplicable a la creación, modificación
+o extinción de relaciones jurídicas." (Corte Suprema de Justicia. Sala de Casación Civil. Sentencia
+del 12 de febrero de 2018. M.P.: Arnoldo Wilson Quiroz Monsalvo).
+Doctrina sobre aplicación de normas en el tiempo: "Cuando una norma posterior modifica los
+requerimientos relativos al nacimiento o finalización de una situación jurídicamente relevante, en
+línea de principio, no puede alterar las situaciones que están consolidadas en el pasado... De allí
+que los cambios regulatorios, ordinariamente, generen consecuencias hacia el f
+uturo, lo que se
+conoce como aplicación general inmediata o efectos ex nunc (desde ahora)." (Ambrosio Colin y H.
+Capitant).
+Consideraciones Principales
+1. El despacho encontró acreditada tanto la relación de consumo como la reclamación directa entre
+las partes.
+2. Se consideró que aunque la garantía legal incluye el cumplimiento de los términos y condiciones
+pactadas, incluyendo la oportunidad en la prestación del servicio, existen circunstancias
+especiales (pandemia) que motivaron normativas excepcionales.
+3. Se estableció que el Decreto 482 de 2020, al entrar en vigencia el 26 de marzo de 2020, resulta
+plenamente aplicable a los v
+uelos programados para abril de 2020, aunque los tiquetes hubieran
+sido adquiridos con anterioridad.
+4. Se reconoció que el gobierno nacional adoptó políticas específicas para contrarrestar los efectos
+económicos de la pandemia en sectores como el transporte aéreo, siendo una de estas medidas la
+posibilidad de realizar reembolsos mediante servicios de la misma aerolínea.
+5. Se determinó que la emisión de un voucher por el valor pagado constituye un cumplimiento
+adecuado de las obligaciones de la aerolínea en el contexto excepcional de la emergencia
+sanitaria.
+Decisión
+No se acogen las pretensiones relacionadas con la devolución del dinero en efectivo.
+Se ordena a la sociedad accionada (FAST COLO
+MBIA S.A.S.) emitir un "Travel Voucher" por la
+suma pagada por la accionante, esto es, $2.042.492 pesos.
+Se establece que dicho "Travel Voucher" tendrá vigencia durante el tiempo que dure la
+emergencia sanitaria y hasta un año más.
+Precedente Establecido
+Durante la emergencia sanitaria por COVID-19, las aerolíneas pueden legítimamente ofrecer vouchers
+de servicio como mecanismo de reembolso ante cancelaciones de v
+uelo, sin que esto configure una
+ulneración a los derechos del consumidor, siempre que se cumplan los términos establecidos en el
+Decreto 482 de 2020. Esta norma especial temporal prevalece sobre las disposiciones generales de
+protección al consumidor, constituyendo una excepción a la regla general de reembolso monetario
+directo. El alcance de este precedente está limitado temporalmente a la vigencia de la emergencia
+sanitaria y el periodo adicional establecido en el decreto (un año más), y materialmente a los casos de
+solicitudes de reembolso en el sector de transporte aéreo.
+v

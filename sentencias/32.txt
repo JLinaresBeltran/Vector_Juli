@@ -1,0 +1,109 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA
+1. Tema Jurídico
+Tema central: Alcance y condiciones del reembolso de tiquetes aéreos no utilizados durante la
+pandemia por COVID-19 según el Decreto Legislativo 482 de 2020.
+Subtemas:
+Relación de consumo y legitimación en la causa en contratos de transporte aéreo
+Garantía de calidad e idoneidad en la prestación de servicios durante emergencia sanitaria
+Aplicación del artículo 17 del Decreto Legislativo 482 de 2020 en reembolsos de aerolíneas
+Condiciones y limitaciones de los vouchers como modalidad de reembolso
+Vigencia temporal del derecho al reembolso durante la emergencia sanitaria
+2. Ratio Decidendi
+Si bien el Decreto 482 de 2020 faculta a las aerolíneas a realizar reembolsos mediante servicios
+prestados por la misma compañía durante la emergencia sanitaria por COVID-19 y hasta un año más
+(en lugar de reintegros en dinero), dichos reembolsos deben respetar el valor total pagado por el
+consumidor sin imponer descuentos y deben mantener una vigencia que corresponda al período
+establecido en el decreto (emergencia sanitaria más un año), no pudiendo la aerolínea establecer
+unilateralmente plazos más cortos que limiten el derecho del consumidor.
+El f
+undamento normativo principal es el artículo 17 del Decreto 482 del 26 de marzo de 2020, que
+establece: "En los eventos en que la
+s aerolínea
+s reciban solicitudes de retra
+cto, desistimiento
+y
+otra
+s
+circunstancia
+s rela
+cionada
+s c
+on la
+solicitud de reemb
+olso, podrán realizar, durante el periodo que dure
+la emergencia y h
+a
+sta por un año más, reemb
+olsos a los usuarios en servicios prestados por la misma
+aerolínea
+".
+3. Datos Básicos
+Número de radicado: 21-113084
+Fecha de la sentencia: 24/02/2022
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales - Superintendencia de Industria y
+Comercio
+Juez: Karen Jelitza Acosta Rojas
+Partes:
+Demandante: Ismael Mosquera Cortés
+Demandado: Iberia Líneas Aéreas de España S.A. Operadora Sucursal Colombiana
+Tipo de acción: Acción de protección al consumidor
+4. Hechos Clave
+1. El demandante compró a Iberia un tiquete aéreo Madrid-Bogotá para viajar el 1 de junio de 2020,
+por el cual pagó $1.128.000 COP (equivalente a $317.16 USD).
+2. Debido a la pandemia por COVID-19, el demandante f
+ue beneficiario de un v
+uelo humanitario, por
+lo que no utilizó el tiquete adquirido con la aerolínea demandada.
+3. El 15 de mayo de 2020, el demandante realizó reclamación directa ante la aerolínea solicitando la
+devolución del dinero pagado.
+4. La aerolínea indicó que no podían proceder con la devolución del dinero, ofreciendo como
+alternativas un bono de viaje o cambio de fechas.
+5. El demandante consideró que las opciones ofrecidas no eran válidas para él, por lo que interpuso
+acción de protección al consumidor.
+5. Fundamentos Jurídicos
+Estatuto del Consumidor: Establece la responsabilidad de productores, expendedores o
+proveedores frente a los consumidores, asegurando la calidad e idoneidad de bienes y servicios.
+Artículo 1602 del Código Civil: "T odo
+c
+ontra
+to legalmente celebrado es una ley para los
+c
+ontra
+tantes", principio que f
+undamenta la obligatoriedad del cumplimiento de las obligaciones
+contractuales.
+Decreto Legislativo 482 del 26 de marzo de 2020, artículo 17: Establece que durante la
+emergencia sanitaria y hasta un año más, las aerolíneas pueden realizar reembolsos mediante
+servicios prestados por la misma aerolínea.
+6. Consideraciones Principales
+El tribunal constató la existencia de la relación de consumo mediante el tiquete con código de reserva
+V7VD84 a nombre del demandante, estableciendo la legitimación por activa.
+La garantía mínima de calidad e idoneidad incluye no solo la calidad del servicio prestado, sino también
+el cumplimiento de los términos y condiciones pactados desde el momento de la celebración del
+contrato.
+El tribunal reconoce que, conforme al Decreto 482 de 2020, las aerolíneas pueden realizar reembolsos
+en servicios propios durante la emergencia sanitaria, por lo que no acoge la pretensión de reembolso
+en dinero.
+Sin embargo, el tribunal identifica dos v
+ulneraciones a los derechos del consumidor:
+1. El voucher ofrecido por la aerolínea imponía descuentos sobre los valores efectivamente pagados,
+lo cual no está permitido por el decreto.
+2. La vigencia del voucher ofrecido (hasta el 27/02/2022) era insu
+ficiente, pues el decreto establece
+un plazo más amplio (duración de la emergencia más un año).
+7. Decisión
+El tribunal declaró la v
+ulneración de los derechos del consumidor y ordenó a la aerolínea entregar un
+Travel Voucher o equivalente por valor de $317.16 USD (valor total pagado), para ser utilizado en
+servicios de la compañía, con un término de vigencia que comprenda el periodo de la emergencia
+sanitaria y hasta por un año más.
+8. Precedente Establecido
+Las medidas excepcionales adoptadas durante la emergencia sanitaria por COVID-19, como la
+posibilidad de reembolso mediante servicios establecida en el Decreto 482 de 2020, no pueden
+interpretarse ni aplicarse en detrimento de los derechos de los consumidores. Si bien las aerolíneas
+pueden ofrecer vouchers en lugar de reembolsos en dinero, estos deben: (1) corresponder al valor
+total pagado por el consumidor sin descuentos; y (2) tener una vigencia mínima equivalente al periodo
+que dure la emergencia sanitaria más un año adicional, no pudiendo la aerolínea establecer
+unilateralmente plazos menores que restrinjan el derecho del consumidor a utilizar el servicio.

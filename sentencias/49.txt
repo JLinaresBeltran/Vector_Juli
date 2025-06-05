@@ -1,0 +1,84 @@
+Análisis Jurídico de Sentencia No. 20-384245 de 2021
+Tema Jurídico
+Tema central: Reembolso monetario de tiquetes aéreos durante la pandemia COVID-19 cuando la
+aerolínea ha cesado operaciones indefinidamente y se encuentra en proceso similar a la insolvencia.
+Subtemas:
+1. Inaplicabilidad del Decreto 482 de 2020 (reembolsos mediante vouchers) cuando existe
+imposibilidad material de uso
+2. Derechos del consumidor ante la inoperatividad indefinida de la aerolínea
+3. Consecuencias procesales de la inasistencia de la parte demandada a la audiencia
+4. Protección al consumidor frente a situaciones de insolvencia del proveedor
+5. Límites a las medidas excepcionales adoptadas durante la emergencia sanitaria
+Ratio Decidendi
+Aunque el Decreto 482 de 2020 facultaba a las aerolíneas para realizar reembolsos mediante vouchers
+durante la emergencia sanitaria, esta normativa excepcional no es aplicable cuando existe una
+imposibilidad material para que el consumidor pueda utilizar dichos vouchers debido a que la aerolínea
+ha dejado de operar indefinidamente o se encuentra en un proceso similar a la insolvencia. En tales
+circunstancias, procede el reembolso en dinero para evitar un desequilibrio injusto para el consumidor,
+quien de otra manera no podría obtener ni el servicio ni la devolución del dinero pagado.
+Datos Básicos
+Número de radicado: 20-384245
+Fecha de la sentencia: 4 de octubre de 2021
+Autoridad judicial: Superintendencia de Industria y Comercio, Delegatura para Asuntos
+Jurisdiccionales
+Juez ponente: Yuly Andrea Mogollón Martínez
+Demandante: Fabio Rodrigo Eslava Sarmiento
+Demandado: ABC Aerolíneas S.A. de CV Sucursal Colombia "INTER
+JET"
+Tipo de acción: Acción de Protección al Consumidor
+Hechos Clave
+1. El 14 de enero de 2020, el demandante adquirió 8 tiquetes aéreos: 4 para viajar de Bogotá a Nueva
+York el 14 de junio de 2020, y 4 para regresar el 29 de junio, pagando USD 2.538,84.
+2. El 8 de abril y 28 de mayo de 2020, debido a la pandemia, la aerolínea informó que los v
+uelos no
+podían realizarse y ofreció vouchers por el mismo valor.
+3. El demandante solicitó la devolución del dinero argumentando que los vouchers vencían el 13 de
+enero de 2021 y la aerolínea no estaba operando en Colombia ni tenía fecha prevista para reanudar
+operaciones.
+4. El 8 de octubre de 2020, la aerolínea negó el reembolso, indicando que las modificaciones no eran
+atribuibles a ella sino a restricciones gubernamentales.
+5. La casa matriz de la aerolínea en México se encontraba en un proceso de concurso mercantil
+(equivalente a un proceso de insolvencia en Colombia).
+6. La aerolínea demandada no asistió a la audiencia del proceso judicial.
+Fundamentos Jurídicos
+Decreto 482 de 2020, artículo 17: Establece que durante la emergencia y hasta por un año más,
+las aerolíneas podían realizar reembolsos mediante servicios prestados por la misma aerolínea
+(vouchers).
+Código General del Proceso, artículos 205 y 372 numeral 4: Regula las consecuencias
+procesales por la inasistencia de la parte demandada a la audiencia, presumiendo como ciertos los
+hechos susceptibles de confesión.
+Ley 1480 de 2011: Aunque no se cita explícitamente, f
+undamenta los derechos de los
+consumidores y la efectividad de la garantía en servicios.
+Consideraciones Principales
+1. La legitimación en la causa quedó debidamente acreditada con la documentación aportada que
+demuestra la relación de consumo entre las partes.
+2. La aerolínea dejó de operar desde marzo de 2020 sin fecha prevista para reanudar operaciones en
+Colombia, hechos tenidos como ciertos debido a la inasistencia de la demandada a la audiencia.
+3. Si bien el Decreto 482 de 2020 permitía reembolsos mediante vouchers, el despacho consideró
+que en este caso específico no era aplicable dicha normativa.
+4. Se determinó que existía una v
+ulneración de los derechos del consumidor al ofrecerle unos
+vouchers materialmente imposibles de redimir por la inoperatividad indefinida de la aerolínea.
+5. El proceso de concurso mercantil de la casa matriz en México (similar a la insolvencia) creaba el
+riesgo de que el consumidor perdiera definitivamente tanto el servicio como el dinero pagado.
+Decisión
+El despacho accedió a las pretensiones de la demanda, declaró la v
+ulneración de los derechos del
+consumidor y ordenó a la aerolínea la devolución del dinero pagado por los 8 tiquetes (USD 2.538,84)
+a favor del demandante.
+Precedente Establecido
+La sentencia establece un importante límite a la aplicación de las medidas excepcionales adoptadas
+durante la pandemia COVID-19. Específicamente, determina que el Decreto 482 de 2020 (que
+permitía reembolsos mediante vouchers) no es aplicable cuando:
+1. Existe una imposibilidad material para el consumidor de utilizar los vouchers debido al cese
+indefinido de operaciones de la aerolínea.
+2. No hay certeza sobre la fecha de reanudación de los servicios.
+3. La empresa se encuentra en un proceso similar a la insolvencia que pone en riesgo la efectiva
+prestación f
+utura del servicio.
+En tales circunstancias excepcionales, prevalece el derecho del consumidor a recibir el reembolso del
+dinero sobre la prerrogativa temporal otorgada a las aerolíneas por la normativa de emergencia. Este
+precedente es relevante para casos donde, a pesar de existir normativa excepcional, la situación
+particular del proveedor hace que la aplicación de dicha normativa resulte desproporcionadamente
+gravosa para el consumidor, rompiendo el equilibrio contractual.

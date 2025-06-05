@@ -1,0 +1,128 @@
+Análisis Estructurado de Sentencia 18-95893
+Tema Jurídico
+O
+bligaciones de las aerolíneas frente a cancelaciones de v
+uelos y el incumplimiento de las
+condiciones ofrecidas como compensación según el Reglamento Aeronáutico Colombiano.
+Subtemas
+1. Aplicación de la regulación especial (RAC) frente al Estatuto del Consumidor
+2. O
+bligaciones de las aerolíneas ante cancelaciones de v
+uelos atribuibles a ellas
+3. Derecho a la información veraz del consumidor en servicios aéreos
+4. Compensaciones obligatorias por cancelación de v
+uelos
+5. Procedencia de multas por v
+ulneración a derechos del consumidor
+Ratio Decidendi
+Cuando la cancelación de un v
+uelo se deriva de situaciones atribuibles a la aerolínea, ésta está
+obligada a prestar el servicio bajo las mismas condiciones en que f
+ue adquirido por el consumidor, sin
+poder cobrar diferencias tarifarias ni someter el cumplimiento a disponibilidad de tarifas.
+Adicionalmente, debe compensar al consumidor según lo establece el Reglamento Aeronáutico
+Colombiano. El incumplimiento de la información suministrada sobre las condiciones de compensación
+(como la vigencia de tiquetes regalo) constituye una v
+ulneración adicional a los derechos del
+consumidor.
+Los f
+undamentos normativos de esta ratio son el Reglamento Aeronáutico Colombiano, Título III,
+específicamente los artículos 3.10.2.13.1 y 3.10.2.13.2, que establecen las obligaciones de las
+aerolíneas frente a las cancelaciones de v
+uelos.
+Datos Básicos
+Número de radicado: 18-95893
+Fecha de la sentencia: 18/07/2018
+Autoridad judicial: Superintendencia de Industria y Comercio - Delegatura para Asuntos
+Jurisdiccionales
+Nombre del juez: Edison Camilo Largo Marín
+Partes involucradas:
+Demandante: Daniel Ángel Rangel Rojas
+Demandado: Fast Colombia S.A.S.
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El demandante adquirió dos tiquetes para los trayectos Pereira-San Andrés Islas y San Andrés
+Islas-Pereira por valor de $90.000.
+2. La aerolínea canceló el v
+uelo y ofreció al usuario cambio de fecha o ruta (sujeto a disponibilidad
+tarifaria) o reembolso del dinero pagado.
+3. Cuando el demandante intentó reasignar su
+v
+uelo, la aerolínea le exigió pagar el excedente del
+valor del nuevo tiquete, modificando las condiciones iniciales.
+4. Como compensación por la cancelación, la aerolínea otorgó al demandante un tiquete regalo con
+vigencia del 5 de junio de 2017 al 13 de mayo de 2018, redimible en cualquier ruta pagando
+únicamente impuestos.
+5. Cuando el demandante intentó redimir los tiquetes el 6 de febrero de 2018, la aerolínea afirmó que
+habían vencido el día anterior (5 de febrero), contradiciendo la fecha de vigencia informada
+inicialmente.
+Fundamentos Jurídicos
+Artículo 2 de la Ley 1480 de 2011 (Estatuto del Consumidor): Establece que "la
+s norma
+s
+c
+ontenida
+s en esta ley son aplic
+ables en general a la
+s rela
+ciones de c
+onsumo
+y a la
+responsabilidad de los productores y proveedores frente al c
+onsumidor en todos los sectores de la
+ec
+onomía, respecto de los cuales no existe regula
+ción especial".
+Reglamento Aeronáutico Colombiano (RAC), Título III: Como norma especial aplicable al
+transporte de pasajeros.
+Artículos 3.10.2.13.1 y 3.10.2.13.2 del RAC: Establecen que cuando la cancelación se deriva de
+situaciones correspondientes a la aerolínea, ésta está obligada a llevar a cabo la prestación del
+servicio o realizar la devolución del dinero pagado por el consumidor, y adicional a ello, hacer una
+compensación al comprador.
+Artículo 58 numeral 10 de la Ley 1480 de 2011: Relacionado con la posibilidad de abstenerse de
+imponer multa si la demandada se allana a las pretensiones.
+Artículo 98 del Código General del Proceso: Establece los requisitos formales del allanamiento.
+Consideraciones Principales
+El despacho identifica tres causales de cancelación de v
+uelos: i) f
+uerza mayor o caso fortuito; ii)
+situaciones correspondientes al pasajero; y iii) situaciones correspondientes a la aerolínea.
+Se estableció que la cancelación del v
+uelo f
+ue por causas atribuibles a la aerolínea, por lo que esta
+estaba obligada a prestar el servicio bajo las mismas condiciones en que f
+ue adquirido por el
+consumidor.
+La aerolínea no podía someter el cumplimiento de su obligación a la disponibilidad del servicio ni
+cobrar diferencias tarifarias, ya que el servicio debe ser prestado bajo las mismas condiciones que
+f
+ue adquirido.
+Se detectó una clara irregularidad en la información suministrada sobre la vigencia de los tiquetes
+regalo (informados hasta el 13 de mayo pero rechazados el 6 de febrero por supuesto vencimiento
+el día anterior).
+El tribunal analizó que el allanamiento presentado por la aerolínea no cumplía con los requisitos del
+artículo 98 del CGP, por lo que procedió a imponer la multa.
+Decisión
+Se ordenó a la sociedad demandada entregar un tiquete ida y regreso para cualquier trayecto
+nacional, donde el consumidor deberá pagar únicamente los costos atribuibles a tasas de
+impuestos.
+Se rechazó el allanamiento presentado por la aerolínea.
+Se impuso una multa de 50 salarios mínimos mensuales legales vigentes (SMM
+LV) a Fast
+Colombia S.A.S.
+Precedente Establecido
+Cuando una aerolínea cancela un v
+uelo por causas atribuibles a ella misma, debe cumplir con la
+prestación del servicio bajo las mismas condiciones tarifarias en que f
+ue contratado originalmente, sin
+poder exigir pagos adicionales por diferencias en tarifas ni someter el cumplimiento a disponibilidad.
+Las compensaciones ofrecidas como consecuencia de la cancelación de v
+uelos constituyen
+obligaciones para la aerolínea que deben respetarse en sus términos y condiciones exactos, y
+cualquier modificación unilateral de estos términos (como alterar la fecha de vigencia de tiquetes
+compensatorios) constituye una v
+ulneración adicional a los derechos del consumidor.
+Asimismo, el allanamiento a las pretensiones para evitar la imposición de multas debe cumplir todos
+los requisitos legales establecidos en el artículo 98 del Código General del Proceso, no siendo
+su
+ficiente la sola manifestación de allanarse.

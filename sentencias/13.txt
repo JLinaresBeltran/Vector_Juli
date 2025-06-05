@@ -1,0 +1,144 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA
+Tema Jurídico
+Responsabilidad solidaria entre aerolíneas y agencias de viajes en el reembolso de tiquetes
+aéreos cancelados por la pandemia de COVID-19
+Subtemas:
+1. Alcance de la responsabilidad solidaria entre productores y proveedores en el sector aeronáutico
+2. Distinción entre la responsabilidad por f
+uerza mayor y la obligación de reembolso
+3. O
+bligaciones de las aerolíneas frente a los consumidores en situaciones de cancelación de v
+uelos
+4. Competencia de la Superintendencia de Industria y Comercio en materia de reconocimiento de
+intereses moratorios
+5. Carga probatoria respecto a la efectividad del reembolso en transacciones con intermediarios
+Ratio Decidendi
+Cuando un consumidor adquiere tiquetes aéreos a través de una agencia de viajes y el v
+uelo es
+cancelado por causas no imputables a las partes (como la pandemia de COVID-19), la aerolínea
+mantiene su responsabilidad solidaria frente al consumidor respecto al reembolso del valor pagado,
+aun cuando alegue haber realizado dicho reembolso a la agencia de viajes intermediaria. No es posible
+trasladar al consumidor la carga de iniciar acciones legales contra la agencia intermediaria, dada la
+existencia de solidaridad entre productores y proveedores establecida en el artículo 10 de la Ley 1480
+de 2011.
+Esta responsabilidad solidaria subsiste aunque no haya v
+ulneración de derechos del consumidor, pues
+la cancelación por f
+uerza mayor (COVID-19) no constituye per se una infracción a los derechos del
+consumidor, pero mantiene intacta la obligación de restitución del precio pagado por servicios no
+prestados.
+Datos Básicos
+Número de radicado: 21-177324
+Fecha de la sentencia: 07/07/2022
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales de la Superintendencia de Industria
+y Comercio
+Juez: Wilson Andrés Arévalo Zárate
+Demandante: Felipe Navia Revollo
+Demandado: Aerovías del Continente Americano S.A. -- Avianca S.A.
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El 29 de enero de 2020, el demandante adquirió a través de la agencia de viajes OPODO tres
+tiquetes aéreos de Avianca para la ruta Hamburgo, Alemania - Bogotá D.C., pagando la suma de
+1.433,55€.
+2. El 7 de marzo de 2020, recibió un correo electrónico informándole que el v
+uelo había sido
+cancelado debido a la situación acaecida por el COVID-19 y que se procedería al reembolso del
+valor pagado.
+3. El demandante autorizó a la agencia de viajes para gestionar el reintegro del dinero, pero la
+devolución no f
+ue efectuada.
+4. En los meses de octubre y noviembre de 2020, el demandante elevó reclamación directa ante
+Avianca, pero no recibió el reembolso.
+5. Avianca alegó en su defensa que ya había realizado el reintegro del valor a través de la agencia de
+viajes, tal como lo había solicitado el demandante.
+6. No se aportaron pruebas durante el proceso que demostraran que el consumidor efectivamente
+recibió el reembolso del valor pagado.
+Fundamentos Jurídicos
+Artículo 10 de la Ley 1480 de 2011: Establece que "Ante los consumidores, la responsabilidad
+por la garantía legal recae solidariamente en los productores y proveedores respectivos. Para
+establecer la responsabilidad por incumplimiento a las condiciones de idoneidad y calidad, bastará
+con demostrar el defecto del producto, sin perjuicio de las causales de exoneración de
+responsabilidad."
+Artículo 11, numeral 3 de la Ley 1480 de 2011: Dispone que "En los casos de prestación de
+servicios, cuando haya incumplimiento se procederá, a elección del consumidor, a la prestación
+del servicio en las condiciones en que f
+ue contratado o a la devolución del precio pagado."
+Artículo 23 de la Ley 1480 de 2011: Señala que "Los proveedores y productores deberán
+suministrar a los consumidores información, clara, veraz, su
+ficiente, oportuna, verificable,
+comprensible, precisa e idónea sobre los productos que ofrezcan."
+Sentencia C-604 de 2012 de la Corte Constitucional: Define los intereses moratorios como
+"aquellos que se pagan para el resarcimiento tarifado o indemnización de los perjuicios que
+padece el acreedor por no tener consigo el dinero en la oportunidad debida."
+Artículo 2.2.2.32.6.4 del Decreto 1074 de 2015: Establece que la Superintendencia de Industria
+y Comercio no es competente para reconocer indemnizaciones de perjuicios por incumplimientos
+contractuales o efectividad de la garantía.
+Artículo 22 del Decreto 735 de 2013: Indica que "el reconocimiento de la garantía por parte de
+los obligados o por decisión judicial no impide que el consumidor persiga la indemnización por los
+daños y perjuicios que haya su
+frido por los mismos hechos, ante la jurisdicción ordinaria."
+Consideraciones Principales
+1. Sobre la relación de consumo: El tribunal determinó que se encuentra acreditada la relación de
+consumo, pues aunque el demandante adquirió los tiquetes a través de una agencia de viajes, el
+uelo iba a ser operado por la aerolínea demandada.
+2. Sobre la reclamación directa: Se encontró demostrado que el accionante elevó reclamación
+directa a instancias de la sociedad accionada en octubre y noviembre de 2020, cumpliendo con
+este presupuesto procesal.
+3. Sobre la cancelación del v
+uelo: El tribunal estableció que la no prestación del servicio y la
+cancelación del mismo no obedecieron a causas imputables a la aerolínea demandada ni al
+consumidor, sino a la situación de emergencia sanitaria por COVID-19, siendo un hecho notorio el
+cierre de aeropuertos y fronteras.
+4. Sobre la devolución del dinero: Se verificó que el demandante autorizó a la sociedad demandada
+para realizar el reembolso mediante la agencia de viajes, y que Avianca afirmó haber realizado
+dicho reintegro. Sin embargo, no se aportaron pruebas que demostraran que el consumidor
+efectivamente recibió el reembolso.
+5. Sobre la responsabilidad solidaria: El tribunal consideró que, en virtud del artículo 10 de la Ley
+1480 de 2011, existe solidaridad entre el proveedor y el productor frente al consumidor. Por tanto,
+no se le puede imponer al demandante la carga de iniciar un proceso ante la agencia de viajes
+cuando tiene la facultad legal de reclamar directamente a la aerolínea.
+6. Sobre el derecho a la información: Se estableció que la sociedad demandada entregó
+información clara, veraz, su
+ficiente, oportuna, verificable y comprensible en todo momento, por lo
+que no hubo v
+ulneración a este derecho.
+7. Sobre los intereses moratorios: El tribunal determinó que los intereses moratorios equivalen a
+una indemnización de perjuicios, y conforme al artículo 2.2.2.32.6.4 del Decreto 1074 de 2015, la
+Superintendencia de Industria y Comercio no es competente para reconocer indemnizaciones de
+perjuicios.
+Decisión
+v
+1. Se determinó que no hubo v
+ulneración a los derechos del consumidor por parte de Avianca, dado
+que la cancelación obedeció a causas de f
+uerza mayor (pandemia COVID-19).
+2. Se ordenó a Avianca reintegrar al demandante la suma de 1.433,55€ correspondiente al valor
+pagado por los tiquetes aéreos.
+3. Se estableció que el reembolso se realizaría sin indexación, considerando que la sociedad
+demandada había dev
+uelto el dinero a la agencia de viajes de forma oportuna.
+4. Se negó la pretensión relacionada con el pago de intereses moratorios, por falta de competencia
+de la Superintendencia de Industria y Comercio para reconocer indemnizaciones de perjuicios.
+Precedente Establecido
+Esta sentencia establece importantes criterios jurisprudenciales en materia de protección al
+consumidor en el sector aeronáutico:
+1. La responsabilidad solidaria entre productores (aerolíneas) y proveedores (agencias de viajes)
+permite al consumidor dirigir su reclamación contra cualquiera de ellos, sin que pueda imponérsele
+la carga de acudir contra uno en particular.
+2. Se distingue claramente entre la v
+ulneración de derechos del consumidor y la obligación de
+reembolso: la cancelación por f
+uerza mayor (COVID-19) no constituye v
+ulneración, pero subsiste
+la obligación de reintegrar el precio pagado.
+3. El hecho de que la aerolínea realice el reembolso a la agencia de viajes no la libera de su
+responsabilidad frente al consumidor, a menos que se demuestre que éste efectivamente recibió
+el dinero.
+4. La carga de la prueba sobre la efectividad del reembolso recae en la aerolínea, quien debe
+demostrar no solo que realizó la devolución al intermediario, sino que el dinero llegó finalmente al
+consumidor.
+5. Se delimitan las competencias de la Superintendencia de Industria y Comercio, estableciendo que
+no puede reconocer indemnizaciones de perjuicios ni intereses moratorios, los cuales deben
+reclamarse ante la jurisdicción ordinaria.

@@ -1,0 +1,123 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA
+TEMA J
+U
+RÍDICO
+Cuestión jurídica central: Efectividad de la garantía legal y cumplimiento del deber de información en
+servicios turísticos cancelados cuando el proveedor inicialmente se compromete a realizar un
+reembolso total y posteriormente se retracta, alegando dificultades económicas derivadas de la
+pandemia COVID-19.
+Subtemas jurídicos relacionados:
+1. Acreditación de la relación de consumo en contratos de servicios turísticos
+2. Alcance de la garantía legal en servicios no prestados
+3. Deber de información veraz y oportuna por parte del proveedor
+4. Facultades judiciales para fallar ultra, extra e infra petita en asuntos de protección al consumidor
+5. Límites de competencia de la SIC para reconocer indemnizaciones y sanciones administrativas
+RATIO DECIDENDI
+La ratio decidendi establece que cuando un proveedor de servicios turísticos se compromete
+explícitamente a reembolsar el dinero de un servicio no prestado, generando una expectativa legítima
+en el consumidor, y posteriormente incumple dicho compromiso, se configura una clara v
+ulneración a
+la garantía legal y al deber de información establecidos en la Ley 1480 de 2011, lo que justifica ordenar
+el reembolso íntegro del dinero pagado en la moneda original de la transacción.
+"En el caso en concreto, se observa con la 'Circular informativa número 003 del año 2020' que la parte
+demandada se comprometió a realizar la devolución del dinero al accionante, razón por la cual, se le
+generó una expectativa de recibir su dinero, no obstante, esta f
+ue incumplida por la pasiva. De esta
+manera, el despacho evidencia que la sociedad demandada v
+ulneró los derechos del consumidor
+establecidos en la Ley 1480 de 2011, referente a la efectividad de la garantía y al deber de
+información."
+DATOS BÁSICOS
+Número de radicado: 20-108184
+Fecha de la sentencia: 11/05/2021
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales de la Superintendencia de Industria y
+Comercio
+Juez: July Alejandra Espinosa Espinosa
+Partes involucradas:
+Demandante: J
+UAN MANUEL VANEGAS RICCI
+Demandado: TRAVEO COLO
+MBIA S.A.S. (antes GAIA TRAVEL S.A.S.)
+Tipo de acción: Acción de protección al consumidor
+HECHOS CLAVE
+1. El 30 de agosto de 2019, el demandante suscribió un contrato con GAIA TRAVEL S.A.S.
+(posteriormente TRAVEO COLO
+MBIA S.A.S.) por un valor de $6.846.696 COP (equivalente a 1.995
+USD) para una excursión de la promoción 2020 del Colegio Montessori British School.
+2. El 7 de marzo de 2020, la empresa demandada envió un comunicado informando la cancelación
+de todas las salidas internacionales para prevenir riesgos sanitarios derivados de la pandemia
+COVID-19.
+3. La representante legal de la sociedad demandada se comprometió verbalmente a devolver el
+100% de los recursos entregados, solicitando al consumidor realizar una solicitud formal vía correo
+electrónico.
+4. El demandante presentó la solicitud de devolución el 9 de marzo de 2020 y, ante la falta de
+respuesta, reiteró su petición el 16 de marzo, sin obtener el reembolso solicitado.
+5. El 24 de abril de 2020, la representante legal de la demandada informó por correo electrónico que,
+debido a la situación económica derivada de la paralización, no devolverían el 100% del dinero
+recibido.
+6. El consumidor consideró que esta negativa v
+ulneraba sus derechos, específicamente el derecho a
+recibir información veraz y oportuna y a ejercer el derecho de retracto.
+FUNDAMENTOS J
+U
+RÍDICOS
+Artículo 7 de la Ley 1480 de 2011: Establece la obligación de todo productor y/o proveedor de
+responder por la calidad, idoneidad, seguridad y buen f
+uncionamiento de los productos y servicios
+ofrecidos en el mercado.
+Artículo 11 de la Ley 1480 de 2011: Determina la responsabilidad solidaria del productor o
+proveedor en el cumplimiento de la obligación derivada de la garantía legal.
+Artículo 23 de la Ley 1480 de 2011: Define el deber de información, que obliga a los proveedores
+a suministrar información completa, veraz, transparente, oportuna, verificable, comprensible,
+precisa e idónea respecto de los productos y servicios ofrecidos.
+Decreto 1074 de 2015, artículo 2.2.2.32.6.4: Establece los límites de competencia de la
+Superintendencia de Industria y Comercio, indicando que no tiene atribuciones para reconocer
+indemnizaciones de perjuicios en procesos de efectividad de la garantía.
+CONSIDERACIONES PRINCIPALES
+1. Relación de consumo: El tribunal determinó la existencia de una relación de consumo entre las
+partes, acreditada mediante el material probatorio aportado por el demandante.
+2. Garantía legal y deber de información: La sentencia enfatiza que en los casos de prestación de
+servicios, el consumidor tiene derecho a exigir que el servicio se preste en las condiciones
+pactadas o, en su defecto, a la devolución del precio pagado. Asimismo, los consumidores tienen
+derecho a recibir información completa, veraz y oportuna que les permita tomar decisiones de
+consumo razonables.
+3. Compromiso de devolución incumplido: Se comprobó mediante la "Circular informativa número
+003 del año 2020" que la sociedad demandada se comprometió a devolver el dinero al
+accionante, generando una expectativa legítima que posteriormente f
+ue incumplida, lo que
+configuró una v
+ulneración a los derechos del consumidor.
+4. Reembolso en moneda original: El tribunal encontró probado que los pagos realizados por el
+consumidor se efectuaron en dólares estadounidenses, por lo que, aplicando sus facultades para
+fallar infra, extra y ultra petita, ordenó el reembolso en la misma moneda (1.995 USD) a la tasa
+representativa del día en que se efectuara el pago.
+5. Límites de competencia: La sentencia aclara que la SIC no tiene competencia para reconocer
+indemnizaciones de perjuicios ni para imponer sanciones administrativas en procesos
+jurisdiccionales de efectividad de la garantía, conforme al artículo 2.2.2.32.6.4 del Decreto 1074 de
+2015.
+DECISIÓN
+1. Se ordenó a TRAVEO COLO
+MBIA S.A.S. reembolsar al demandante la suma de 1.995 dólares
+estadounidenses a la tasa representativa del día en que se efectuara el pago.
+2. Se negaron las pretensiones relacionadas con el pago de intereses moratorios, la indexación de
+valores, y la imposición de sanciones administrativas, por falta de competencia de la Delegatura
+para Asuntos Jurisdiccionales en estos aspectos.
+PRECEDENTE ESTABLECIDO
+Esta sentencia establece un precedente importante en materia de protección al consumidor en el
+contexto de cancelaciones de servicios turísticos durante la pandemia COVID-19. El precedente
+determina que:
+1. Las dificultades económicas derivadas de la pandemia no eximen a las agencias de viajes de
+cumplir con los compromisos explícitos de reembolso comunicados a los consumidores,
+especialmente cuando dichos compromisos generan expectativas legítimas.
+2. Cuando un proveedor se compromete expresamente a realizar un reembolso completo pero
+posteriormente se retracta, se configura una v
+ulneración tanto a la garantía legal como al deber de
+información establecidos en el Estatuto del Consumidor.
+3. En casos de servicios contratados en moneda extranjera, la autoridad judicial puede ordenar el
+reembolso en la misma moneda en que se realizó el pago, aplicando la tasa representativa del día
+de la devolución, incluso si esto implica fallar ultra o extra petita.
+4. Se reafirman los límites de las facultades jurisdiccionales de la SIC, que no incluyen la
+indemnización de perjuicios (intereses moratorios, indexación) ni la imposición de sanciones
+administrativas en procesos de efectividad de la garantía.

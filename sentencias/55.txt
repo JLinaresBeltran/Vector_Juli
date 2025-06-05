@@ -1,0 +1,130 @@
+ANÁLISIS J
+U
+RISPR
+UDENCIAL: SENTENCIA 20-290000
+Tema Jurídico
+Responsabilidad de plataformas electrónicas de intermediación como Booking.com frente a los
+derechos de los consumidores en la contratación de servicios turísticos, y la determinación de su
+carácter como portal de contacto o proveedor indirecto en el marco del comercio electrónico.
+Subtemas jurídicos relacionados:
+1. Distinción entre portal de contacto y proveedor en el comercio electrónico
+2. Criterios para determinar la condición de proveedor indirecto
+3. Responsabilidad solidaria en las relaciones de consumo de servicios turísticos
+4. Alcance de la garantía legal en servicios de hospedaje
+5. Fuerza mayor como causal de exoneración de responsabilidad en el contexto de la pandemia
+COVID-19
+Ratio Decidendi
+Las plataformas electrónicas que promocionan servicios turísticos no pueden ser consideradas
+simples portales de contacto cuando su intervención en la relación comercial excede la mera
+intermediación. Para ser catalogado como portal de contacto según el artículo 53 de la Ley 1480 de
+2011, se debe demostrar que: (i) actúa como un mero intermediario; (ii) permite que el consumidor
+contacte al oferente a través de su sistema; (iii) brinda la alternativa de concretar la operación entre el
+consumidor y oferente al margen de la plataforma; (iv) no tiene un rol f
+undamental en la operación y
+condiciones de la transacción; y (v) ha informado de manera clara y su
+ficiente que actúa como mero
+intermediario.
+Cuando una plataforma electrónica interviene activamente en la promoción de servicios, fija
+condiciones, o su participación deja de ser instrumental para convertirse en parte de la relación de
+consumo, debe ser considerada como proveedor indirecto y responder solidariamente por la garantía
+legal, incluso si no recibe directamente el dinero del consumidor, ya que la responsabilidad deriva de
+su participación en la cadena de consumo y no de la recepción del pago.
+Datos Básicos
+Número de radicado: 20-290000
+Fecha de la sentencia: 10/12/2021
+Autoridad judicial: Superintendencia de Industria y Comercio - Delegatura para Asuntos
+Jurisdiccionales
+Nombre del juez/jueza: Silvia Cristina Hoyos Gómez
+Partes involucradas:
+Demandante: Daniel Alejandro Castañeda León y otros
+Demandado: Booking.com Colombia S.A.S.
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. Los demandantes contrataron con la sociedad demandada un servicio de hospedaje internacional
+en Europa para el 20 de julio de 2020, pagando un total de $13.101.060 en febrero de 2020
+mediante tarjeta de crédito.
+2. Los v
+uelos f
+ueron cancelados en Colombia con ocasión de la pandemia por coronavirus COVID-19,
+por lo que los demandantes no pudieron utilizar el servicio contratado.
+3. Los demandantes argumentaron que la imposibilidad de tomar el servicio f
+ue por f
+uerza mayor y
+no por negligencia como consumidores.
+4. La parte actora intentó ponerse en contacto con la sociedad demandada para buscar alternativas
+de solución, pero no f
+ue posible.
+5. Los demandantes solicitaron la devolución del dinero pagado por el servicio no prestado.
+Fundamentos Jurídicos
+Artículo 5 numerales 3, 5 y 8 de la Ley 1480 de 2011: Define conceptos como consumidor,
+garantía y producto (incluyendo servicios).
+Artículo 53 de la Ley 1480 de 2011: Define el portal de contacto como "quien ponga a
+disposición una plataforma electrónica en la que personas naturales o jurídicas puedan ofrecer
+productos para su comercialización y a su
+vez los consumidores puedan contactarlos por ese
+mismo mecanismo."
+Artículos 7, 10 y 11 de la Ley 1480 de 2011: Establecen la garantía legal y sus mecanismos de
+efectividad, incluida la devolución del dinero en caso de incumplimiento en la prestación de
+servicios.
+Artículo 18 de la Ley 1480 de 2011: Regula la prestación de servicios que suponen la entrega de
+un bien.
+Artículo 16 de la Ley 1480 de 2011: Establece las causales de exoneración de responsabilidad.
+Artículo 50 de la Ley 1480 de 2011: Establece las obligaciones específicas para proveedores en
+el comercio electrónico.
+Artículo 1602 del Código Civil: Establece que todo contrato legalmente celebrado es ley para los
+contratantes.
+Artículo 64 del Código Civil: Define la f
+uerza mayor o caso fortuito como el imprevisto al que no
+es posible resistir.
+Artículo 27 de la Ley 222 de 1995 (que subroga el artículo 261 del Código de Comercio):
+Establece las presunciones de subordinación entre sociedades.
+Consideraciones Principales
+1. Relación de consumo y legitimación: El tribunal analiza la existencia de una relación de consumo
+verificando si Booking.com Colombia S.A.S. actúa como proveedor según la Ley 1480 de 2011,
+determinando que es necesario verificar su calidad en las operaciones de comercio electrónico.
+2. Portal de contacto vs. proveedor: La sentencia desarrolla los criterios para distinguir cuando una
+plataforma electrónica actúa como portal de contacto o como proveedor, determinando que
+cuando su rol se sumerge considerablemente en la relación de consumo, no puede ser
+considerado un simple intermediario.
+3. Criterios para determinar la intervención excesiva: El tribunal señala circunstancias que
+evidencian cuando una plataforma excede la intermediación: (i) la transacción debe cursar
+necesariamente a través de la plataforma; (ii) la plataforma establece los términos y condiciones;
+(iii) la plataforma fija el precio de los productos o establece una metodología para determinarlos; y
+(iv) el pago se realiza directamente por dicha plataforma.
+4. Análisis de la estructura corporativa: El tribunal analiza la relación entre Booking.com Colombia
+S.A.S. y Booking.com B.V., verificando que existe una situación de control empresarial conforme al
+artículo 27 de la Ley 222 de 1995, lo que implica que la filial colombiana debe responder por los
+servicios ofrecidos en el portal web.
+5. Efectos de la pandemia como f
+uerza mayor: Si bien la pandemia impidió la prestación del
+servicio, el tribunal considera que este hecho no exime a la demandada de su obligación de
+reembolsar el dinero, ya que no logró acreditar que a la fecha del fallo f
+uera imposible devolver el
+dinero objeto de la litis.
+6. Solidaridad en la garantía legal: El tribunal determina que existe responsabilidad solidaria entre
+productor directo y productor indirecto, considerando que cualquier interviniente en la cadena de
+consumo tiene responsabilidad por la garantía del producto.
+Decisión
+1. Se reconoce a Booking.com Colombia S.A.S. como proveedor indirecto y no como portal de
+contacto, al no haber acreditado las condiciones para recibir este tratamiento.
+2. Se establece que existe una relación de consumo entre los demandantes y la sociedad
+demandada, quedando demostrada la legitimación activa y pasiva.
+3. Se determina que la pandemia por COVID-19 no constituye una causal de exoneración de
+responsabilidad para la devolución del dinero, aunque sí justifica la no prestación del servicio.
+4. Se ordena a Booking.com Colombia S.A.S. el reintegro de la suma de $9.215.940 (menor que los
+$13.101.060 solicitados), adoptando una decisión infra petita conforme al numeral noveno del
+artículo 58 de la Ley 1480 de 2011.
+Precedente Establecido
+Esta sentencia establece un importante precedente sobre la responsabilidad de las plataformas
+electrónicas de intermediación en el sector turístico, determinando que cuando una plataforma como
+Booking.com interviene activamente en la relación comercial, promociona los servicios y establece
+condiciones, debe ser considerada como proveedor indirecto y responder solidariamente por la
+garantía legal, incluso si el dinero es transferido directamente a los prestadores finales del servicio.
+El precedente ref
+uerza la protección al consumidor al establecer criterios claros para distinguir cuándo
+una plataforma electrónica actúa como simple portal de contacto y cuándo como proveedor indirecto,
+impidiendo que las plataformas eludan su responsabilidad mediante cláusulas contractuales que
+contradigan su
+verdadero rol en la relación de consumo. Además, confirma que las circunstancias
+extraordinarias como la pandemia COVID-19, si bien pueden justificar la no prestación del servicio, no
+eximen de la obligación de reembolsar al consumidor cuando este lo solicita.

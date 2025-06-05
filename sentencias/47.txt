@@ -1,0 +1,128 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA
+Radicado: 20-405126
+TEMA J
+U
+RÍDICO
+Excepciones al régimen de vouchers para reembolsos de tiquetes aéreos durante la pandemia
+COVID-19: aplicación del principio de v
+ulnerabilidad en adultos mayores con condiciones
+médicas preexistentes.
+Subtemas jurídicos relacionados:
+1. Aplicación diferencial del Decreto 482 de 2020 según condiciones particulares de los
+consumidores
+2. Prevalencia de principios constitucionales (derecho a la vida y protección de adultos mayores)
+sobre normativa especial de emergencia
+3. Facultades especiales de la SIC para fallar en equidad (infra, extra y ultra petita)
+4. Limitaciones de competencia respecto a la indemnización de perjuicios en acciones de protección
+al consumidor
+5. Fuerza mayor en contratos de transporte aéreo por la emergencia sanitaria
+RATIO DECIDENDI
+Aunque el Decreto 482 de 2020 permitía a las aerolíneas y agencias de viajes emitir vouchers en lugar
+de reembolsos monetarios durante la emergencia sanitaria, existen circunstancias excepcionales
+donde debe prevalecer el derecho al reembolso monetario, particularmente cuando los consumidores
+son adultos mayores con condiciones de salud preexistentes. En tales casos, obligarlos a utilizar
+servicios de transporte aéreo podría poner en riesgo su derecho f
+undamental a la vida, por lo que la
+protección constitucional especial a los adultos mayores (art. 46 C.P.) y el derecho a la vida (art. 11
+C.P.) prevalecen sobre las disposiciones excepcionales del Decreto 482 de 2020, justificando el uso
+de las facultades especiales del juez de consumo para fallar de la forma más justa (art. 58 numeral 9
+de la Ley 1480 de 2011).
+DATOS BÁSICOS
+Número de radicado: 20-405126
+Fecha de la sentencia: 16/11/2021
+Autoridad judicial: Superintendencia de Industria y Comercio - Delegatura para Asuntos
+Jurisdiccionales
+Juez: Yalena Patricia L
+una Anaya
+Partes involucradas:
+Demandantes: Nohora María López Galán y Jorge Enrique López Galán
+Demandado: Éxito Viajes y Turismo S.A.S.
+Tipo de acción: Acción de protección al consumidor
+HECHOS CLAVE
+1. Los demandantes adquirieron tiquetes aéreos a través de la sociedad demandada el 3 de
+diciembre de 2019 para viajar el 25 de junio de 2020, por un valor de $8,217,060.
+2. Debido a la pandemia del COVID-19, solicitaron el 2 de abril de 2020 la devolución del dinero
+pagado.
+3. La sociedad demandada respondió negativamente a esta solicitud.
+4. El 29 de agosto de 2020, falleció el esposo de la demandante Nohora López Galán, lo que llevó a
+presentar una nueva solicitud de reembolso.
+5. La agencia de viajes negó nuevamente el reembolso, indicando que las reservas debían ser
+utilizadas.
+6. Los demandantes argumentaron que su situación económica y moral tras el fallecimiento, sumada
+a su condición de adultos mayores con preexistencias médicas, les imposibilitaba utilizar los
+uelos.
+7. La agencia demandada no contestó la demanda en el proceso judicial.
+FUNDAMENTOS J
+U
+RÍDICOS
+Ley 1480 de 2011, artículo 11, numeral 3: "En los casos de prestación de servicios, cuando haya
+incumplimiento se procederá, a elección del consumidor, a la prestación del servicio en las
+condiciones en que f
+ue contratado o a la devolución del precio pagado."
+Decreto 482 de 2020, artículo 17: "Derecho de retracto, desistimiento y otras circunstancias de
+reembolso. En los eventos en que las aerolíneas reciban solicitudes de retracto, desistimiento y
+otras circunstancias relacionadas con la solicitud de reembolso, podrán realizar, durante el periodo
+que dure la emergencia y hasta por un año más, reembolsos a los usuarios en servicios prestados
+por la misma aerolínea."
+Ley 1480 de 2011, artículo 58, numeral 9: Otorga facultades a la SIC para fallar de la forma más
+justa que considere para las partes, con plenas facultades para fallar infra, extra y ultra petita.
+Constitución Política de Colombia, artículo 11: "El derecho a la vida es inviolable. No habrá pena
+de muerte."
+v
+Constitución Política de Colombia, artículo 46: "El Estado, la sociedad y la familia concurrirán
+para la protección y la asistencia de las personas de la tercera edad y promoverán su integración a
+la vida activa y comunitaria."
+Código General del Proceso, artículo 97: Establece las consecuencias de la no contestación de
+la demanda, presumiendo ciertos los hechos susceptibles de confesión.
+CONSIDERACIONES PRINCIPALES
+1. Relación de consumo y reclamación directa: Se acreditó la relación de consumo mediante la
+factura electrónica de venta por valor de $8,217,060. Se verificó el cumplimiento del requisito de
+procedibilidad mediante las reclamaciones previas con radicados Nº 40723, 42074, 43832 y
+44478.
+2. Consecuencias de la no contestación: Al no contestar la demanda, se presumieron ciertos los
+hechos susceptibles de confesión contenidos en la demanda.
+3. Fuerza mayor: El tribunal reconoció que el servicio no pudo prestarse por f
+uerza mayor debido a
+la emergencia sanitaria, pues al momento de la primera reclamación (2 de abril de 2020) el tráfico
+aéreo se encontraba suspendido en el país.
+4. Aplicación del Decreto 482 de 2020: El tribunal determinó que, en principio, aplicaría el artículo
+17 del Decreto 482 que permitía reembolsos mediante vouchers durante la emergencia.
+5. Circunstancias excepcionales: No obstante, el tribunal consideró que existían circunstancias
+especiales que justificaban un tratamiento diferencial:
+Los consumidores son adultos mayores con preexistencias médicas
+Existía un riesgo para su salud en caso de utilizar el transporte aéreo durante la pandemia
+Un fallecimiento familiar afectó su situación económica y moral
+6. Aplicación de principios constitucionales: Basándose en los artículos 11 (derecho a la vida) y 46
+(protección especial a adultos mayores) de la Constitución, el tribunal concluyó que sería
+incongruente obligar a los demandantes a acceder a servicios de transporte aéreo cuando la
+pandemia ponía en condiciones de v
+ulnerabilidad su salud.
+7. Facultades especiales: Utilizando las facultades otorgadas por el artículo 58 numeral 9 de la Ley
+1480 de 2011, el tribunal decidió fallar de forma excepcional ordenando el reembolso monetario en
+lugar de vouchers.
+8. Límites de competencia: El tribunal aclaró que no era competente para reconocer
+indemnizaciones de perjuicios en casos de efectividad de la garantía.
+DECISIÓN
+1. Se declaró la v
+ulneración de los derechos de los consumidores.
+2. Se ordenó a la sociedad demandada reembolsar la suma de $8,217,060 correspondiente al valor
+pagado por los tiquetes aéreos.
+3. Se negó la pretensión de indemnización adicional por falta de competencia.
+PRECEDENTE ESTABLECIDO
+La sentencia establece un precedente importante sobre los límites de aplicación del Decreto 482 de
+2020: aunque la regla general durante la emergencia sanitaria permitía a las empresas turísticas emitir
+vouchers en lugar de reembolsos monetarios, existen circunstancias excepcionales donde los
+principios constitucionales y la especial protección a grupos v
+ulnerables requieren un tratamiento
+diferencial.
+Específicamente, cuando los consumidores son adultos mayores con condiciones médicas
+preexistentes que los ponen en especial riesgo frente al COVID-19, obligarlos a utilizar servicios de
+transporte aéreo mediante vouchers podría v
+ulnerar su derecho f
+undamental a la vida y desconocer la
+protección especial que la Constitución otorga a las personas de la tercera edad. En tales casos, el
+juez de consumo debe ejercer sus facultades especiales para ordenar el reembolso monetario,
+adaptando la solución a las circunstancias particulares del caso y superando la aplicación mecánica de
+la normativa de emergencia.

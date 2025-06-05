@@ -1,0 +1,113 @@
+ANÁLISIS DE SENTENCIA 5630 DEL 16/06/2023
+Tema Jurídico
+Cuestión jurídica central: Vulneración del derecho a la información del consumidor por diferencia
+entre el precio informado y el efectivamente cobrado en un servicio de transporte aéreo.
+Subtemas jurídicos:
+1. Deber de información de proveedores y productores en las relaciones de consumo
+2. Régimen de responsabilidad por información inadecuada en el Estatuto del Consumidor
+3. Requisitos para la procedencia de indemnización de perjuicios en acciones de protección al
+consumidor
+4. Carga probatoria en casos de información inadecuada o insu
+ficiente
+5. Causales de exoneración de responsabilidad en materia de información al consumidor
+Ratio Decidendi
+El proveedor de bienes y servicios tiene la obligación legal de suministrar información clara, veraz,
+su
+ficiente y oportuna sobre los productos/servicios que ofrece, incluido el precio, y el consumidor solo
+está obligado a pagar el precio anunciado. La v
+ulneración de este derecho se configura cuando se
+cobra un valor mayor al informado previamente.
+El régimen de responsabilidad aplicable a la violación del deber de información es de carácter objetivo,
+donde el proveedor solo puede exonerarse probando una causa externa (f
+uerza mayor, caso fortuito o
+adulteración inevitable de la información). La sola afirmación de que el error es atribuible a un tercero,
+sin prueba que lo acredite, no constituye causal de exoneración.
+Como lo establece la sentencia: "el parágrafo del artículo 24 de la Ley 1480 de 2011, establece las
+causales de exoneración de responsabilidad aplicables en el caso de la información inadecuada o
+insu
+ficiente [...] En torno al régimen de responsabilidad acogido por el legislador, se observa que este
+corresponde a un esquema de responsabilidad sin culpa, y que las causales de exoneración de
+responsabilidad de proveedores y productores corresponden en general a causas externas."
+Datos Básicos
+Número de radicado: 22-56962
+Fecha de la sentencia: 16/06/2023
+Autoridad judicial: Superintendencia de Industria y Comercio - Delegatura para Asuntos
+Jurisdiccionales
+Juez/Ponente: Lina Margarita Florez Pernett
+Partes involucradas:
+Demandante: Jhonny Fernando Montaño Sánchez
+Demandado: Aerorepública S.A.
+Tipo de acción: Acción de Protección al Consumidor
+Hechos Clave
+1. El 17 de julio de 2021, el demandante adquirió con la empresa demandada tiquetes aéreos para la
+ruta Santa Marta-Bogotá para el 6 de agosto de 2021 (reserva 049QNU).
+2. La sociedad demandada ofreció un precio por el servicio de transporte aéreo de COP$223.300.
+3. Al momento de efectuarse el cobro, se realizó por un valor mayor de COP$256.480 a la tarjeta de
+crédito del consumidor, generando una diferencia de COP$33.180.
+4. El demandante presentó reclamación directa el 17 de julio de 2021.
+5. La demandada respondió el 12 de agosto de 2021 informando que la devolución se haría dentro de
+los 20 días hábiles siguientes.
+6. El reembolso efectivo de la diferencia cobrada se realizó hasta el 21 de febrero de 2022.
+Fundamentos Jurídicos
+Artículo 3 numeral 1.3 de la Ley 1480 de 2011: "O
+btener información completa, veraz,
+transparente, oportuna, verificable, comprensible, precisa e idónea respecto de los productos que
+se ofrezcan o se pongan en circulación, así como sobre los riesgos que puedan derivarse de su
+consumo o utilización, los mecanismos de protección de sus derechos y las formas de ejercerlos."
+Artículos 23 y 24 de la Ley 1480 de 2011: Establecen la obligación de los proveedores y
+productores de suministrar información sobre los productos ofrecidos.
+Artículo 24 numeral 2.2 de la Ley 1480 de 2011: Impone al proveedor la obligación de informar
+al consumidor el precio.
+Artículo 26 de la Ley 1480 de 2011: Reitera la obligación de informar el precio y establece que el
+consumidor solo estará obligado a pagar el precio anunciado.
+Parágrafo del artículo 24 de la Ley 1480 de 2011: "El productor o el proveedor solo podrá
+exonerarse de responsabilidad cuando demuestre f
+uerza mayor, caso fortuito o que la información
+f
+ue adulterada o suplantada sin que se hubiera podido evitar la adulteración o suplantación."
+Artículo 56 de la Ley 1480 de 2011: Establece los requisitos para la procedencia de la
+indemnización de perjuicios en acciones de protección al consumidor.
+Artículo 167 del Código General del Proceso: "Incumbe a las partes probar el supuesto de
+hecho de las normas que consagran el efecto jurídico que ellas persiguen."
+Consideraciones Principales
+El Despacho determinó que se encontraba acreditada la v
+ulneración del derecho a la información
+del consumidor, al haberse informado un precio y cobrado un valor mayor.
+La sociedad demandada informó un precio de COP$223.300 pero cobró COP$256.480 a la tarjeta
+de crédito del consumidor, lo que constituye una violación al deber de información.
+La aerolínea atribuyó el error a un tercero, pero no aportó prueba que acreditara esta
+circunstancia, incumpliendo la carga probatoria establecida en el artículo 167 del CGP.
+El régimen de responsabilidad aplicable es objetivo, según lo establece el parágrafo del artículo 24
+de la Ley 1480 de 2011, y la demandada no probó ninguna de las causales de exoneración allí
+contempladas.
+Si bien se constató la v
+ulneración al derecho a la información, la pretensión indemnizatoria f
+ue
+negada porque el demandante no demostró la existencia ni cuantía del daño alegado,
+incumpliendo los requisitos establecidos por la jurisprudencia para la configuración de la
+responsabilidad civil contractual.
+El Despacho verificó que la sociedad demandada reembolsó el mayor valor cobrado (COP$33.180)
+el 21 de febrero de 2022, aunque de manera tardía respecto a lo inicialmente informado.
+Decisión
+1. Declarar que la sociedad Aerorepública S.A.
+v
+ulneró el derecho a recibir información del
+consumidor.
+2. Negar las demás pretensiones incoadas en la demanda (indemnización de perjuicios por
+COP$2.738.736).
+3. Sin condena en costas.
+4. Archivar las diligencias.
+Precedente Establecido
+En casos de v
+ulneración del derecho a la información del consumidor por diferencia entre el precio
+informado y el efectivamente cobrado, el proveedor será responsable bajo un régimen objetivo, donde
+solo podrá exonerarse probando una causa externa (f
+uerza mayor, caso fortuito o adulteración
+inevitable de la información). La mera afirmación de que el error es atribuible a un tercero, sin prueba
+que lo acredite, no constituye causal de exoneración de responsabilidad.
+Para la procedencia de la indemnización de perjuicios en acciones de protección al consumidor, no
+basta con demostrar la v
+ulneración del derecho a la información, sino que el consumidor debe probar
+adicionalmente la existencia y cuantía del daño alegado, de conformidad con los presupuestos de la
+responsabilidad civil contractual: incumplimiento de un deber contractual, daño y relación de
+causalidad.

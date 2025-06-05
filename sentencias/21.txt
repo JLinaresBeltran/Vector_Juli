@@ -1,0 +1,138 @@
+Análisis de Sentencia - Radicado 21-259665
+Tema Jurídico
+Información engañosa en la venta de tiquetes aéreos: O
+bligación de reembolso en efectivo
+cuando existe discrepancia entre el precio informado y el efectivamente cobrado
+Subtemas jurídicos relacionados:
+1. Deber de información veraz y su
+ficiente en la comercialización de servicios
+2. Abuso de posición dominante al imponer vouchers como mecanismo de reembolso
+3. Afectación al derecho de elección del consumidor
+4. Requisitos para la procedencia de indemnización de perjuicios
+5. Carga probatoria en procesos de protección al consumidor
+Ratio Decidendi
+Cuando una aerolínea cobra un precio mayor al informado en su publicidad o plataforma de venta,
+ulnera el derecho a la información veraz del consumidor establecido en el Estatuto del Consumidor.
+En estos casos, el consumidor tiene derecho a la devolución del mayor valor pagado en efectivo, y no
+puede ser obligado a aceptar un reembolso a través de vouchers o créditos para f
+uturos servicios,
+pues esto constituye un abuso de posición dominante que limita su derecho de elección. El
+ofrecimiento de vouchers como única alternativa de reembolso es considerado abusivo cuando el
+error en el precio es atribuible exclusivamente al proveedor, ya que obliga al consumidor a contratar
+nuevamente con la misma empresa.
+v
+Para que proceda una indemnización de perjuicios adicional, el consumidor debe probar no solo el
+incumplimiento contractual, sino también el daño su
+frido y la relación causal entre ambos elementos,
+de conformidad con los principios generales de la responsabilidad civil contractual.
+Datos Básicos
+Número de radicado: 21-259665
+Fecha de la sentencia: 24/08/2022
+Autoridad judicial: Delegatura para Asuntos Jurisdiccionales (Superintendencia de Industria y
+Comercio)
+Juez: Lina Margarita Flórez Pernett
+Partes involucradas:
+Demandante: Daniel Mauricio Buitrago Solorzano
+Demandado: Aerorepública S.A. (WINGO)
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El demandante contrató con Aerorepública S.A. la prestación del servicio de transporte aéreo en la
+ruta Bogotá-Cartagena-Bogotá a través de la página web de la aerolínea.
+2. En la oferta publicada en la página web, el valor indicado f
+ue de $385.151, sin embargo, al
+demandante se le debitó $1.118.985 de su tarjeta.
+3. El 7 de febrero de 2021, el demandante presentó reclamación directa ante la aerolínea.
+4. Aerorepública aceptó el error en el precio y ofreció la devolución mediante un voucher por valor de
+$733.834.
+5. El demandante rechazó el voucher, exigiendo la devolución del dinero en efectivo.
+6. Ante la negativa de la aerolínea, el demandante interpuso acción de protección al consumidor.
+7. La parte demandada no contestó la demanda.
+Fundamentos Jurídicos
+Ley 1480 de 2011 (Estatuto del Consumidor):
+Artículos 23 y siguientes: Establecen el deber de información clara, veraz, su
+ficiente,
+oportuna, verificable, comprensible, precisa e idónea sobre los productos que se ofrecen.
+Artículo 5 numeral 6: Define la calidad como "Condición en que un producto
+cumple c
+on la
+s
+c
+ara
+cterístic
+a
+s inherentes y la
+s a
+tribuida
+s por la inf
+orma
+ción que se suministre so
+bre él."
+Artículo 5 numeral 6: Define la idoneidad como "Su aptitud para
+sa
+tisfa
+cer la necesidad o
+necesidades para la
+s cuales h
+a
+sido producido, a
+sí c
+omo la
+s c
+ondiciones ba
+jo la
+s cuales se
+debe utilizar en orden a la norma y adecuada
+sa
+tisfa
+cción de la necesidad o necesidades para
+la
+s cuales está destinado."
+Código General del Proceso:
+Artículo 167: Sobre la carga de la prueba.
+Código Civil:
+Artículo 1757: Establece que incumbe probar las obligaciones a quien alega su existencia.
+Jurisprudencia:
+Sentencia de la Corte Suprema de Justicia del 14 de marzo de 1996: Establece los requisitos
+para la configuración de la responsabilidad civil contractual: "(i) incumplimiento de un deber
+contractual, (ii) el daño y (iii) la relación de causalidad."
+Consideraciones Principales
+1. Relación de consumo: El tribunal establece que existe una relación de consumo entre las partes,
+demostrada mediante las manifestaciones del demandante, que no f
+ueron controvertidas por la
+demandada al no contestar la demanda.
+2. Vulneración al derecho de información: Se determina que la información suministrada por la
+aerolínea f
+ue engañosa, pues el precio cobrado ($1.118.985) no correspondía al informado
+inicialmente ($385.151). La aerolínea implícitamente reconoció este error al ofrecer un voucher por
+la diferencia ($733.834).
+3. Abuso de posición dominante: El despacho considera que obligar al consumidor a aceptar un
+voucher como única forma de reembolso constituye un abuso de posición dominante, pues limita
+su derecho de elección al forzarlo a contratar nuevamente con la misma aerolínea, cuando el error
+es atribuible exclusivamente al proveedor.
+4. No aplicabilidad del Decreto 482 de 2020: Se aclara que las disposiciones de este decreto (que
+permitía reembolsos en forma de voucher) no aplican al caso por no tratarse de situaciones de
+retracto, desistimiento o circunstancias asociadas al COVID-19.
+5. Improcedencia de indemnización: El tribunal determina que no procede la indemnización de
+perjuicios ni el pago de intereses solicitados porque el demandante no probó el daño ni la relación
+de causalidad, elementos esenciales para configurar la responsabilidad civil contractual según la
+jurisprudencia citada.
+Decisión
+1. Se declara que la información suministrada por Aerorepública S.A. f
+ue engañosa.
+2. Se ordena a la demandada realizar la devolución del mayor valor pagado en efectivo ($733.834),
+rechazando el ofrecimiento de voucher.
+3. No se concede la indemnización de perjuicios ni el pago de intereses solicitados por el
+demandante, por falta de prueba del daño.
+Precedente Establecido
+Esta sentencia establece que cuando existe error en el precio informado por una aerolínea y se cobra
+un valor superior, es obligación de la empresa reembolsar la diferencia en efectivo, no siendo admisible
+imponer al consumidor un voucher o crédito para servicios f
+uturos, pues esto constituye un abuso de
+posición dominante que v
+ulnera su derecho de elección. La decisión diferencia claramente los casos
+de reembolso por error del proveedor de aquellos asociados a retracto, desistimiento o situaciones
+especiales como la pandemia COVID-19.
+Asimismo, la sentencia reafirma la doctrina de que para la procedencia de indemnizaciones por
+perjuicios no basta acreditar el incumplimiento contractual, sino que es necesario probar los tres
+elementos de la responsabilidad civil: el incumplimiento, el daño efectivo y la relación causal entre
+ambos, recayendo la carga probatoria en quien alega dichos perjuicios.

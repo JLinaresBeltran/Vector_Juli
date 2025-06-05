@@ -1,0 +1,120 @@
+ANÁLISIS J
+U
+RÍDICO DE SENTENCIA
+Radicado: 20-495981
+TEMA J
+U
+RÍDICO
+Reembolso de tiquetes aéreos por cancelación de v
+cuando la aerolínea ha cesado operaciones internacionales.
+uelos durante la pandemia COVID-19
+Subtemas jurídicos relacionados:
+1. Aplicación del Decreto 482 de 2020 en relación con reembolsos en servicios (vouchers)
+2. Límites a la flexibilización normativa para aerolíneas durante la emergencia sanitaria
+3. Garantía legal en servicios de transporte aéreo internacional
+4. Consecuencias procesales de la no contestación de la demanda
+5. Derecho del consumidor a elegir entre prestación del servicio o devolución del dinero
+RATIO DECIDENDI
+Aunque el Decreto 482 de 2020 permitía a las aerolíneas realizar reembolsos en servicios (vouchers)
+en lugar de dinero durante la emergencia sanitaria, dicha normativa resulta inaplicable cuando la
+aerolínea ha cancelado sus operaciones y no está prestando servicios internacionales, pues sería
+imposible para el consumidor utilizar dicho voucher. En tal caso, debe aplicarse la regla general del
+numeral 3 del artículo 11 de la Ley 1480 de 2011 que permite al consumidor elegir entre la prestación
+del servicio en las condiciones contratadas o la devolución del precio pagado, prevaleciendo esta
+última opción cuando la prestación del servicio es imposible.
+DATOS BÁSICOS
+Número de radicado: 20-495981
+Fecha de la sentencia: 31/01/2022
+Autoridad judicial: Superintendencia de Industria y Comercio - Delegatura para Asuntos
+Jurisdiccionales
+Juez: Margarita Rosa Sandoval Gómez
+Partes involucradas:
+Demandante: Romain Maciejewski
+Demandado: ABC Aerolíneas S.A. de C.V. Sucursal Colombia
+Tipo de acción: Acción de Protección al Consumidor
+HECHOS CLAVE
+1. El 17 de diciembre de 2019, el demandante adquirió tiquetes aéreos ida y
+uelta en la ruta Medellín
+– Ciudad de México – Los Ángeles - Ciudad de México – Medellín, bajo la reserva No. LBR7NG, por
+valor de $1.242.805.
+2. Debido a la emergencia sanitaria por COVID-19, el v
+uelo no pudo realizarse en las fechas
+programadas.
+3. En mayo de 2020, el demandante contactó a la aerolínea, quien le indicó que debía comunicarse
+nuevamente en agosto.
+4. Desde agosto de 2020, el demandante presentó múltiples reclamaciones sin recibir respuesta
+efectiva.
+5. Al conocer que la demandada había cancelado sus v
+uelos internacionales, el 4 de septiembre de
+2020 el demandante solicitó formalmente la devolución del dinero.
+6. La aerolínea respondió ofreciendo un voucher, lo cual f
+ue rechazado por el demandante.
+7. La empresa demandada no contestó la demanda en el proceso judicial.
+FUNDAMENTOS J
+U
+RÍDICOS
+Ley 1480 de 2011, artículo 5, numeral 5: Define la garantía como "O
+bligación temporal, solidaria
+a cargo del productor y el proveedor, de responder por el buen estado del producto y la
+conformidad del mismo con las condiciones de idoneidad, calidad y seguridad legalmente
+exigibles o las ofrecidas."
+Ley 1480 de 2011, artículo 5, numeral 8: Define producto como "Todo bien o servicio."
+Ley 1480 de 2011, artículo 11, numeral 3: "En los casos de prestación de servicios, cuando haya
+incumplimiento se procederá, a elección del consumidor, a la prestación del servicio en las
+condiciones en que f
+ue contratado o a la devolución del precio pagado."
+Decreto Legislativo 482 de 2020, artículo 17: "Derecho de retracto, desistimiento y otras
+circunstancias de reembolso. En los eventos en que las aerolíneas reciban solicitudes de retracto,
+desistimiento y otras circunstancias relacionadas con la solicitud de reembolso, podrán realizar,
+durante el periodo que dure la emergencia y hasta por un año más, reembolsos a los usuarios en
+servicios prestados por la misma aerolínea."
+Código General del Proceso, artículo 97: "La falta de contestación de la demanda o de
+pronunciamiento expreso sobre los hechos y pretensiones de ella, o las afirmaciones o negaciones
+contrarias a la realidad, harán presumir ciertos los hechos susceptibles de confesión contenidos
+en la demanda, salvo que la ley le atribuya otro efecto."
+v
+Ley 1480 de 2011, artículo 58, numeral 5, literal f: Establece que se tendrá como indicio grave
+en contra de la demandada la ausencia de respuesta a la reclamación previa.
+CONSIDERACIONES PRINCIPALES
+1. Relación de consumo y reclamación directa: Se verificó la existencia de la relación de consumo
+y el cumplimiento del requisito de procedibilidad al presentar reclamación directa.
+2. Ocurrencia del defecto: Se demostró que el v
+uelo objeto de litigio no se realizó debido a la
+emergencia sanitaria por COVID-19, sin que el consumidor pudiera disfrutar del servicio en las
+fechas adquiridas.
+3. Presunción por no contestación: Al no contestar la demanda, se presumieron ciertos los hechos
+susceptibles de confesión, incluyendo que la aerolínea había cancelado sus operaciones
+internacionales.
+4. Inaplicabilidad del Decreto 482 de 2020: El tribunal consideró que, si bien dicho decreto
+permitía a las aerolíneas ofrecer vouchers en lugar de reembolsos en dinero, esta disposición
+resulta inaplicable cuando la aerolínea ha cancelado sus operaciones internacionales, pues sería
+imposible para el consumidor utilizar dicho voucher.
+5. Aplicación del Estatuto del Consumidor: Al ser inaplicable el Decreto 482 de 2020, se dio
+prevalencia al numeral 3 del artículo 11 de la Ley 1480 de 2011, que permite al consumidor elegir
+entre la prestación del servicio o la devolución del precio pagado.
+6. Ausencia de causales de exoneración: La demandada no acreditó la existencia de causales de
+exoneración de responsabilidad conforme al artículo 16 del Estatuto del Consumidor.
+DECISIÓN
+1. Se declaró que la sociedad ABC Aerolíneas S.A. de C.V. Sucursal Colombia v
+ulneró los derechos
+del consumidor.
+2. Se ordenó a la demandada reembolsar al demandante la suma de $1.242.805 dentro de los veinte
+días hábiles siguientes a la ejecutoria de la sentencia, indexada según el IPC a la fecha de pago.
+3. Se estableció que el retraso en el cumplimiento de la orden causaría una multa a favor de la
+Superintendencia de Industria y Comercio, equivalente a una séptima parte del SM
+L
+MV por cada
+día de retardo.
+4. Se advirtió que en caso de persistir el incumplimiento, se podría decretar el cierre temporal del
+establecimiento de comercio.
+PRECEDENTE ESTABLECIDO
+Cuando una aerolínea ha cesado sus operaciones en determinadas rutas o cancelado sus servicios
+internacionales, no puede aplicarse la excepción contenida en el Decreto 482 de 2020 que permitía
+realizar reembolsos en servicios (vouchers) en lugar de dinero, pues dicha excepción parte del
+supuesto de que el consumidor podrá efectivamente utilizar esos servicios en el f
+uturo. En estas
+circunstancias, prevalece el derecho del consumidor a obtener la devolución total del dinero pagado
+por un servicio que no puede ser prestado, conforme a la regla general de protección al consumidor
+establecida en el artículo 11 de la Ley 1480 de 2011. Este precedente reconoce límites a las medidas
+excepcionales adoptadas durante la emergencia sanitaria cuando las mismas resultan inviables o
+perjudiciales para el consumidor.

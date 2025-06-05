@@ -1,0 +1,265 @@
+🔍 DIAGNÓSTICO MASIVO: ./sentencias (Versión Optimizada para Búsqueda)
+📁 Archivos encontrados: 3
+
+📊 RESUMEN FINAL
+==================================================
+✓ Archivos correctos: 3
+⚠️  Archivos vacíos: 0
+⚠️  Archivos sin indicadores aéreos: 0
+
+Procesando directorio por defecto: ./sentencias
+✈️ Tabla de destino: transporte_aereo
+📋 Con metadata optimizada v2.0 para búsqueda precisa
+🚀 Estructura aplanada con campos booleanos y normalizados
+
+============================================================
+PROCESANDO SENTENCIA PARA TABLA: transporte_aereo - 3.txt
+============================================================
+
+📊 ESTADÍSTICAS DE CLASIFICACIÓN DISPONIBLES:
+==================================================
+✓ Aspectos Procesales: 2 sentencias
+✓ Causales Exoneracion: 2 sentencias
+✓ Covid Normas Especiales: 11 sentencias
+✓ Deber Informacion: 9 sentencias
+✓ Definicion Consumidor: 3 sentencias
+✓ Derecho Retracto: 8 sentencias
+✓ Garantia Legal: 7 sentencias
+✓ Manejo Equipaje: 3 sentencias
+✓ Responsabilidad Solidaria: 7 sentencias
+
+Total de sentencias clasificadas: 52
+Documento cargado: 6458 caracteres
+✓ Documento identificado como relacionado con transporte aéreo
+ℹ️  Sentencia  no clasificada específicamente en informe
+Iniciando procesamiento inteligente de sentencia de transporte aéreo...
+✓ Texto original: 6458 caracteres
+✓ Texto limpiado: 6424 caracteres
+✓ Reducción por limpieza: 0.5%
+✓ Datos del demandante removidos de forma conservadora
+✓ Metadata extraída: 5 campos
+✓ Generados 8 chunks inteligentes
+✓ Chunks con calidad suficiente: 8/8
+✓ Secciones procesadas: fundamentos, consideraciones, ratio_decidendi, subtemas, tema_juridico, decision, hechos, datos_basicos
+
+Estadísticas de procesamiento:
+  - ratio_decidendi: 826 chars, Importancia: 10
+    Tema: Responsabilidad en transporte aéreo
+  - decision: 1173 chars, Importancia: 10
+    Tema: Responsabilidad en transporte aéreo
+  - tema_juridico: 241 chars, Importancia: 7
+    Tema: Responsabilidad en transporte aéreo
+  - consideraciones: 1079 chars, Importancia: 10
+    Tema: Responsabilidad en transporte aéreo
+  - fundamentos: 955 chars, Importancia: 7
+    Tema: Responsabilidad en transporte aéreo
+  - hechos: 749 chars, Importancia: 5
+    Tema: Manejo de equipaje en transporte aéreo
+  - subtemas: 328 chars, Importancia: 4
+    Tema: Responsabilidad en transporte aéreo
+  - datos_basicos: 511 chars, Importancia: 2
+    Tema: Responsabilidad en transporte aéreo
+🔒 Verificando eliminación de datos personales...
+✓ Conexión a tabla 'transporte_aereo' verificada
+[1/8] ✓ ratio_decidendi (Radicado: , Importancia: 10)
+    Tema: Responsabilidad en transporte aéreo
+    📄 Sin clasificación específica
+[2/8] ✓ decision (Radicado: , Importancia: 10)
+    Tema: Responsabilidad en transporte aéreo
+    📄 Sin clasificación específica
+[3/8] ✓ tema_juridico (Radicado: , Importancia: 7)
+    Tema: Responsabilidad en transporte aéreo
+    📄 Sin clasificación específica
+[4/8] ✓ consideraciones (Radicado: , Importancia: 10)
+    Tema: Responsabilidad en transporte aéreo
+    📄 Sin clasificación específica
+[5/8] ✓ fundamentos (Radicado: , Importancia: 7)
+    Tema: Responsabilidad en transporte aéreo
+    📄 Sin clasificación específica
+[6/8] ✓ hechos (Radicado: , Importancia: 5)
+    Tema: Manejo de equipaje en transporte aéreo
+    📄 Sin clasificación específica
+[7/8] ✓ subtemas (Radicado: , Importancia: 4)
+    Tema: Responsabilidad en transporte aéreo
+    📄 Sin clasificación específica
+[8/8] ✓ datos_basicos (Radicado: , Importancia: 2)
+    Tema: Responsabilidad en transporte aéreo
+    📄 Sin clasificación específica
+
+Procesamiento completado: 8/8 chunks almacenados exitosamente
+🔒 Datos personales del demandante completamente eliminados
+✈️ Enfoque: Almacenamiento optimizado en tabla 'transporte_aereo'
+📋 Con clasificación del informe jurisprudencial incluida
+🚀 Metadata optimizada para búsqueda de alta precisión
+
+✓ Procesamiento completado: 8 chunks almacenados
+✈️ Tabla de destino: transporte_aereo
+📋 Con clasificación del informe jurisprudencial incluida
+🚀 Metadata optimizada para búsqueda de alta precisión
+
+============================================================
+PROCESANDO SENTENCIA PARA TABLA: transporte_aereo - 2.txt
+============================================================
+
+📊 ESTADÍSTICAS DE CLASIFICACIÓN DISPONIBLES:
+==================================================
+✓ Aspectos Procesales: 2 sentencias
+✓ Causales Exoneracion: 2 sentencias
+✓ Covid Normas Especiales: 11 sentencias
+✓ Deber Informacion: 9 sentencias
+✓ Definicion Consumidor: 3 sentencias
+✓ Derecho Retracto: 8 sentencias
+✓ Garantia Legal: 7 sentencias
+✓ Manejo Equipaje: 3 sentencias
+✓ Responsabilidad Solidaria: 7 sentencias
+
+Total de sentencias clasificadas: 52
+Documento cargado: 6060 caracteres
+✓ Documento identificado como relacionado con transporte aéreo
+ℹ️  Sentencia  no clasificada específicamente en informe
+Iniciando procesamiento inteligente de sentencia de transporte aéreo...
+✓ Texto original: 6060 caracteres
+✓ Texto limpiado: 6022 caracteres
+✓ Reducción por limpieza: 0.6%
+✓ Datos del demandante removidos de forma conservadora
+✓ Metadata extraída: 8 campos
+✓ Generados 8 chunks inteligentes
+✓ Chunks con calidad suficiente: 8/8
+✓ Secciones procesadas: fundamentos, consideraciones, ratio_decidendi, subtemas, tema_juridico, decision, hechos, datos_basicos
+
+Estadísticas de procesamiento:
+  - ratio_decidendi: 831 chars, Importancia: 10
+    Tema: Cancelación y reprogramación de vuelos
+  - decision: 1284 chars, Importancia: 10
+    Tema: Cancelación y reprogramación de vuelos
+  - tema_juridico: 176 chars, Importancia: 7
+    Tema: Responsabilidad en transporte aéreo
+  - consideraciones: 998 chars, Importancia: 8
+    Tema: Cancelación y reprogramación de vuelos
+  - fundamentos: 1027 chars, Importancia: 9
+    Tema: Cancelación y reprogramación de vuelos
+  - hechos: 858 chars, Importancia: 5
+    Tema: Cancelación y reprogramación de vuelos
+  - subtemas: 359 chars, Importancia: 5
+    Tema: Cancelación y reprogramación de vuelos
+  - datos_basicos: 351 chars, Importancia: 2
+    Tema: Responsabilidad en transporte aéreo
+🔒 Verificando eliminación de datos personales...
+✓ Conexión a tabla 'transporte_aereo' verificada
+[1/8] ✓ ratio_decidendi (Radicado: 18-95893, Importancia: 10)
+    Tema: Cancelación y reprogramación de vuelos
+    📄 Sin clasificación específica
+[2/8] ✓ decision (Radicado: 18-95893, Importancia: 10)
+    Tema: Cancelación y reprogramación de vuelos
+    📄 Sin clasificación específica
+[3/8] ✓ tema_juridico (Radicado: 18-95893, Importancia: 7)
+    Tema: Responsabilidad en transporte aéreo
+    📄 Sin clasificación específica
+[4/8] ✓ consideraciones (Radicado: 18-95893, Importancia: 8)
+    Tema: Cancelación y reprogramación de vuelos
+    📄 Sin clasificación específica
+[5/8] ✓ fundamentos (Radicado: 18-95893, Importancia: 9)
+    Tema: Cancelación y reprogramación de vuelos
+    📄 Sin clasificación específica
+[6/8] ✓ hechos (Radicado: 18-95893, Importancia: 5)
+    Tema: Cancelación y reprogramación de vuelos
+    📄 Sin clasificación específica
+[7/8] ✓ subtemas (Radicado: 18-95893, Importancia: 5)
+    Tema: Cancelación y reprogramación de vuelos
+    📄 Sin clasificación específica
+[8/8] ✓ datos_basicos (Radicado: 18-95893, Importancia: 2)
+    Tema: Responsabilidad en transporte aéreo
+    📄 Sin clasificación específica
+
+Procesamiento completado: 8/8 chunks almacenados exitosamente
+🔒 Datos personales del demandante completamente eliminados
+✈️ Enfoque: Almacenamiento optimizado en tabla 'transporte_aereo'
+📋 Con clasificación del informe jurisprudencial incluida
+🚀 Metadata optimizada para búsqueda de alta precisión
+
+✓ Procesamiento completado: 8 chunks almacenados
+✈️ Tabla de destino: transporte_aereo
+📋 Con clasificación del informe jurisprudencial incluida
+🚀 Metadata optimizada para búsqueda de alta precisión
+
+============================================================
+PROCESANDO SENTENCIA PARA TABLA: transporte_aereo - 1.txt
+============================================================
+
+📊 ESTADÍSTICAS DE CLASIFICACIÓN DISPONIBLES:
+==================================================
+✓ Aspectos Procesales: 2 sentencias
+✓ Causales Exoneracion: 2 sentencias
+✓ Covid Normas Especiales: 11 sentencias
+✓ Deber Informacion: 9 sentencias
+✓ Definicion Consumidor: 3 sentencias
+✓ Derecho Retracto: 8 sentencias
+✓ Garantia Legal: 7 sentencias
+✓ Manejo Equipaje: 3 sentencias
+✓ Responsabilidad Solidaria: 7 sentencias
+
+Total de sentencias clasificadas: 52
+Documento cargado: 5743 caracteres
+✓ Documento identificado como relacionado con transporte aéreo
+ℹ️  Sentencia  no clasificada específicamente en informe
+Iniciando procesamiento inteligente de sentencia de transporte aéreo...
+✓ Texto original: 5743 caracteres
+✓ Texto limpiado: 5698 caracteres
+✓ Reducción por limpieza: 0.8%
+✓ Datos del demandante removidos de forma conservadora
+✓ Metadata extraída: 8 campos
+✓ Generados 6 chunks inteligentes
+✓ Chunks con calidad suficiente: 6/6
+✓ Secciones procesadas: consideraciones, ratio_decidendi, subtemas, decision, hechos, datos_basicos
+
+Estadísticas de procesamiento:
+  - ratio_decidendi: 688 chars, Importancia: 10 - Garantia Legal
+    Tema: Reembolsos y compensaciones en transporte aéreo
+  - decision: 1269 chars, Importancia: 10 - Garantia Legal
+    Tema: Reembolsos y compensaciones en transporte aéreo
+  - consideraciones: 982 chars, Importancia: 7 - Garantia Legal
+    Tema: Reembolsos y compensaciones en transporte aéreo
+  - hechos: 706 chars, Importancia: 5 - Garantia Legal
+    Tema: Responsabilidad en transporte aéreo
+  - subtemas: 310 chars, Importancia: 3 - Garantia Legal
+    Tema: Deber de información en servicios aéreos
+  - datos_basicos: 336 chars, Importancia: 2 - Garantia Legal
+    Tema: Responsabilidad en transporte aéreo
+🔒 Verificando eliminación de datos personales...
+✓ Conexión a tabla 'transporte_aereo' verificada
+[1/6] ✓ ratio_decidendi (Radicado: 17-80680, Importancia: 10)
+    Tema: Reembolsos y compensaciones en transporte aéreo
+    📋 Garantia Legal
+[2/6] ✓ decision (Radicado: 17-80680, Importancia: 10)
+    Tema: Reembolsos y compensaciones en transporte aéreo
+    📋 Garantia Legal
+[3/6] ✓ consideraciones (Radicado: 17-80680, Importancia: 7)
+    Tema: Reembolsos y compensaciones en transporte aéreo
+    📋 Garantia Legal
+[4/6] ✓ hechos (Radicado: 17-80680, Importancia: 5)
+    Tema: Responsabilidad en transporte aéreo
+    📋 Garantia Legal
+[5/6] ✓ subtemas (Radicado: 17-80680, Importancia: 3)
+    Tema: Deber de información en servicios aéreos
+    📋 Garantia Legal
+[6/6] ✓ datos_basicos (Radicado: 17-80680, Importancia: 2)
+    Tema: Responsabilidad en transporte aéreo
+    📋 Garantia Legal
+
+Procesamiento completado: 6/6 chunks almacenados exitosamente
+🔒 Datos personales del demandante completamente eliminados
+✈️ Enfoque: Almacenamiento optimizado en tabla 'transporte_aereo'
+📋 Con clasificación del informe jurisprudencial incluida
+🚀 Metadata optimizada para búsqueda de alta precisión
+
+✓ Procesamiento completado: 6 chunks almacenados
+✈️ Tabla de destino: transporte_aereo
+📋 Con clasificación del informe jurisprudencial incluida
+🚀 Metadata optimizada para búsqueda de alta precisión
+
+============================================================
+RESUMEN FINAL: 3/3 archivos procesados exitosamente
+✈️ Tabla de destino: transporte_aereo
+📋 Con metadata optimizada v2.0 para búsqueda precisa
+🚀 Estructura aplanada con campos booleanos y normalizados
+============================================================

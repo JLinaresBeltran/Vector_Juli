@@ -1,0 +1,101 @@
+Análisis Jurídico de Sentencia
+Tema Jurídico
+Responsabilidad del transportador aéreo por la pérdida de equipaje facturado en v
+determinación de los límites indemnizatorios aplicables según la normativa especial.
+uelo internacional y
+Subtemas jurídicos
+1. Aplicación del Convenio de Montreal como normativa especial en transporte aéreo internacional
+2. Responsabilidad del transportista aéreo por pérdida de equipaje facturado
+3. Límites indemnizatorios establecidos en el Convenio de Montreal
+4. Inaplicabilidad del régimen de responsabilidad por producto defectuoso en casos de pérdida de
+equipaje
+5. Interpretación de la relación entre el Estatuto del Consumidor y normativas especiales
+Ratio Decidendi
+La responsabilidad del transportador aéreo por la pérdida de equipaje facturado se rige por el
+Convenio de Montreal, incorporado a la legislación colombiana mediante la Ley 701 de 2001, el cual
+establece que, salvo declaración especial de valor, la responsabilidad del transportista por pérdida de
+equipaje está limitada a 1.000 derechos especiales de giro (actualizados a 1.131), independientemente
+del valor real de los bienes contenidos en el equipaje perdido.
+Según el numeral 2 del artículo 22 del Convenio de Montreal: "En el transporte de equipaje, la
+responsabilidad del transportista en caso de destrucción, pérdida, avería o retraso se limita a 1.000
+derechos especiales de giro por pasajero a menos que el pasajero haya hecho al transportista, al
+entregarle el equipaje facturado, una declaración especial del valor de la entrega de éste en el lugar de
+destino, y haya pagado una suma suplementaria, si hay lugar a ello."
+Datos Básicos
+Número de radicado/expediente: 17-41822
+Fecha de la sentencia: 19/12/2017
+Autoridad judicial: Superintendencia de Industria y Comercio, Delegatura para Asuntos
+Jurisdiccionales
+Nombre del juez/jueza ponente: Lizz Dahiam Pacheco Ramírez
+Partes involucradas:
+Demandante: Juan Camilo Llanos Marulanda (consumidor)
+Demandado: Aerovías del Continente Americano S.A. - Avianca S.A. (aerolínea)
+Tipo de acción o recurso: Acción de Protección al Consumidor
+Hechos Clave
+1. El 25 de julio de 2016, el demandante adquirió tiquetes aéreos de Avianca por valor de $2.800.000
+para la ruta Madrid-Lima-Bogotá.
+2. Aunque los tiquetes f
+ueron adquiridos a Avianca, el tramo Madrid-Lima f
+ue operado por Iberia,
+mientras que el tramo Lima-Bogotá f
+ue operado por Avianca.
+3. El 29 de julio de 2016, al llegar a Bogotá, su equipaje no f
+ue entregado, por lo que presentó un
+requerimiento ante la aerolínea.
+4. La aerolínea inicialmente informó que el equipaje se encontraba en Lima y sería enviado a Bogotá,
+pero nunca llegó.
+5. Posteriormente, surgió una controversia entre Avianca e Iberia sobre la entrega del equipaje,
+donde cada aerolínea responsabilizaba a la otra.
+6. Tras varios reclamos, la aerolínea solicitó al demandante diligenciar un formato de irregularidad de
+equipajes (FIE), donde indicó el valor de los objetos perdidos.
+7. El 6 de septiembre de 2016, la aerolínea le comunicó que solo le devolvería $1.554 USD, suma que
+el demandante consideró insu
+ficiente frente a su reclamación de $25.759.995 pesos por los
+bienes perdidos.
+Fundamentos Jurídicos
+Artículo 2 de la Ley 1480 de 2011 (Estatuto del Consumidor): "Las normas contenidas en esta ley
+son aplicables en general a las relaciones de consumo y a la responsabilidad de los productores y
+proveedores frente al consumidor en todos los sectores de la economía respecto de los cuales no
+exista regulación especial, evento en el cual aplicará la regulación especial y suplementariamente
+las normas establecidas en esta Ley."
+Ley 701 de 2001: Incorpora el Convenio de Montreal a la legislación colombiana.
+Artículo 17, numeral 2 del Convenio de Montreal: "El transportista es responsable del daño
+causado en caso de destrucción, pérdida o avería del equipaje facturado por la sola razón de que
+el hecho que causó la destrucción, pérdida o avería se haya producido a bordo de la aeronave o
+durante cualquier período en que el equipaje facturado se hallase bajo la custodia del
+transportista."
+Artículo 22, numeral 2 del Convenio de Montreal: Establece el límite indemnizatorio de 1.000
+derechos especiales de giro por pasajero, salvo declaración especial de valor.
+Artículo 21 de la Ley 1480 de 2011: Regula la responsabilidad por daños por producto
+defectuoso, determinado como inaplicable para este caso específico.
+Consideraciones Principales
+1. La normativa aplicable al caso es el Convenio de Montreal, incorporado a la legislación colombiana
+mediante la Ley 701 de 2001, por constituir una regulación especial en materia de transporte aéreo
+que prevalece sobre el régimen general del Estatuto del Consumidor.
+2. Conforme al Convenio de Montreal, el transportista es responsable del daño causado por la
+pérdida del equipaje facturado cuando este se encontraba bajo su custodia.
+3. La aerolínea demandada es responsable de la pérdida del equipaje, ya que no hay prueba en el
+expediente que acredite que no lo recibió de Iberia.
+4. El demandante no realizó una declaración especial de valor del equipaje al momento de facturarlo,
+por lo que aplica el límite indemnizatorio establecido en el Convenio de Montreal.
+5. El régimen de responsabilidad por producto defectuoso no es aplicable al caso, ya que dicho
+régimen está vinculado a productos que atentan contra la seguridad, salud y
+vida del consumidor,
+situación diferente a la pérdida de equipaje.
+Decisión
+Se ordena a Aerovías del Continente Americano S.A. - Avianca S.A. pagar al demandante Juan Camilo
+Llanos Marulanda la suma equivalente a 1.131 derechos especiales de giro, que equivalen a $4.758.325
+pesos colombianos, como indemnización por la pérdida de su equipaje.
+Se rechaza la pretensión de indemnización por el valor total de los bienes perdidos ($25.759.995), la
+compensación por ropa adquirida tras la pérdida del equipaje ($1.077.500), y el 10% del valor de los
+tiquetes.
+Precedente Establecido
+La sentencia establece que en casos de pérdida de equipaje en transporte aéreo internacional, se
+aplica el Convenio de Montreal como normativa especial, el cual limita la responsabilidad del
+transportista a un máximo de 1.131 derechos especiales de giro (valor actualizado),
+independientemente del valor real reclamado por el pasajero, a menos que éste haya realizado una
+declaración especial de valor al momento de entregar el equipaje facturado.
+Adicionalmente, determina que el régimen de responsabilidad por producto defectuoso establecido en
+el Estatuto del Consumidor no es aplicable a casos de pérdida de equipaje, ya que responde a una
+naturaleza jurídica distinta, relacionada con la seguridad de los productos y no con la prestación del
+servicio de transporte.

@@ -1,0 +1,100 @@
+ANÁLISIS DE SENTENCIA No. 20-386833 DE 2021
+SUPERINTENDENCIA DE INDUSTRIA Y CO
+MERCIO
+Tema Jurídico
+Cuestión jurídica central: Reembolso por incumplimiento de servicios aéreos contratados antes de la
+pandemia COVID-19 y la aplicación del régimen especial establecido en el Decreto 482 de 2020 que
+permite a las aerolíneas emitir vouchers de servicio en lugar de devoluciones en dinero.
+Subtemas jurídicos relacionados:
+1. Consecuencias procesales de la inasistencia a audiencia y no contestación de la demanda
+2. Presunción de veracidad de los hechos por falta de contradicción procesal
+3. Efectividad de la garantía en contratos de transporte aéreo durante la emergencia sanitaria
+4. Aplicación temporal del Decreto 482 de 2020 a servicios contratados antes de la pandemia
+5. Mecanismos alternativos de reembolso mediante vouchers de servicio (travel voucher)
+Ratio Decidendi
+"Cuando una aerolínea incumple con la prestación del servicio aéreo contratado durante la emergencia
+sanitaria por COVID-19 y no responde a las reclamaciones de los consumidores, v
+ulnera sus derechos.
+Sin embargo, conforme al artículo 17 del Decreto 482 de 2020, el reembolso del dinero pagado puede
+ser sustituido por la emisión de un travel voucher con vigencia durante el periodo de emergencia y
+hasta un año más, lo que constituye una medida especial y temporal que modifica el régimen general
+de reembolsos en efectivo, buscando proteger tanto los derechos de los consumidores como la
+estabilidad económica del sector aéreo."
+Fundamentos normativos:
+Artículos 97 y 372 numeral 4 del Código General del Proceso
+Artículo 17 del Decreto 482 de 2020
+Datos Básicos
+Número de radicado: 20-386833
+Fecha de la sentencia: 21 de octubre de 2021
+Autoridad judicial: Superintendencia de Industria y Comercio, Delegatura para Asuntos
+Jurisdiccionales
+Juez ponente: Jair Jesús O
+bispo Rodríguez
+Partes involucradas:
+Demandantes: Miguel Hernán Agudelo Arciniegas y Martha L
+ucía Pardo
+Demandado: ABC Aerolíneas S.A. de CV Sucursal Colombia
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El 12 de febrero de 2020 y el 18 de junio del mismo año, los demandantes adquirieron tiquetes
+aéreos por valor de $5.361.579 para los trayectos Bogotá-Ciudad de México y Ciudad de México-
+Cancún, programados para octubre de 2020.
+2. Con ocasión de la pandemia COVID-19, los demandantes intentaron comunicarse con la aerolínea
+para confirmar si los v
+uelos se realizarían.
+3. Según los accionantes, la aerolínea nunca se contactó con ellos ni respondió a sus requerimientos.
+4. Los demandantes presentaron acción de protección al consumidor solicitando la devolución del
+dinero pagado por los tiquetes.
+5. La sociedad demandada no contestó la demanda ni asistió a la audiencia prevista en el artículo
+372 del Código General del Proceso.
+Fundamentos Jurídicos
+Artículos 97 y 372 numeral 4 del Código General del Proceso: Establecen las consecuencias
+procesales de la no contestación de la demanda y la inasistencia a la audiencia, que incluyen
+presumir como ciertos los hechos susceptibles de confesión.
+Artículo 17 del Decreto 482 de 2020: "Derecho de retracto, desistimiento y otras circunstancias
+de reembolso. En los eventos en que las aerolíneas reciban solicitudes de retracto, desistimiento y
+otras circunstancias relacionadas con la solicitud de reembolso, podrán realizar, durante el periodo
+que dure la emergencia y hasta por un año más, reembolsos a los usuarios en servicios prestados
+por la misma aerolínea."
+Consideraciones Principales
+1. Consecuencias procesales por inasistencia: Al no contestar la demanda ni asistir a la audiencia,
+se presumen como ciertos los hechos susceptibles de confesión alegados por los demandantes,
+específicamente que adquirieron los tiquetes, que la aerolínea no cumplió con su obligación, y que
+no se comunicó oportunamente para resolver las reclamaciones.
+2. Vulneración de derechos del consumidor: El tribunal considera que la falta de comunicación y
+respuesta por parte de la aerolínea constituye una v
+ulneración a los derechos del consumidor,
+pues los dejó en una situación de incertidumbre respecto a los servicios contratados.
+3. Aplicabilidad del Decreto 482 de 2020: Se determina que este decreto es aplicable al caso
+porque los tiquetes f
+ueron adquiridos en febrero de 2020 (antes de la pandemia) y serían
+utilizados en octubre del mismo año (durante la vigencia del decreto).
+4. Reembolso mediante travel voucher: El tribunal establece que, con base en el artículo 17 del
+Decreto 482 de 2020, las aerolíneas tienen la facultad de resolver las solicitudes de reembolso
+mediante la expedición de un travel voucher en lugar de la devolución en dinero, lo cual constituye
+una medida excepcional y temporal.
+Decisión
+1. Declarar que ABC Aerolíneas S.A. de CV Sucursal Colombia v
+ulneró los derechos de los
+consumidores.
+2. Ordenar a la aerolínea demandada la emisión de un travel voucher a favor de los consumidores por
+la suma de $5.361.579 para ser utilizado en servicios de la compañía.
+3. Establecer que el voucher deberá tener un término de vigencia por el periodo que dure la
+emergencia sanitaria y hasta por un año más.
+4. Disponer que el travel voucher o su equivalente sea remitido vía correo electrónico a los
+demandantes.
+Precedente Establecido
+La sentencia establece un importante precedente sobre la aplicación del Decreto 482 de 2020 a
+situaciones de incumplimiento en la prestación de servicios aéreos durante la pandemia, incluso
+cuando los tiquetes f
+ueron adquiridos antes de la declaratoria de emergencia sanitaria.
+Confirma que la emisión de un travel voucher en lugar del reembolso en dinero constituye una forma
+válida y su
+ficiente de resolución de las solicitudes de reembolso durante el periodo de emergencia
+sanitaria y hasta un año después, equilibrando los derechos de los consumidores con la necesidad de
+mantener la viabilidad económica de las aerolíneas en un contexto de crisis.
+Adicionalmente, ref
+uerza las consecuencias procesales de la inasistencia y la no contestación de la
+demanda, que pueden llevar a la presunción de veracidad de los hechos alegados por la parte
+demandante, especialmente en procesos de protección al consumidor donde la carga de la prueba se
+invierte en favor del consumidor.

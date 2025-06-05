@@ -1,0 +1,119 @@
+ANÁLISIS DE SENTENCIA No. 938 DE 2022
+SUPERINTENDENCIA DE INDUSTRIA Y CO
+MERCIO
+Tema Jurídico
+Cuestión jurídica central: Alcance del deber de información de las aerolíneas en casos de
+cancelación de v
+uelos y la legalidad de los reembolsos mediante vouchers de servicio bajo el Decreto
+482 de 2020 durante la emergencia sanitaria por COVID-19.
+Subtemas jurídicos relacionados:
+1. Derecho de elección del consumidor y sus límites en estados de excepción
+2. Responsabilidad por incumplimiento del deber de información
+3. Procedencia de indemnizaciones por perjuicios derivados de información inadecuada
+4. Alcance del Decreto Legislativo 482 de 2020 sobre retractos y reembolsos
+5. Constitucionalidad de las limitaciones a derechos del consumidor en estados de excepción
+Ratio Decidendi
+"Cuando una aerolínea cancela un v
+uelo sin informar oportunamente al consumidor, incurre en
+violación al deber de información establecido en el artículo 23 de la Ley 1480 de 2011 y el Reglamento
+Aeronáutico Colombiano, siendo responsable por los daños derivados de esta omisión. Sin embargo,
+durante el estado de emergencia por COVID-19 y hasta un año después, las aerolíneas pueden realizar
+reembolsos mediante vouchers de servicios conforme al Decreto 482 de 2020, sin que esto constituya
+una v
+ulneración al derecho de elección del consumidor, pues este derecho puede ser limitado
+proporcionalmente para conseguir fines constitucionales válidos como evitar la descapitalización del
+sector aéreo."
+Fundamentos normativos:
+Artículo 23 de la Ley 1480 de 2011 (Estatuto del Consumidor)
+Artículos 3.10.1.6 y 3.10.2.7 del Reglamento Aeronáutico Colombiano
+Artículo 17 del Decreto Legislativo 482 de 2020
+Jurisprudencia: Sentencias C-185 de 2020 y C-432 de 2010 de la Corte Constitucional
+Datos Básicos
+Número de radicado: 21-24605
+Fecha de la sentencia: 27 de enero de 2022
+Autoridad judicial: Superintendencia de Industria y Comercio, Delegatura para Asuntos
+Jurisdiccionales
+Jueza ponente: Lizz Dahiam Pacheco Ramírez (Coordinadora del Grupo de Trabajo de Defensa
+del Consumidor)
+Partes involucradas:
+Demandante: William Andrés Soto Medina
+Demandado: Fast Colombia S.A.S.
+Tipo de acción: Acción de protección al consumidor
+Hechos Clave
+1. El 11 de junio de 2020, el demandante compró a través de la página web de la aerolínea dos
+tiquetes aéreos con costo de $750.756, para viajar Bogotá–Santa Marta–Bogotá, con fechas 22 de
+noviembre (ida) y 2 de diciembre de 2020 (regreso).
+2. El 10 de noviembre de 2020, el demandante verificó la página web de la aerolínea y descubrió que
+su reserva había sido cancelada sin previo aviso.
+3. La aerolínea ofreció reagendar el viaje o suministrar un voucher por el valor de la compra, con
+f
+undamento en el Decreto Legislativo 482 de 2020.
+4. El 4 de enero de 2021, sin aceptación o solicitud del demandante, la aerolínea le generó un
+voucher, lo que según el actor constituía una violación a su derecho de elección.
+5. Durante el proceso, el demandante desistió de la pretensión de reembolso del dinero, continuando
+el proceso por las pretensiones de perjuicios y costas.
+Fundamentos Jurídicos
+Artículo 23 de la Ley 1480 de 2011: Establece el deber de suministrar información clara, veraz,
+su
+ficiente, oportuna, verificable, comprensible, precisa e idónea sobre los productos ofrecidos,
+con responsabilidad por los daños derivados de información inadecuada o insu
+ficiente.
+Artículo 3.10.1.6 del Reglamento Aeronáutico Colombiano: "En caso de producirse algún
+cambio en cuanto al v
+uelo, el horario o en general cualquier aspecto que afecte la reserva
+acordada, la aerolínea o la agencia de viajes por cuyo conducto se haya efectuado la reserva (si
+ésta última hubiese tenido conocimiento), deberá informarlo al pasajero por el medio más rápido
+posible (...) a más tardar con veinticuatro (24) horas de antelación al v
+uelo."
+Artículo 17 del Decreto Legislativo 482 de 2020: "En los eventos en que las aerolíneas reciban
+solicitudes de retracto, desistimiento y otras circunstancias relacionadas con la solicitud de
+reembolso, podrán realizar, durante el periodo que dure la emergencia y hasta por un año más,
+reembolsos a los usuarios en servicios prestados por la misma aerolínea."
+Sentencia C-185 de 2020: La Corte Constitucional declaró exequible el Decreto 482 de 2020,
+señalando que "el medio constituye una respuesta equilibrada, porque no interfiere el núcleo del
+derecho de retracto. (...) Lo que en realidad modifica el artículo 17 son los efectos del
+desistimiento o de la reflexión, al ampliar el plazo del pago."
+Consideraciones Principales
+1. Relación de consumo: El tribunal establece la existencia de una relación de consumo entre el
+demandante y Fast Colombia S.A.S., demostrada mediante la compra de los tiquetes aéreos.
+2. Derecho de elección y su limitación: El tribunal considera que aunque el derecho de elección es
+f
+undamental para los consumidores, no es absoluto y puede ser limitado proporcionalmente para
+conseguir fines constitucionales válidos, como evitar la descapitalización del sector aéreo durante
+la emergencia por COVID-19.
+3. Análisis del deber de información: El tribunal señala que la aerolínea tenía el deber de informar
+sobre la cancelación del v
+uelo, y al no demostrar que la cancelación se debió a condiciones
+operacionales imprevisibles, incumplió este deber f
+undamental.
+4. Sobre los perjuicios reclamados: El tribunal determina que los honorarios del abogado no
+constituyen un perjuicio indemnizable separadamente, sino que forman parte de las agencias en
+derecho dentro de las costas procesales.
+5. Aplicación del Decreto 482 de 2020: El tribunal valida la entrega del voucher como forma de
+reembolso conforme al Decreto 482 de 2020, considerando que esta medida es proporcional y
+busca proteger la estabilidad financiera del sector aéreo durante la pandemia.
+Decisión
+1. Declarar que Fast Colombia S.A.S.
+v
+ulneró el deber de información.
+2. Abstenerse de impartir órdenes adicionales respecto a la pretensión de perjuicios, al no haberse
+acreditado daños específicos derivados del incumplimiento del deber de información.
+3. Condenar en costas a la parte demandada, fijando por concepto de agencias en derecho la suma
+de $76.000.
+4. Archivar las diligencias.
+Precedente Establecido
+La sentencia establece un importante precedente sobre el deber de información de las aerolíneas y la
+procedencia de reembolsos mediante vouchers durante la emergencia sanitaria. Específicamente
+determina que las aerolíneas tienen la obligación de informar oportunamente cualquier cancelación de
+uelo, y su incumplimiento genera responsabilidad por los daños derivados.
+Sin embargo, durante la emergencia por COVID-19 y hasta un año después, es legítimo que las
+aerolíneas realicen reembolsos mediante vouchers redimibles en sus servicios, sin que esto constituya
+una v
+ulneración al derecho de elección del consumidor. Esta limitación temporal del derecho de
+elección se considera proporcional y orientada al fin constitucional válido de evitar la descapitalización
+del sector aéreo.
+El precedente también establece que cualquier daño reclamado como consecuencia del
+incumplimiento del deber de información debe ser específicamente demostrado, y que los honorarios
+de abogado no constituyen un perjuicio indemnizable separadamente, sino que forman parte de las
+costas procesales.
+v
